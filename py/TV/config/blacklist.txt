@@ -192,3 +192,4 @@ www.goodiptv.club:443
 live.wcetv.com:443
 tvdrs.wsrtv.com.cn:8100
 1.195.130.206:9901
+120.76.248.139:80
