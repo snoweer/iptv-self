@@ -225,3 +225,5 @@ p2.vzan.com:80
 uzoiczhh.live.sxmty.com:80
 125.42.148.217:9901
 182.120.229.134:9901
+kdfile.ganzitv.com:80
+live.cms.anhuinews.com:80
