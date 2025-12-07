@@ -222,3 +222,4 @@ dxtx.hntv.tv:443
 p2.vzan.com:80
 125.42.151.241:9901
 221.13.234.81:9901
+uzoiczhh.live.sxmty.com:80
