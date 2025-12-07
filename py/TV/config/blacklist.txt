@@ -227,3 +227,5 @@ uzoiczhh.live.sxmty.com:80
 182.120.229.134:9901
 kdfile.ganzitv.com:80
 live.cms.anhuinews.com:80
+123.54.220.201:9901
+36.40.237.83:9999
