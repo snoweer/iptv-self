@@ -240,3 +240,8 @@ file.loulannews.cn:80
 101.74.28.209:9901
 tvcdn.stream3.hndt.com:80
 iptv.vip-tptv.xyz:443
+101.66.199.182:9901
+gcalic.v.myalicdn.com:443
+play-radio-stream3.hndt.com:80
+zbbf2.ahbztv.com:80
+101.74.28.117:9901
