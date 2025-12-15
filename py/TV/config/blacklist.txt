@@ -329,3 +329,4 @@ satellitepull.cnr.cn:80
 lxajh.top:80
 dtrmlive.qhdtrm.cn:80
 101.66.198.180:9901
+drive.mxmy.net:8888
