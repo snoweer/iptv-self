@@ -345,3 +345,5 @@ drive.mxmy.net:8888
 125.42.151.128:9901
 1.195.130.114:9901
 other.ottiptv.cc:443
+hls.cntv.lxdns.com:443
+srs.ssws.tv:443
