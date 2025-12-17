@@ -349,3 +349,5 @@ hls.cntv.lxdns.com:443
 srs.ssws.tv:443
 221.193.168.220:9901
 tv.greatstar.me:80
+bp-resource-dfl.bestv.cn:80
+182.114.48.93:9901
