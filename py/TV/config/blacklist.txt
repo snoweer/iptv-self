@@ -355,3 +355,4 @@ bp-resource-dfl.bestv.cn:80
 221.13.235.152:9901
 mag.greatott.me:80
 tv.trexiptv.com:80
+huanqiuzhibo.cn:80
