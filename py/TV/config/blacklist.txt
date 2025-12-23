@@ -413,3 +413,6 @@ file.ysxtv.cn:80
 125.43.244.175:9901
 grandprix2023.asuscomm.com:8892
 182.114.49.123:9901
+iptv.catvod.com:443
+fenghuang.tv12.xyz:443
+lu.wqwqwq.sbs:80
