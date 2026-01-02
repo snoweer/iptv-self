@@ -505,3 +505,5 @@ live.shaoxing.com.cn:80
 125.42.148.189:9901
 hzzzz530.com:4022
 221.193.168.153:9901
+smt.veryfast.filegear-sg.me:80
+121.19.134.179:808
