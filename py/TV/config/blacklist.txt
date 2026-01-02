@@ -507,3 +507,6 @@ hzzzz530.com:4022
 221.193.168.153:9901
 smt.veryfast.filegear-sg.me:80
 121.19.134.179:808
+221.193.168.9:9901
+101.66.195.105:9901
+gcwbndali.v.myalicdn.com:443
