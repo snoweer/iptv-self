@@ -543,3 +543,4 @@ liveout.xntv.tv:443
 221.193.168.115:9901
 v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
 221.13.234.32:9901
+hlscdn.liangtv.cn:80
