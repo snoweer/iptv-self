@@ -3534,3 +3534,5 @@ hlsztemgsplive.miguvideo.com
 106.83.118.51
 118.180.142.247
 58.46.70.66
+smt.veryfast.filegear-sg.me
+hlscdn.liangtv.cn
