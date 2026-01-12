@@ -620,3 +620,6 @@ pili-live-hls-sjxgz2024.sobeylive.com:443
 3739115337.cloudvdn.com:80
 live.wjyanghu.com:80
 live.zzyxxw.com:85
+113.195.172.192:808
+125.42.150.236:9901
+125.42.150.60:9901
