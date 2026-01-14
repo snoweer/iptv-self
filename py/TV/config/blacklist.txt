@@ -635,3 +635,6 @@ www.ahtv.cn:443
 182.114.49.53:9901
 107.173.38.42:28278
 221.13.234.121:9901
+vapi.91kds.cc:80
+keke.kandiantv.cn:80
+p2.bdstatic.com:443
