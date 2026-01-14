@@ -638,3 +638,5 @@ www.ahtv.cn:443
 vapi.91kds.cc:80
 keke.kandiantv.cn:80
 p2.bdstatic.com:443
+125.42.148.89:9901
+mypanel-4k.com:80
