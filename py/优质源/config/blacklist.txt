@@ -3611,3 +3611,8 @@ v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com
 171.113.216.172
 36.46.98.119
 live.nctv.top
+pull-hls-f1.douyincdn.com
+220.176.218.70
+bp-resource-dfl.bestv.cn
+39.77.27.246
+114.100.195.85
