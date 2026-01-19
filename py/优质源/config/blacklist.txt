@@ -3618,3 +3618,4 @@ bp-resource-dfl.bestv.cn
 114.100.195.85
 101.66.195.54
 36.46.98.87
+iptv.catvod.com
