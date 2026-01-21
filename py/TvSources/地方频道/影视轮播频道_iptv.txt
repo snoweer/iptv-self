@@ -1,8 +1,8 @@
 影视轮播频道,#genre#
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 安徽影视,http://112.27.235.94:8000/hls/24/index.m3u8
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=5dc80f847f41c32d2b07860a6ac3f15ad0dcaaf25694207a480a9545674667c81a6d7fe2e39af80a2dfdf1efd5da57bc2deb2c87f29eb7f71915ac770ce0deacd987f006b2dbcd1b4913fe5478bfe26a97&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
+邵氏影院,https://live.ottiptv.cc/douyu/4246519
+江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=10f2dc70cd9608b4678dde4e3b7abf4cb1d3b09c8fa1dde12806d272505ae08d716f5e19ec372d17a1a283b3bc5c3fbaf2373f7b115827d524176d1e7d81ec15b863bc78c1b82f63e29dbea53b50789250&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
