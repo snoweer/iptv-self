@@ -72,8 +72,6 @@ CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 金鹰卡通,http://101.66.199.137:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.194.59:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.198.64:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 ☘️安徽省,#genre#
 安徽综艺.体育频道,http://112.27.235.94:8000/hls/25/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
@@ -105,7 +103,7 @@ CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/strea
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=8e584202bedc31182c5a9a5338e034e7&wsTime=1769140812
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=8bb4bc5f49658d31064291148d110ee4&wsTime=1769162284
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 靖天戏剧,http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true#http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true#http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
