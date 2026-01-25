@@ -3644,3 +3644,4 @@ iptv.catvod.com
 121.29.141.162
 114.107.47.241
 111.227.202.5
+pull-hs-f5.flive.douyincdn.com
