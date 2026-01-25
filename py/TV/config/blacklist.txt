@@ -695,3 +695,5 @@ dspdhls.appcoo.com:8888
 tvfile.jyrmt.cn:80
 115.48.160.69:9901
 101.66.194.91:9901
+36.40.237.14:9999
+play.scrstv.com.cn:443
