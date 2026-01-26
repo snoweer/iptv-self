@@ -704,3 +704,5 @@ play.scrstv.com.cn:443
 bp-resource-dfl.bestv.cn:443
 pull-hs-f5.flive.douyincdn.com:80
 106.118.70.147:9901
+182.114.49.86:9901
+36.40.237.50:9999
