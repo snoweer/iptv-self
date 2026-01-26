@@ -3645,3 +3645,4 @@ iptv.catvod.com
 114.107.47.241
 111.227.202.5
 pull-hs-f5.flive.douyincdn.com
+hlsal-ldvt.qing.mgtv.com
