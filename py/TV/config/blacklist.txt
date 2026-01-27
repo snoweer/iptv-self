@@ -708,3 +708,5 @@ pull-hs-f5.flive.douyincdn.com:80
 36.40.237.50:9999
 615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn:80
 125.42.150.239:9901
+channel.wcrmt.cn:80
+qcfile.qcrmt.com:80
