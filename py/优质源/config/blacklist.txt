@@ -3664,3 +3664,4 @@ hlsal-ldvt.qing.mgtv.com
 117.36.76.86
 115.171.80.206
 125.80.152.125
+turnerlive.warnermediacdn.com
