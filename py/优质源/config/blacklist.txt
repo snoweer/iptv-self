@@ -3665,3 +3665,4 @@ hlsal-ldvt.qing.mgtv.com
 115.171.80.206
 125.80.152.125
 turnerlive.warnermediacdn.com
+mypanel-4k.com
