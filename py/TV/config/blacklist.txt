@@ -743,3 +743,7 @@ hlscdn.liangtv.cn:443
 play.kankanlive.com:443
 175.155.106.72:89
 ali-m-l.cztv.com:80
+vip.ffzy-play.com:443
+test1.live.sdetv.com.cn:443
+101.74.28.103:9901
+119.39.9.8:9901
