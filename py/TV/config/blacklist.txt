@@ -741,3 +741,5 @@ pull-f3.douyincdn.com:80
 221.13.234.72:9901
 hlscdn.liangtv.cn:443
 play.kankanlive.com:443
+175.155.106.72:89
+ali-m-l.cztv.com:80
