@@ -739,3 +739,5 @@ pull-f3.douyincdn.com:80
 221.13.234.132:9901
 115.48.160.102:9901
 221.13.234.72:9901
+hlscdn.liangtv.cn:443
+play.kankanlive.com:443
