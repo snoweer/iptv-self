@@ -757,3 +757,4 @@ svip.high24-playback.com:443
 221.13.235.180:9901
 play.kankanlive.com:80
 221.13.235.209:9901
+yixing-tv-ori-hls.jstv.com:80
