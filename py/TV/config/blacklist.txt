@@ -759,3 +759,4 @@ play.kankanlive.com:80
 221.13.235.209:9901
 yixing-tv-ori-hls.jstv.com:80
 cdn2.163189.xyz:80
+36.40.237.193:9999
