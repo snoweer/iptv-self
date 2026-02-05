@@ -1,6 +1,7 @@
 上海频道,#genre#
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=9797692d3347e1523805face7e6065af6cc653d82f2a9fd31401c9f3c699571adfd55b13f32e0188f0577e632c0abb7cb5cd15fbd9aa7c19c0055329091d0e6632cca871afc133ca660ecaccc1b1ca014b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=a9c5e0aca67833f00768870433dc6121e6013c3d957ae0ea1dc0a4392281cfc6cce09bbf461c586c1d3a3ce47419b5da4fe5a7c6b1d5a63bc74396ae8f54c50f87bc094979c1f473211c17f46a0adf5286&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=76e954f57b17aa7c36c943ef77000ae5777b8de360465559f752d7320c3c52de2b393652afe4c5efb309faa8544f23b0fc4157b26a1b8f052be63e67610b675b3da45aa2290c20773374ba766fa2d4def7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
