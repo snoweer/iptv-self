@@ -40,8 +40,8 @@ CCTV15,http://113.44.65.227:1234/673168223
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV老故事,http://113.44.65.227:1234/884121956
@@ -87,6 +87,7 @@ CCTV发现之旅,http://113.44.65.227:1234/624878970
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
+金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️重庆市,#genre#
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
@@ -103,7 +104,7 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 其他,#genre#
 CCTV-中国天气,http://113.44.65.227:1234/959986621
 CCTV-中学生,http://113.44.65.227:1234/708869532
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d3c61037c6ab8ce36c7cb2fdc79445cf&wsTime=1770436789
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=42f3823e3d05a08fd6d84a8c970989b9&wsTime=1770458450
 大湾区卫视,http://113.44.65.227:1234/608917627
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 湖南卫视4K,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
