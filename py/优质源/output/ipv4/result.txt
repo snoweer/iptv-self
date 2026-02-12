@@ -3,13 +3,13 @@ CCTV1,http://113.44.65.227:1234/608807420
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2,http://113.44.65.227:1234/631780532
 CCTV3,http://113.44.65.227:1234/624878271
-CCTV4,http://113.44.65.227:1234/608807419
 CCTV4,http://113.44.65.227:1234/608807416
 CCTV4,http://113.44.65.227:1234/631780421
+CCTV4,http://113.44.65.227:1234/608807419
 CCTV4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV5,http://113.44.65.227:1234/641886683
 CCTV5,http://113.44.65.227:1234/641886773
+CCTV5,http://113.44.65.227:1234/641886683
 CCTV6,http://27.41.245.32:801/hls/6/index.m3u8
 CCTV7,http://113.44.65.227:1234/673168121
 CCTV8,http://113.44.65.227:1234/624878356
@@ -33,8 +33,8 @@ CCTV14,http://69.30.246.194/live/cctv14.m3u8
 CCTV15,http://113.44.65.227:1234/673168223
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
-CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://113.44.65.227:1234/673168256
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
