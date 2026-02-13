@@ -4,8 +4,8 @@ CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2,http://113.44.65.227:1234/631780532
 CCTV2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
 CCTV3,http://113.44.65.227:1234/624878271
-CCTV4,http://113.44.65.227:1234/631780421
 CCTV4,http://113.44.65.227:1234/608807416
+CCTV4,http://113.44.65.227:1234/631780421
 CCTV4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV5,http://113.44.65.227:1234/641886683
 CCTV7,http://113.44.65.227:1234/673168121
@@ -14,21 +14,17 @@ CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&aut
 CCTV11,http://69.30.246.194/live/cctv11.m3u8
 CCTV11,http://69.30.246.194/live/cctv11.m3u8
 CCTV12,http://69.30.246.194/live/cctv12.m3u8
-CCTV12,http://69.30.246.194/live/cctv12.m3u8
 CCTV14,http://69.30.246.194/live/cctv14.m3u8
 CCTV14,http://69.30.246.194/live/cctv14.m3u8
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
-CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17,http://113.44.65.227:1234/673168256
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV风云足球,http://27.41.245.32:801/hls/906/index.m3u8
 CCTV发现之旅,http://113.44.65.227:1234/624878970
 卫视频道,#genre#
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
@@ -39,7 +35,6 @@ CCTV发现之旅,http://113.44.65.227:1234/624878970
 江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
 江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
-江苏卫视,http://69.30.246.194/live/jsws.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-5.m3u8
 重庆卫视,http://113.44.65.227:1234/738910914
 东南卫视,http://113.44.65.227:1234/849116810
@@ -47,8 +42,8 @@ CCTV发现之旅,http://113.44.65.227:1234/624878970
 深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://113.44.65.227:1234/608831231
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
 河北卫视,http://113.44.65.227:1234/962042070
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
@@ -67,7 +62,6 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
-金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️重庆市,#genre#
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
@@ -84,7 +78,7 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 CCTV-中国天气,http://113.44.65.227:1234/959986621
 CCTV-中学生,http://113.44.65.227:1234/708869532
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e4107be18af6e4352c78ab21498f65c9&wsTime=1770955142
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ff8871469d0d143f53f9a8aa527cacc8&wsTime=1770976787
 大湾区卫视,http://113.44.65.227:1234/608917627
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 湖南卫视4K,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
