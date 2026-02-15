@@ -825,3 +825,5 @@ iptv.hn.cn:1258
 121.19.134.69:808
 125.42.150.61:9901
 video.bread-tv.com:8091
+hls.168.us.kg:80
+mgsp-tx2.live.miguvideo.com:8088
