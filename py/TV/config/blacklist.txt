@@ -828,3 +828,4 @@ video.bread-tv.com:8091
 hls.168.us.kg:80
 mgsp-tx2.live.miguvideo.com:8088
 125.42.150.201:9901
+36.40.237.35:9999
