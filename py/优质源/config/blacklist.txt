@@ -3740,3 +3740,4 @@ mgsp-tx2.live.miguvideo.com
 113.44.65.227
 video.bread-tv.com
 mgsp-zy.vod.miguvideo.com
+101.200.122.188
