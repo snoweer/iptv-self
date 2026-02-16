@@ -3741,3 +3741,10 @@ mgsp-tx2.live.miguvideo.com
 video.bread-tv.com
 mgsp-zy.vod.miguvideo.com
 101.200.122.188
+220.176.218.38
+114.100.195.110
+223.198.243.51
+27.184.29.188
+113.119.25.56
+106.116.241.106
+zebe.dpdns.org
