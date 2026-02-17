@@ -3750,3 +3750,4 @@ mgsp-zy.vod.miguvideo.com
 zebe.dpdns.org
 mgsp-yx2.live.miguvideo.com
 mgsp-hs2.live.miguvideo.com
+pull-hls-f11.douyincdn.com
