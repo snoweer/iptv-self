@@ -839,3 +839,4 @@ mgsp-tx2.live.miguvideo.com:8088
 101.66.199.219:9901
 36.32.174.67:60080
 125.42.150.159:9901
+pull-hls-f11.douyincdn.com:80
