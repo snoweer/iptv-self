@@ -3748,3 +3748,5 @@ mgsp-zy.vod.miguvideo.com
 113.119.25.56
 106.116.241.106
 zebe.dpdns.org
+mgsp-yx2.live.miguvideo.com
+mgsp-hs2.live.miguvideo.com
