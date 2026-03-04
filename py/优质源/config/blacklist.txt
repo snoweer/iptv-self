@@ -3876,3 +3876,5 @@ flvhspull2mgsplive.miguvideo.com
 114.238.59.116
 114.226.212.156
 171.8.194.209
+gxlive.snrtv.com
+42.237.157.250
