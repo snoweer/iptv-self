@@ -1,9 +1,9 @@
 央视频道,#genre#
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV1,http://114.254.83.60:8888/rtp/239.3.1.129:8008
-CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV2,http://114.254.83.60:8888/rtp/239.3.1.60:8084
 CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV3,http://114.254.83.60:8888/rtp/239.3.1.172:8001
@@ -44,8 +44,8 @@ CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,http://114.254.83.60:8888/rtp/239.3.1.124:8128
 CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV14,http://114.254.83.60:8888/rtp/239.3.1.65:8132
-CCTV15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV15,http://114.254.83.60:8888/rtp/239.3.1.153:8136
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
@@ -110,6 +110,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 睛彩篮球,http://114.254.83.60:8888/rtp/239.3.1.126:8001
 NewTV古装剧场,http://114.254.83.60:8888/rtp/239.3.1.69:4120
 嘉佳卡通,http://114.254.83.60:8888/rtp/239.3.1.147:9268
+金鹰卡通,http://221.13.235.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://114.254.83.60:8888/rtp/239.3.1.51:9252
 ☘️北京市,#genre#
 北京国际频道,http://114.254.83.60:8888/rtp/239.3.1.235:8000
@@ -161,7 +162,7 @@ CGTN纪录,http://114.254.83.60:8888/rtp/239.3.1.216:4220
 CGTN英语,http://114.254.83.60:8888/rtp/239.3.1.215:4220
 CGTN西班牙语,http://114.254.83.60:8888/rtp/239.3.1.217:4220
 CGTN阿拉伯语,http://114.254.83.60:8888/rtp/239.3.1.219:4220
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 HBO,http://104.250.145.76/livehttpplay?channel_id=23356
 IPTV10解密,http://114.254.83.60:8888/rtp/239.3.1.75:4120
 IPTV11戏曲,http://114.254.83.60:8888/rtp/239.3.1.78:4120
@@ -195,7 +196,7 @@ IPTV鉴赏,http://114.254.83.60:8888/rtp/239.3.1.82:4120
 华数精选,http://114.254.83.60:8888/rtp/239.3.1.74:4120
 华数经典电影,http://114.254.83.60:8888/rtp/239.3.1.195:9024
 华数魅力时尚,http://114.254.83.60:8888/rtp/239.3.1.196:9012
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=fab23971e734e630e8a5d29487f9366a&wsTime=1773201603
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=fa3c5d45d3a950633bd35a552fe95edc&wsTime=1773223082
 延庆电视台,http://114.254.83.60:8888/rtp/239.3.1.187:8001
 朝阳融媒,http://114.254.83.60:8888/rtp/239.3.1.163:8001
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
