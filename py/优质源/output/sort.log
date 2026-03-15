@@ -1,624 +1,384 @@
-测速日志 2026-03-15 02:28:21
-[2026-03-15 02:28:24] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-03-15 02:28:24] ✅ 测速成功: http://74.91.26.218:82/live/cctv4hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:28:24] ✅ 测速成功: http://74.91.26.218:82/live/cctv5p.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:28:24] ✅ 测速成功: http://74.91.26.218:82/live/cctv9hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:28:24] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.235:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.62s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.243:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.98s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.159:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.08s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.116:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.08s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.115:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.189:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.241:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.09s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.158:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.09s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.117:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.04s
-[2026-03-15 02:28:27] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.242:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.09s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.105:8092
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.174:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.175:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.130:8004
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.129:8008
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.62:8112
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.60:8084
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.173:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.61:8104
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:30] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.172:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.152:8120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.184:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.124:8128
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.64:8124
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.65:8132
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.153:8136
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.151:8144
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.132:8012
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.136:8032
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:33] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.63:8116
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.211:8064
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.134:8020
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.209:8052
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.141:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.137:8036
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.210:8056
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.148:8072
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.142:8048
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.122:8160
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:36] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.135:8028
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.45:8304
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.133:8016
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.156:8148
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.149:8076
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.123:8164
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.29:8288
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.240:8172
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.138:8044
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.26:8108
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:39] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.46:8124
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.47:8164
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.48:8160
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.42:8172
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.49:8188
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.155:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.41:8140
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.44:8184
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.27:8128
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.39:8300
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:28:42] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.43:8176
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.249:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.143:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.213:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.236:2000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.102:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.100:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.95:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.238:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.144:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:28:45] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.250:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.215:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.219:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.54:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.220:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.216:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.218:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.217:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.56:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.214:4220
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:28:48] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.57:8152
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.58:8156
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.96:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.221:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.154:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.188:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.165:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.164:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.187:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.94:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:51] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.163:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.194:9020
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.74:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.92:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.90:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.91:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.68:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.196:9012
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.195:9024
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.67:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:54] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.93:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.85:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.147:9268
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.76:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.51:9252
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.75:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.77:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.69:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.199:9000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.71:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:28:57] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.80:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.87:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.83:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.86:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.78:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.79:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.73:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.72:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.193:8012
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.81:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:29:00] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.52:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.01s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.89:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.127:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.126:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.70:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.128:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.99s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.82:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.125:8001
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:03] ✅ 测速成功: http://114.254.83.60:8888/rtp/239.3.1.84:4120
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 3.00s
-[2026-03-15 02:29:03] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.241:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.241:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6617240>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:03] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.159:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.159:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc66156a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.158:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.158:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6617680>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.242:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.242:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6616f10>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.117:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.117:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6615260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.115:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.115:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6617460>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.116:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.116:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6616580>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.235:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.235:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc66168b0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.243:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.243:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6616e00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.189:8000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.189:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6616140>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.129:8008
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.129:8008 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6616690>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:06] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.60:8084
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.60:8084 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6617350>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.172:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.172:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6615370>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.105:8092
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.105:8092 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6615590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.173:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.173:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc66178a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.130:8004
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.130:8004 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6617bd0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.174:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.174:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc6617f00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.61:8104
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.61:8104 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bc270>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.175:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.175:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bc8d0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.62:8112
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.62:8112 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bc5a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.63:8116
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.63:8116 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bcc00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:09] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.152:8120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.152:8120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bcf30>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.64:8124
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.64:8124 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bd260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.65:8132
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.65:8132 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bd8c0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.124:8128
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.124:8128 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bd590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.136:8032
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.136:8032 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42be8b0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.153:8136
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.153:8136 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bdbf0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.184:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.184:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bdf20>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.132:8012
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.132:8012 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42be580>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.151:8144
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.151:8144 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42be250>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.137:8036
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.137:8036 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bebe0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:12] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.135:8028
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.135:8028 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bef10>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.134:8020
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.134:8020 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bf240>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.142:8048
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.142:8048 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bf570>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.211:8064
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.211:8064 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bf8a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.141:1234
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.141:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bfbd0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.122:8160
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.122:8160 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42bff00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.209:8052
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.209:8052 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4320270>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.210:8056
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.210:8056 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc43205a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.148:8072
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.148:8072 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc43208d0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.240:8172
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.240:8172 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4320f30>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:15] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.138:8044
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.138:8044 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4320c00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.123:8164
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.123:8164 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4321590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.149:8076
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.149:8076 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4321260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.156:8148
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.156:8148 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc43218c0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.45:8304
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.45:8304 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4321bf0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.133:8016
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.133:8016 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4321f20>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.26:8108
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.26:8108 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4322250>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.29:8288
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.29:8288 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4322580>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.46:8124
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.46:8124 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc43228b0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.42:8172
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.42:8172 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4322be0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:18] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.39:8300
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.39:8300 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4322f10>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.48:8160
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.48:8160 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4323240>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.27:8128
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.27:8128 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4323570>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.41:8140
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.41:8140 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4323f00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.47:8164
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.47:8164 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4323bd0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.49:8188
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.49:8188 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc43238a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.44:8184
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.44:8184 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a8270>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.155:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.155:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a88d0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.43:8176
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.43:8176 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a85a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.144:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.144:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a8f30>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:21] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.143:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.143:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a8c00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.249:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.249:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a9590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.250:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.250:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a9f20>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.100:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.100:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a98c0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.236:2000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.236:2000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a9260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.238:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.238:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41aa250>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.95:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.95:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41a9bf0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.102:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.102:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41aa580>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.213:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.213:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41aa8b0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.214:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.214:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41aabe0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:24] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.215:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.215:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41aaf10>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.216:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.216:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41ab240>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.217:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.217:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41ab570>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.218:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.218:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41ab8a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.220:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.220:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41abf00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.219:4220
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.219:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc41abbd0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.57:8152
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.57:8152 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4208270>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.56:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.56:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42088d0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.54:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.54:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42085a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.188:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.188:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4208c00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:27] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.163:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.163:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4208f30>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.221:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.221:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4209260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.187:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.187:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4209bf0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.154:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.154:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc42098c0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.96:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.96:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4209590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.165:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.165:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420a250>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.58:8156
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.58:8156 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4209f20>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.94:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.94:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420a8b0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.164:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.164:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420a580>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.92:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.92:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420abe0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:30] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.91:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.91:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420af10>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.195:9024
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.195:9024 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420bbd0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.74:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.74:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420b570>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.93:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.93:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420b240>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.68:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.68:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4088270>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.194:9020
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.194:9020 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420b8a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.67:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.67:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc420bf00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.90:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.90:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40885a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.196:9012
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.196:9012 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40888d0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.199:9000
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.199:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4088f30>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:33] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.69:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.69:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4088c00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.80:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.80:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4089260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.147:9268
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.147:9268 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40898c0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.71:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.71:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4089590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.51:9252
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.51:9252 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4089bf0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.85:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.85:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408a580>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.75:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.75:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc4089f20>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.76:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.76:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408a250>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.77:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.77:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408a8b0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.83:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.83:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408abe0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:36] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.81:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.81:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408af10>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.52:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.52:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408b240>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.78:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.78:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408b570>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.193:8012
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.193:8012 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408b8a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.87:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.87:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408bf00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.79:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.79:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc408bbd0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.86:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.86:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f4270>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.73:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.73:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f45a0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.72:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.72:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f48d0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=b60461791f14e7ada5a454c48671e74f&wsTime=1773525658 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.89:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.89:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f4c00>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.82:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.82:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f4f30>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv1hd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv4k.m3u8
-   速度: 206.05KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv6hd.m3u8
-   速度: 199.22KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv9hd.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:39] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv10hd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv12hd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:39] ✅ 测速成功: http://107.150.60.122/live/cctv16hd.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://107.150.60.122/live/cctv5p.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv3hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv4hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv5hd.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv5p.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-03-15 02:29:40] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv12hd.m3u8
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv16hd.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-   速度: 269.53KB/s | 数据量: 0.3KB | 总耗时: 0.66s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv2hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv9hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:40] ✅ 测速成功: http://74.91.26.218:82/live/cctv15hd.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:41] ✅ 测速成功: http://107.150.60.122/live/ysjp.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:41] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-03-15 02:29:41] ✅ 测速成功: http://107.150.60.122/live/cqwshd.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:41] ✅ 测速成功: http://107.150.60.122/live/dfwshd.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:41] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.45s
-[2026-03-15 02:29:41] ✅ 测速成功: http://107.150.60.122/live/gdwshd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:41] ✅ 测速成功: http://107.150.60.122/live/hnwshd.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:41] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.94s
-[2026-03-15 02:29:41] ✅ 测速成功: http://107.150.60.122/live/qhws.m3u8
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:42] ✅ 测速成功: http://107.150.60.122/live/sdwshd.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:42] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-   速度: 1967.77KB/s | 数据量: 2.0KB | 总耗时: 0.59s
-[2026-03-15 02:29:42] ✅ 测速成功: http://107.150.60.122/live/snwshd.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:42] ✅ 测速成功: http://107.150.60.122/live/szwshd.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:42] ✅ 测速成功: http://107.150.60.122/live/tjwshd.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:42] ✅ 测速成功: http://107.150.60.122/live/xzws.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-03-15 02:29:42] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.44s
-[2026-03-15 02:29:42] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.70:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.70:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f5260>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:42] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.84:4120
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.84:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f5590>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:42] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.127:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.127:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f5f20>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:42] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.125:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.125:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f58c0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:42] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.128:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.128:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f6250>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:42] ✅ 测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-   速度: 223.51KB/s | 数据量: 103.6KB | 总耗时: 1.98s
-[2026-03-15 02:29:42] ❌ 测速失败: http://123.118.57.24:8686/rtp/239.3.1.126:8001
-   错误: HTTPConnectionPool(host='123.118.57.24', port=8686): Max retries exceeded with url: /rtp/239.3.1.126:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.118.57.24', port=8686) at 0x7ffbc40f5bf0>, 'Connection to 123.118.57.24 timed out. (connect timeout=3.05)')) | 域名: 123.118.57.24
-[2026-03-15 02:29:43] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.30s
-[2026-03-15 02:29:43] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.31s
-[2026-03-15 02:29:43] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.31s
-[2026-03-15 02:29:43] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.35s
-[2026-03-15 02:29:43] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.36s
-[2026-03-15 02:29:43] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-   速度: 230.47KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-03-15 02:29:44] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 3.05s
-[2026-03-15 02:29:44] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 2.07s
-[2026-03-15 02:29:44] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 2.20s
-[2026-03-15 02:29:51] ✅ 测速成功: http://104.250.145.76/livehttpplay?channel_id=23356
-   速度: 249.09KB/s | 数据量: 2048.0KB | 总耗时: 8.47s
+测速日志 2026-03-15 09:48:12
+[2026-03-15 09:48:15] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.04s
+[2026-03-15 09:48:15] ✅ 测速成功: http://74.91.26.218:82/live/cctv5p.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:15] ✅ 测速成功: http://74.91.26.218:82/live/cctv4hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:15] ✅ 测速成功: http://74.91.26.218:82/live/cctv9hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:15] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.241:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.241:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6f2330>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.158:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.158:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6babe0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.159:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.159:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6ba580>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.242:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.242:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bacf0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.116:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.116:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bae00>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.117:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.117:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6b98c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.115:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.115:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bb020>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.189:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.189:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6b96a0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.243:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.243:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bb460>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:18] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.235:8000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.235:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bb240>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.105:8092
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.105:8092 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6b9260>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.129:8008
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.129:8008 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bb130>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.60:8084
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.60:8084 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6b8e20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.172:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.172:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6b9480>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.173:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.173:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bbac0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.130:8004
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.130:8004 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059f6bbdf0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.174:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.174:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c324160>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.61:8104
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.61:8104 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c324490>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.175:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.175:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c3247c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:21] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.62:8112
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.62:8112 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c324af0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.63:8116
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.63:8116 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c324e20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.65:8132
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.65:8132 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c3259d0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.64:8124
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.64:8124 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c325590>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.152:8120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.152:8120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c325ae0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.124:8128
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.124:8128 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c3258c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.153:8136
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.153:8136 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c325e10>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.184:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.184:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c326140>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.151:8144
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.151:8144 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c326470>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.132:8012
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.132:8012 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c3267a0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:24] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.136:8032
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.136:8032 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c326ad0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.137:8036
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.137:8036 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c326e00>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.135:8028
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.135:8028 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c327130>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.142:8048
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.142:8048 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c327790>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.134:8020
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.134:8020 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c327460>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.211:8064
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.211:8064 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c327ac0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.141:1234
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.141:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c327df0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.122:8160
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.122:8160 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39c160>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.209:8052
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.209:8052 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39c490>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.148:8072
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.148:8072 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39c7c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:27] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.210:8056
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.210:8056 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39caf0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.138:8044
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.138:8044 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39ce20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.149:8076
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.149:8076 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39d480>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.240:8172
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.240:8172 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39d150>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.156:8148
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.156:8148 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39d7b0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.123:8164
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.123:8164 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39dae0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.45:8304
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.45:8304 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39de10>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.133:8016
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.133:8016 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39e140>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.26:8108
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.26:8108 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39e470>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.29:8288
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.29:8288 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39e7a0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:30] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.46:8124
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.46:8124 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39ead0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.42:8172
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.42:8172 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39ee00>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.27:8128
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.27:8128 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39f790>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.39:8300
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.39:8300 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39f130>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.48:8160
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.48:8160 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39f460>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.49:8188
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.49:8188 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39fac0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.47:8164
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.47:8164 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c39fdf0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.41:8140
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.41:8140 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c210160>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.43:8176
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.43:8176 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c2107c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.44:8184
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.44:8184 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c210490>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:33] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.155:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.155:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c210af0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.143:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.143:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c210e20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.144:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.144:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c211480>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.236:2000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.236:2000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c211150>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.249:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.249:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c2117b0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.250:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.250:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c211ae0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.95:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.95:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c211e10>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.100:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.100:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c212140>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.238:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.238:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c212470>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.102:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.102:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c2127a0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:36] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.213:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.213:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c212ad0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.214:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.214:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c212e00>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.215:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.215:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c213130>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.218:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.218:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c213ac0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.216:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.216:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c213460>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.217:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.217:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c213790>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.219:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.219:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c213df0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.220:4220
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.220:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c290160>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.57:8152
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.57:8152 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c290490>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:39] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.54:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.54:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c2907c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:40] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.56:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.56:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c290af0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.188:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.188:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c290e20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.163:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.163:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c291150>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.221:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.221:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c291480>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.154:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.154:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c291ae0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.96:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.96:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c2917b0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.187:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.187:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c291e10>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.58:8156
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.58:8156 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c292140>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.165:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.165:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c292470>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:42] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.164:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.164:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c2927a0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:43] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.94:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.94:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c292ad0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.92:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.92:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c292e00>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.93:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.93:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c293460>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.74:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.74:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c293790>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.91:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.91:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c293130>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.195:9024
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.195:9024 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c293ac0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.194:9020
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.194:9020 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c293df0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.68:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.68:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c104160>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.67:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.67:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c104490>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:45] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.90:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.90:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c1047c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:46] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.196:9012
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.196:9012 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c104af0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.199:9000
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.199:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c1057b0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.147:9268
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.147:9268 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c105ae0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.69:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.69:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c104e20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.51:9252
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.51:9252 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c105150>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.80:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.80:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c105480>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.71:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.71:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c105e10>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.75:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.75:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c106140>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.76:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.76:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c106470>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:48] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.85:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.85:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c1067a0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:49] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.77:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.77:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c106ad0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.81:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.81:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c107130>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.52:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.52:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c107460>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.83:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.83:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c106e00>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.193:8012
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.193:8012 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c107ac0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.78:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.78:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c107790>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.79:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.79:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c107df0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.87:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.87:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c180160>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.86:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.86:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c180490>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.73:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.73:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c1807c0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:51] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=b6313fb09f8861f4a07151e7e1e21215&wsTime=1773547243 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-03-15 09:48:51] ✅ 测速成功: http://107.150.60.122/live/cctv1hd.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:51] ✅ 测速成功: http://107.150.60.122/live/cctv2hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:51] ✅ 测速成功: http://107.150.60.122/live/cctv4k.m3u8
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv4hd.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv5hd.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv6hd.m3u8
+   速度: 199.22KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv8k.m3u8
+   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.72:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.72:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c180af0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv9hd.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv10hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv12hd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv15hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv16hd.m3u8
+   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://107.150.60.122/live/cctv5p.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv3hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv4hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv5hd.m3u8
+   速度: 189.45KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv5p.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-03-15 09:48:53] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-03-15 09:48:53] ✅ 测速成功: http://74.91.26.218:82/live/cctv8hd.m3u8
+   速度: 208.98KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-03-15 09:48:54] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+   速度: 268.55KB/s | 数据量: 0.3KB | 总耗时: 0.88s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv11hd.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.81s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv12hd.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv17hd.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv2hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv7hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv10hd.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv9hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://74.91.26.218:82/live/cctv14hd.m3u8
+   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-03-15 09:48:54] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-03-15 09:48:54] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/wsjk.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.89:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.89:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c180e20>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.125:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.125:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c181ae0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.82:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.82:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c181150>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.70:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.70:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c181480>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.84:4120
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.84:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c1817b0>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/cqwshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.126:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.126:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c181e10>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.127:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.127:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c182140>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ❌ 测速失败: http://114.254.83.60:8888/rtp/239.3.1.128:8001
+   错误: HTTPConnectionPool(host='114.254.83.60', port=8888): Max retries exceeded with url: /rtp/239.3.1.128:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.83.60', port=8888) at 0x7f059c182470>, 'Connection to 114.254.83.60 timed out. (connect timeout=3.05)')) | 域名: 114.254.83.60
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/gdwshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/jswshd.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/dnwshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/qhws.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/lnwshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/snwshd.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/szwshd.m3u8
+   速度: 184.57KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/xzws.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:54] ✅ 测速成功: http://107.150.60.122/live/tjwshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-03-15 09:48:55] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-03-15 09:48:55] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.11s
+[2026-03-15 09:48:55] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.38s
+[2026-03-15 09:48:55] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.39s
+[2026-03-15 09:48:55] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.39s
+[2026-03-15 09:48:55] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.01s
+[2026-03-15 09:48:55] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.46s
+[2026-03-15 09:48:55] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.61s
+[2026-03-15 09:48:55] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+   速度: 231.45KB/s | 数据量: 0.2KB | 总耗时: 0.60s
+[2026-03-15 09:48:55] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.14s
+[2026-03-15 09:48:56] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 508.79KB/s | 数据量: 0.5KB | 总耗时: 1.64s
+[2026-03-15 09:48:56] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 508.79KB/s | 数据量: 0.5KB | 总耗时: 1.63s
+[2026-03-15 09:49:03] ✅ 测速成功: http://104.250.145.76/livehttpplay?channel_id=23356
+   速度: 254.02KB/s | 数据量: 2048.0KB | 总耗时: 8.29s
