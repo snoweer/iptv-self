@@ -1,14 +1,14 @@
 央视频道,#genre#
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
-CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV4,http://107.150.60.122/live/cctv4k.m3u8
-CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV4,http://107.150.60.122/live/cctv4k.m3u8
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
@@ -31,8 +31,8 @@ CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15,http://107.150.60.122/live/cctv15hd.m3u8
-CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
@@ -54,8 +54,8 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️福建省,#genre#
 厦门卫视,http://125.42.150.214:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 ☘️天津市,#genre#
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 ☘️港·澳·台,#genre#
@@ -64,6 +64,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 HBO,http://104.250.145.76/livehttpplay?channel_id=23356
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=6e3c01f702f1519f2aaddcba96ccc94c&wsTime=1773568704
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d7c1aff01f50a9703a384853b4fe64c4&wsTime=1773590360
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 湖南卫视4K,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://69.30.246.194/live/hnws.m3u8
