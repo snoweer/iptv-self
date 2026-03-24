@@ -44,8 +44,8 @@ CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
-CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 卫视频道,#genre#
@@ -70,8 +70,8 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 数字频道,#genre#
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 ☘️新疆,#genre#
 新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
 ☘️天津市,#genre#
@@ -86,9 +86,9 @@ CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8#http://107.150.60.122/live/ysjp.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 东方卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=a4e93d2151a602684a84d3017c2cdd10&wsTime=1774324778
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=cb2f73ad51855abab6aac1c8b2953866&wsTime=1774346460
 广东卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 江苏卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
