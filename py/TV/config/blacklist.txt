@@ -915,3 +915,6 @@ cdn3.163189.xyz:80
 v3.mediacast.hk:443
 php.jdshipin.com:2096
 148.113.160.49:14176
+www.goodiptv.club:80
+219.150.217.47:6610
+182.114.48.128:9901
