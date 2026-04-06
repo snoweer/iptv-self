@@ -21,17 +21,19 @@ CCTV6,http://114.254.85.177:8888/rtp/239.3.1.174:8001
 CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV7,http://114.254.85.177:8888/rtp/239.3.1.61:8104
 CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV8,http://114.254.85.177:8888/rtp/239.3.1.175:8001
-CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9,http://114.254.85.177:8888/rtp/239.3.1.62:8112
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV10,http://114.254.85.177:8888/rtp/239.3.1.63:8116
 CCTV11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV11,http://114.254.85.177:8888/rtp/239.3.1.152:8120
+CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://114.254.85.177:8888/rtp/239.3.1.64:8124
 CCTV13,http://114.254.85.177:8888/rtp/239.3.1.124:8128
@@ -46,6 +48,7 @@ CETV2,http://114.254.85.177:8888/rtp/239.3.1.54:4120
 CETV4,http://114.254.85.177:8888/rtp/239.3.1.56:4120
 卫视频道,#genre#
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://114.254.85.177:8888/rtp/239.3.1.132:8012
 浙江卫视,http://114.254.85.177:8888/rtp/239.3.1.137:8036
@@ -96,7 +99,6 @@ CETV4,http://114.254.85.177:8888/rtp/239.3.1.56:4120
 三沙卫视,http://114.254.85.177:8888/rtp/239.3.1.155:4120
 数字频道,#genre#
 CHC家庭影院,http://47.92.252.72:3566/952383261
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 华数爱上4K,http://114.254.85.177:8888/rtp/239.3.1.236:2000
 睛彩竞技,http://114.254.85.177:8888/rtp/239.3.1.125:8001
 睛彩篮球,http://114.254.85.177:8888/rtp/239.3.1.126:8001
@@ -150,7 +152,7 @@ CGTN纪录,http://114.254.85.177:8888/rtp/239.3.1.216:4220
 CGTN英语,http://114.254.85.177:8888/rtp/239.3.1.215:4220
 CGTN西班牙语,http://114.254.85.177:8888/rtp/239.3.1.217:4220
 CGTN阿拉伯语,http://114.254.85.177:8888/rtp/239.3.1.219:4220
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 IPTV10解密,http://114.254.85.177:8888/rtp/239.3.1.75:4120
 IPTV11戏曲,http://114.254.85.177:8888/rtp/239.3.1.78:4120
 IPTV14早教,http://114.254.85.177:8888/rtp/239.3.1.79:4120
@@ -184,7 +186,7 @@ IPTV鉴赏,http://114.254.85.177:8888/rtp/239.3.1.82:4120
 华数精选,http://114.254.85.177:8888/rtp/239.3.1.74:4120
 华数经典电影,http://114.254.85.177:8888/rtp/239.3.1.195:9024
 华数魅力时尚,http://114.254.85.177:8888/rtp/239.3.1.196:9012
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=45f2f4e73f16e20d86a1e9d4700836c9&wsTime=1775447992
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f28cee101b6800f728ff17cfcfbb9045&wsTime=1775469479
 延庆电视台,http://114.254.85.177:8888/rtp/239.3.1.187:8001
 朝阳融媒,http://114.254.85.177:8888/rtp/239.3.1.163:8001
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
