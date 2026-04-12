@@ -1,44 +1,138 @@
 更新时间,#genre#
-2026-04-12 15:15:46,url
+2026-04-13 02:47:14,url
 央视频道,#genre#:
 CCTV3,http://183.164.55.112:5000/udp/238.1.78.170:7232
-CCTV5,http://183.164.55.112:5000/udp/238.1.78.171:7240
-CCTV6,http://183.164.55.112:5000/udp/238.1.78.172:7248
+CCTV5+,http://183.164.55.112:5000/udp/238.1.78.237:7768
 CCTV8,http://183.164.55.112:5000/udp/238.1.78.173:7256
+CCTV9,http://183.164.55.112:5000/udp/238.1.78.240:7792
 
 卫视频道,#genre#:
-三沙卫视,http://183.164.55.112:5000/udp/238.1.78.27:6144
-东方卫视,http://183.164.55.112:5000/udp/238.1.78.163:7176
-内蒙古卫视,http://183.164.55.112:5000/udp/238.1.78.103:6696
-广东卫视,http://183.164.55.112:5000/udp/238.1.78.161:7160
+兵团卫视,http://183.164.55.112:5000/udp/238.1.78.104:6704
+厦门卫视,http://183.164.55.112:5000/udp/238.1.78.246:7840
+四川卫视,http://183.164.55.112:5000/udp/238.1.78.71:6440$标清
+山东卫视,http://183.164.55.112:5000/udp/238.1.78.169:7224
 广东卫视,http://183.164.55.112:5000/udp/238.1.78.68:6416$标清
-广西卫视,http://183.164.55.112:5000/udp/238.1.78.70:6432$标清
-河北卫视,http://183.164.55.112:5000/udp/238.1.78.87:6568$标清
+新疆卫视,http://183.164.55.112:5000/udp/238.1.78.110:6752
 河南卫视,http://183.164.55.112:5000/udp/238.1.78.69:6424$标清
+浙江卫视,http://183.164.55.112:5000/udp/238.1.78.164:7184
 浙江卫视,http://183.164.55.112:5000/udp/238.1.78.65:6392$标清
-深圳卫视,http://183.164.55.112:5000/udp/238.1.78.99:6664$标清
-辽宁卫视,http://183.164.55.112:5000/udp/238.1.78.21:6096
+青海卫视,http://183.164.55.112:5000/udp/238.1.78.102:6688
+黑龙江卫视,http://183.164.55.112:5000/udp/238.1.78.159:7144
+黑龙江卫视,http://183.164.55.112:5000/udp/238.1.78.98:6656$标清
 
 安徽频道,#genre#:
+临泉新闻频道,http://183.164.55.112:5000/udp/238.1.78.29:6160
 五河新闻综合,http://183.164.55.112:5000/udp/238.1.79.52:4528
-六安综合频道,http://183.164.55.112:5000/udp/238.1.78.144:7024
 固镇新闻综合,http://183.164.55.112:5000/udp/238.1.79.47:4488
-安徽综艺体育,http://183.164.55.112:5000/udp/238.1.79.41:4440
+宁国新闻综合,http://183.164.55.112:5000/udp/238.1.78.216:7600
+安庆新闻综合,http://183.164.55.112:5000/udp/238.1.78.117:6808
+宿州公共频道,http://183.164.55.112:5000/udp/238.1.78.122:6848
+宿州新闻综合,http://183.164.55.112:5000/udp/238.1.78.121:6840
 宿州科教频道,http://183.164.55.112:5000/udp/238.1.78.123:6856
+广德生活频道,http://183.164.55.112:5000/udp/238.1.78.213:7576
 旌德新闻综合,http://183.164.55.112:5000/udp/238.1.78.215:7592
+泗县新闻频道,http://183.164.55.112:5000/udp/238.1.78.193:7416
+淮北新闻综合,http://183.164.55.112:5000/udp/238.1.78.135:6952
+淮南新闻综合,http://183.164.55.112:5000/udp/238.1.78.113:6776
 滁州科教频道,http://183.164.55.112:5000/udp/238.1.78.134:6944
+濉溪新闻频道,http://183.164.55.112:5000/udp/238.1.78.209:7544
 界首综合频道,http://183.164.55.112:5000/udp/238.1.78.195:7432
-繁昌新闻综合,http://183.164.55.112:5000/udp/238.1.78.190:7392
-霍邱新闻综合,http://183.164.55.112:5000/udp/238.1.78.119:6824
-黄山文旅频道,http://183.164.55.112:5000/udp/238.1.78.131:6920
+萧县新闻综合,http://183.164.55.112:5000/udp/238.1.79.46:4480
+阜南新闻综合,http://183.164.55.112:5000/udp/238.1.79.11:4200
+阜阳生活频道,http://183.164.55.112:5000/udp/238.1.78.125:6872
+黟县新闻综合,http://183.164.55.112:5000/udp/238.1.78.149:7064
 
 其他频道,#genre#:
-IPTV野外,http://183.164.55.112:5000/udp/238.1.78.4:7936
-世界地理,http://183.164.55.112:5000/udp/238.1.79.60:4616
+CETV1,http://183.164.55.112:5000/udp/238.1.78.158:7136
 央视台球,http://183.164.55.112:5000/udp/238.1.79.59:4608
 文化精品,http://183.164.55.112:5000/udp/238.1.79.54:4568
-爱上4K,http://183.164.55.112:5000/udp/238.1.78.23:6112
+湖南快乐垂钓,http://183.164.55.112:5000/udp/238.1.79.31:4360
+湖南茶频道,http://183.164.55.112:5000/udp/238.1.79.30:4352
 高尔夫网球,http://183.164.55.112:5000/udp/238.1.79.58:4600
 
 
-404: Not Found
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Worker threw exception | gh-proxy.com | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+        <div id="cf-error-details" class="cf-error-details-wrapper">
+            <div class="cf-wrapper cf-header cf-error-overview">
+                <h1>
+                    <span class="cf-error-type" data-translate="error">Error</span>
+                    <span class="cf-error-code">1101</span>
+                    <small class="heading-ray-id">Ray ID: 9eb465fa2c983451 &bull; 2026-04-12 18:47:14 UTC</small>
+                </h1>
+                <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
+            </div><!-- /.header -->
+    
+            <section></section><!-- spacer -->
+    
+            <div class="cf-section cf-wrapper">
+                <div class="cf-columns two">
+                    <div class="cf-column">
+                        <h2 data-translate="what_happened">What happened?</h2>
+                            <p>You've requested a page on a website (gh-proxy.com) that is on the <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_100x" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
+                    </div>
+                    
+                    <div class="cf-column">
+                        <h2 data-translate="what_can_i_do">What can I do?</h2>
+                            <p><strong>If you are the owner of this website:</strong><br />refer to <a href="https://developers.cloudflare.com/workers/observability/errors/" target="_blank">Workers - Errors and Exceptions</a> and check Workers Logs for gh-proxy.com.</p>
+                    </div>
+                    
+                </div>
+            </div><!-- /.section -->
+    
+            <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9eb465fa2c983451</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">52.238.24.33</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+        </div><!-- /#cf-error-details -->
+    </div><!-- /#cf-wrapper -->
+
+     <script>
+    window._cf_translation = {};
+    
+    
+  </script> 
+</body>
+</html>
