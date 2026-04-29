@@ -945,3 +945,10 @@ live.tvfix.org:443
 smt.pixman.us.ci:443
 101.66.199.21:9901
 iptv.huuc.edu.cn:80
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+live.sfrmt.com:85
+36.40.237.95:9999
+221.13.234.233:9901
+shuyang-tv-hls.cm.jstv.com:443
+125.43.244.77:9901
+125.43.244.73:9901
