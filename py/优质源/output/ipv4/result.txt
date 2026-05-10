@@ -1,15 +1,15 @@
 央视频道,#genre#
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV2,http://198.204.228.26/live/cctv2hd.m3u8
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV5,http://192.151.150.154/live/cctv5p.m3u8
 CCTV5+,http://47.108.228.131:12193/live_ywzh.php?id=6
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV8,http://198.204.228.26/live/cctv8hd.m3u8
@@ -92,6 +92,6 @@ HBO,http://nor3live.win:80/livehttpplay?channel_id=23356
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 云南卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 吉林卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=abfa3c84381a8dc4b03ba7311f674f19&wsTime=1778428791
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=fc882b4674ca92eb298bbb20563d02c2&wsTime=1778450436
 大湾区卫视,http://47.108.228.131:12193/live_ywzh.php?id=45
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8#http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
