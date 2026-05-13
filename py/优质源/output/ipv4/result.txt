@@ -22,8 +22,8 @@ CCTV16,http://192.151.150.154/live/cctv16hd.m3u8
 卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 数字频道,#genre#
@@ -32,15 +32,15 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 ☘️福建省,#genre#
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 ☘️港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 公视,http://74.91.26.218:82/live/pts.m3u8
@@ -54,7 +54,7 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 HBO,http://nor3live.win:80/livehttpplay?channel_id=23356
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 东方卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=201eb2eb66641469eacbd5b20bcfa57c&wsTime=1778652049
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d202579663cb73d773429deeebe77e58&wsTime=1778673525
 有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 江苏卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 深圳卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
