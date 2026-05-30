@@ -15,8 +15,8 @@ CCTV2,http://14.153.176.89:1234/631780532
 CCTV2,http://116.128.243.121:9905/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://222.223.41.27:8888/hls/2/index.m3u8
 CCTV2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV2,http://192.151.150.154/live/cctv2hd.m3u8
+CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV3,http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://222.94.115.176:52343/624878271
 CCTV3,http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv
@@ -24,8 +24,8 @@ CCTV3,http://116.128.243.121:9905/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&
 CCTV3,http://222.223.41.27:8888/hls/3/index.m3u8
 CCTV3,http://60.10.139.113:8801/hls/3/index.m3u8
 CCTV4,http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://222.94.115.176:52343/608807416
 CCTV4,http://222.94.115.176:52343/631780421
+CCTV4,http://222.94.115.176:52343/608807416
 CCTV4,http://222.94.115.176:52343/608807419
 CCTV4,http://14.153.176.89:1234/608807419
 CCTV4,http://14.153.176.89:1234/608807416
@@ -94,8 +94,8 @@ CCTV13,http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13,http://116.128.243.121:9905/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://222.223.41.27:8888/hls/13/index.m3u8
 CCTV13,http://60.10.139.113:8801/hls/12/index.m3u8
-CCTV13,http://198.204.228.26/live/cctv13hd.m3u8
 CCTV13,http://192.151.150.154/live/cctv13hd.m3u8
+CCTV13,http://198.204.228.26/live/cctv13hd.m3u8
 CCTV14,http://39.165.39.49:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://222.94.115.176:52343/624878440
 CCTV14,http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv
@@ -170,8 +170,8 @@ CCTV4K,http://192.151.150.154/live/cctv4k.m3u8
 吉林卫视,http://14.153.176.89:1234/947472500
 吉林卫视,http://60.10.139.113:8801/hls/38/index.m3u8
 吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
-吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
 内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
 辽宁卫视,http://222.94.115.176:52343/630291707
 辽宁卫视,http://14.153.176.89:1234/630291707
@@ -217,11 +217,11 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 金鹰卡通,http://221.13.235.54:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️福建省,#genre#
-福建海峡卫视,http://14.153.176.89:1234/849119120
 福建海峡卫视,http://222.94.115.176:52343/849119120
+福建海峡卫视,http://14.153.176.89:1234/849119120
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 ☘️天津市,#genre#
 天津卫视,http://116.128.243.121:9905/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://60.10.139.113:8801/hls/23/index.m3u8
@@ -234,5 +234,5 @@ CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CCTV5+720,http://192.151.150.154/live/cctv5p.m3u8
 CCTV9576,https://xykt-fix.github.io/Y77.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d70f78d273e6eca9eca04ba1e0b64ca0&wsTime=1780120821
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e6123c86b79e9ebe61b2b60e7a926191&wsTime=1780142294
 大湾区卫视,http://222.94.115.176:52343/608917627
