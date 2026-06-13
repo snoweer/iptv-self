@@ -4567,3 +4567,5 @@ hwapi.yntv.net
 123.118.52.115
 27.12.12.250
 114.254.89.220
+116.52.173.106
+flvctypull2mgsplive.miguvideo.com
