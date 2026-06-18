@@ -4588,3 +4588,5 @@ flvctypull2mgsplive.miguvideo.com
 125.43.249.150
 113.119.24.33
 219.156.95.119
+live-hls-web-aja.getaj.net
+116.2.169.182
