@@ -4612,3 +4612,8 @@ live-hls-web-aja.getaj.net
 gslbmgspvod.miguvideo.com
 home.scanflove.com
 hlszymgsplive.miguvideo.com
+171.8.81.20
+116.52.173.25
+58.46.30.249
+123.118.54.216
+39.77.159.13
