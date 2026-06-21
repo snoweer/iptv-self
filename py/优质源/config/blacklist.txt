@@ -4610,3 +4610,5 @@ live-hls-web-aja.getaj.net
 114.254.86.222
 123.118.56.82
 gslbmgspvod.miguvideo.com
+home.scanflove.com
+hlszymgsplive.miguvideo.com
