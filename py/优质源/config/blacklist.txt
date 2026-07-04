@@ -4690,3 +4690,4 @@ live.wxinxi.com
 123.118.48.22
 221.220.133.22
 flv-play.clouda.com
+pull-hls-f1.douyinliving.com
