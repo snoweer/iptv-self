@@ -4691,3 +4691,9 @@ live.wxinxi.com
 221.220.133.22
 flv-play.clouda.com
 pull-hls-f1.douyinliving.com
+121.29.215.106
+183.164.236.216
+113.119.27.158
+flvyxpull2mgsplive.miguvideo.com
+114.254.83.41
+114.254.39.100
