@@ -4727,3 +4727,4 @@ flvyxpull2mgsplive.miguvideo.com
 171.119.204.157
 221.220.131.71
 115.48.161.55
+hlsztemgspvod.miguvideo.com
