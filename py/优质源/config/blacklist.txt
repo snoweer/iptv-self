@@ -4748,3 +4748,7 @@ mgsp-cty2.live.miguvideo.com
 223.247.25.207
 27.12.12.183
 gslbflvmgsplive.miguvideo.com
+39.77.159.145
+171.8.83.132
+113.119.24.80
+171.119.204.116
