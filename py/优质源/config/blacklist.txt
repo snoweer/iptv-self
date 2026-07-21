@@ -4797,3 +4797,4 @@ cd-live-stream.news.cctvplus.com
 114.254.32.191
 39.77.20.214
 jsv-live-play.sfccn.com
+27.12.12.189
