@@ -1,956 +1,172 @@
-测速日志 2026-07-23 21:39:00
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.53:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-07-23 21:39:03] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.59s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.59s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.59s
-[2026-07-23 21:39:03] ✅ 测速成功: http://125.42.151.53:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.68s
-[2026-07-23 21:39:04] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-07-23 21:39:04] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-07-23 21:39:04] ✅ 测速成功: http://125.42.151.53:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-07-23 21:39:04] ✅ 测速成功: http://125.42.151.53:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s
-[2026-07-23 21:39:06] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.241:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.241:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ead0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:06] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.159:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.159:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274dd00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:06] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.158:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.158:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d9d0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:06] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.116:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.116:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d8c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:06] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.242:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.242:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d7b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:06] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.117:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.117:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d6a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:07] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.115:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.115:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ee00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:07] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.189:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.189:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e9c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:07] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.243:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.243:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e470>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:07] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.235:8000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.235:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d480>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:09] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.129:8008
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.129:8008 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d370>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:09] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.60:8084
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.60:8084 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f020>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:09] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.172:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.172:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e8b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:09] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.105:8092
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.105:8092 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f130>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:09] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.173:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.173:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f460>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:09] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.130:8004
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.130:8004 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f790>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:10] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.174:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.174:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fac0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:10] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.61:8104
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.61:8104 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fdf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:10] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.175:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.175:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e470>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:10] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.62:8112
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.62:8112 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fce0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:12] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.63:8116
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.63:8116 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f9b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:12] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.152:8120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.152:8120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f680>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:12] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.65:8132
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.65:8132 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e7a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:12] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.64:8124
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.64:8124 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f350>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:12] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.124:8128
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.124:8128 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ef10>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:12] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.153:8136
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.153:8136 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e250>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:13] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.184:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.184:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d590>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:13] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.151:8144
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.151:8144 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490160>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:13] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.132:8012
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.132:8012 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490490>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:13] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.136:8032
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.136:8032 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824907c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:15] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.137:8036
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.137:8036 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490af0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:15] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.135:8028
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.135:8028 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490e20>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:15] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.134:8020
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.134:8020 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491150>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:15] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.142:8048
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.142:8048 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f680>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:15] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.211:8064
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.211:8064 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e7a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:16] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.141:1234
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.141:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e470>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:16] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.122:8160
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.122:8160 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fac0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:16] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.209:8052
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.209:8052 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f790>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:16] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.148:8072
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.148:8072 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f460>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:16] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.210:8056
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.210:8056 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f130>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:18] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.138:8044
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.138:8044 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e8b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:18] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.240:8172
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.240:8172 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f020>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:18] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.156:8148
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.156:8148 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d480>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:18] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.149:8076
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.149:8076 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d370>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:18] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.123:8164
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.123:8164 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491480>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:19] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.45:8304
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.45:8304 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490d10>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:19] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.133:8016
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.133:8016 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824908d0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:19] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.26:8108
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.26:8108 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490380>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:19] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.29:8288
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.29:8288 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824917b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:19] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.46:8124
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.46:8124 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f460>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:21] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.42:8172
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.42:8172 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e470>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.39:8300
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.39:8300 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e9c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.49:8188
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.49:8188 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d8c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.48:8160
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.48:8160 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ee00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.27:8128
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.27:8128 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f570>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.47:8164
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.47:8164 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ebe0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.41:8140
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.41:8140 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ead0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.44:8184
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.44:8184 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fdf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.43:8176
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.43:8176 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f9b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:22] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.155:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.155:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824905a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.143:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.143:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490c00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.144:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.144:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491150>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.236:2000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.236:2000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824907c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.249:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.249:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491ae0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.250:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.250:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f570>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.95:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.95:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e9c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.100:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.100:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fce0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.238:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.238:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d590>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.102:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.102:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d9d0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:25] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.213:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.213:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d7b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.214:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.214:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f8a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.215:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.215:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f680>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.216:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.216:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e7a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.217:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.217:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f790>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.218:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.218:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490160>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.219:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.219:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490e20>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.220:4220
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.220:4220 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824909e0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.57:8152
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.57:8152 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490050>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.54:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.54:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824908d0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:28] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.56:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.56:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491e10>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.188:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.188:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f8a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.163:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.163:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d590>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.96:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.96:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ff00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.221:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.221:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f570>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.154:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.154:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d480>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.187:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.187:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f240>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.58:8156
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.58:8156 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274dd00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.165:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.165:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274cf30>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.164:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.164:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f460>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:31] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.94:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.94:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d8c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.92:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.92:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491f20>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.91:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.91:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490380>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.93:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.93:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824906b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.74:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.74:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490af0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.195:9024
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.195:9024 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491d00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.194:9020
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.194:9020 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491150>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.68:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.68:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274dd00>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.67:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.67:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f570>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.90:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.90:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f8a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:34] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.196:9012
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.196:9012 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e470>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.69:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.69:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fdf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.199:9000
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.199:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ecf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.51:9252
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.51:9252 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e8b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.147:9268
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.147:9268 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e9c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.80:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.80:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fbd0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.71:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.71:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d9d0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.75:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.75:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491bf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.76:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.76:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491ae0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.85:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.85:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490f30>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:37] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.77:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.77:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490d10>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.83:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.83:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491e10>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.81:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.81:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824909e0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.52:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.52:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fdf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.78:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.78:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f570>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.193:8012
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.193:8012 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274ecf0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.79:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.79:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f680>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.86:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.86:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d6a0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.87:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.87:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274fac0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.73:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.73:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274e140>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:40] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.72:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.72:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274d8c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.89:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.89:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274f460>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.82:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.82:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e8274cf30>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.70:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.70:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82492140>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.125:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.125:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82490270>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.84:4120
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.84:4120 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82492030>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.126:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.126:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824907c0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.127:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.127:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e82491150>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:43] ❌ 测速失败: http://114.254.33.198:8888/rtp/239.3.1.128:8001
-   错误: HTTPConnectionPool(host='114.254.33.198', port=8888): Max retries exceeded with url: /rtp/239.3.1.128:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.254.33.198', port=8888) at 0x7f4e824906b0>, 'Connection to 114.254.33.198 timed out. (connect timeout=3.05)')) | 域名: 114.254.33.198
-[2026-07-23 21:39:46] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.164:11640
-   速度: 608.26KB/s | 数据量: 3072.0KB | 总耗时: 5.64s
-[2026-07-23 21:39:48] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.21:10210
-   速度: 707.33KB/s | 数据量: 4096.0KB | 总耗时: 7.19s
-[2026-07-23 21:39:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.167:11670
-   速度: 743.63KB/s | 数据量: 4096.0KB | 总耗时: 6.04s
-[2026-07-23 21:39:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.149:2000
-   速度: 794.85KB/s | 数据量: 4096.0KB | 总耗时: 5.68s
-[2026-07-23 21:39:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.165:11650
-   速度: 721.23KB/s | 数据量: 4096.0KB | 总耗时: 6.23s
-[2026-07-23 21:39:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.173:11730
-   速度: 767.25KB/s | 数据量: 4096.0KB | 总耗时: 5.87s
-[2026-07-23 21:39:50] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.195:11950
-   速度: 731.92KB/s | 数据量: 4096.0KB | 总耗时: 6.93s
-[2026-07-23 21:39:50] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.171:11710
-   速度: 706.94KB/s | 数据量: 4096.0KB | 总耗时: 7.39s
-[2026-07-23 21:39:51] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.168:11680
-   速度: 757.06KB/s | 数据量: 4096.0KB | 总耗时: 8.02s
-[2026-07-23 21:39:51] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.122:2000
-   速度: 704.20KB/s | 数据量: 4096.0KB | 总耗时: 8.46s
-[2026-07-23 21:39:52] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.204:12040
-   速度: 703.03KB/s | 数据量: 4096.0KB | 总耗时: 6.38s
-[2026-07-23 21:39:53] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.197:11970
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:39:55] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.120:11200
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.56s
-[2026-07-23 21:39:55] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.122:11220
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:39:56] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.155:2000
-   速度: 716.70KB/s | 数据量: 4096.0KB | 总耗时: 6.25s
-[2026-07-23 21:39:56] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.154:2000
-   速度: 773.82KB/s | 数据量: 4096.0KB | 总耗时: 6.87s
-[2026-07-23 21:39:57] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.157:2000
-   速度: 733.69KB/s | 数据量: 4096.0KB | 总耗时: 6.14s
-[2026-07-23 21:39:57] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.156:2000
-   速度: 748.75KB/s | 数据量: 4096.0KB | 总耗时: 6.78s
-[2026-07-23 21:39:58] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.159:2000
-   速度: 722.10KB/s | 数据量: 4096.0KB | 总耗时: 6.24s
-[2026-07-23 21:39:58] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.158:2000
-   速度: 694.75KB/s | 数据量: 4096.0KB | 总耗时: 7.22s
-[2026-07-23 21:40:00] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.179:11790
-   速度: 478.41KB/s | 数据量: 3072.0KB | 总耗时: 8.05s
-[2026-07-23 21:40:01] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.165:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:01] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.58:2000
-   速度: 741.92KB/s | 数据量: 4096.0KB | 总耗时: 6.85s
-[2026-07-23 21:40:01] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.178:11780
-   速度: 484.14KB/s | 数据量: 3072.0KB | 总耗时: 6.92s
-[2026-07-23 21:40:02] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.177:11770
-   速度: 484.10KB/s | 数据量: 3072.0KB | 总耗时: 8.99s
-[2026-07-23 21:40:03] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.164:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:03] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.172:2000
-   速度: 721.41KB/s | 数据量: 4096.0KB | 总耗时: 6.22s
-[2026-07-23 21:40:03] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.173:2000
-   速度: 724.95KB/s | 数据量: 4096.0KB | 总耗时: 6.19s
-[2026-07-23 21:40:03] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.59:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:04] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.57:2000
-   速度: 579.78KB/s | 数据量: 3072.0KB | 总耗时: 5.86s
-[2026-07-23 21:40:06] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.177:2000
-   速度: 786.84KB/s | 数据量: 4096.0KB | 总耗时: 5.73s
-[2026-07-23 21:40:07] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.155:11550
-   速度: 750.39KB/s | 数据量: 4096.0KB | 总耗时: 5.98s
-[2026-07-23 21:40:08] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.154:11540
-   速度: 480.76KB/s | 数据量: 3072.0KB | 总耗时: 6.95s
-[2026-07-23 21:40:08] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.49:2000
-   速度: 765.54KB/s | 数据量: 4096.0KB | 总耗时: 5.88s
-[2026-07-23 21:40:08] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.139:11390
-   速度: 476.09KB/s | 数据量: 3072.0KB | 总耗时: 7.05s
-[2026-07-23 21:40:09] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.140:11400
-   速度: 751.89KB/s | 数据量: 4096.0KB | 总耗时: 7.00s
-[2026-07-23 21:40:10] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.32:10320
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:10] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.71:2000
-   速度: 488.07KB/s | 数据量: 3072.0KB | 总耗时: 6.85s
-[2026-07-23 21:40:10] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.52:2000
-   速度: 745.85KB/s | 数据量: 4096.0KB | 总耗时: 7.02s
-[2026-07-23 21:40:11] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.19:10190
-   速度: 492.77KB/s | 数据量: 3072.0KB | 总耗时: 7.49s
-[2026-07-23 21:40:12] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.41:10410
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:14] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.43:10430
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:14] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.42:10420
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:14] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.45:10450
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:14] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.47:10470
-   速度: 779.29KB/s | 数据量: 4096.0KB | 总耗时: 5.81s
-[2026-07-23 21:40:15] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.48:10480
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:16] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.49:10490
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:16] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.63:10630
-   速度: 798.61KB/s | 数据量: 4096.0KB | 总耗时: 6.48s
-[2026-07-23 21:40:17] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.109:11090
-   速度: 743.60KB/s | 数据量: 4096.0KB | 总耗时: 6.08s
-[2026-07-23 21:40:17] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.50:10500
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:19] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.144:11440
-   速度: 796.72KB/s | 数据量: 4096.0KB | 总耗时: 5.66s
-[2026-07-23 21:40:20] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.142:11420
-   速度: 485.38KB/s | 数据量: 3072.0KB | 总耗时: 7.89s
-[2026-07-23 21:40:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.191:11910
-   速度: 496.36KB/s | 数据量: 3072.0KB | 总耗时: 6.71s
-[2026-07-23 21:40:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.193:11930
-   速度: 723.32KB/s | 数据量: 4096.0KB | 总耗时: 6.22s
-[2026-07-23 21:40:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.145:11450
-   速度: 745.52KB/s | 数据量: 4096.0KB | 总耗时: 7.09s
-[2026-07-23 21:40:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.192:11920
-   速度: 472.59KB/s | 数据量: 3072.0KB | 总耗时: 7.10s
-[2026-07-23 21:40:23] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.205:12050
-   速度: 486.13KB/s | 数据量: 3072.0KB | 总耗时: 6.88s
-[2026-07-23 21:40:23] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.208:12080
-   速度: 724.03KB/s | 数据量: 4096.0KB | 总耗时: 6.19s
-[2026-07-23 21:40:23] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.207:12070
-   速度: 503.28KB/s | 数据量: 3072.0KB | 总耗时: 6.64s
-[2026-07-23 21:40:24] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.206:12060
-   速度: 717.70KB/s | 数据量: 4096.0KB | 总耗时: 7.30s
-[2026-07-23 21:40:26] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.209:12090
-   速度: 679.81KB/s | 数据量: 4096.0KB | 总耗时: 6.61s
-[2026-07-23 21:40:27] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.228:12280
-   速度: 478.95KB/s | 数据量: 3072.0KB | 总耗时: 7.00s
-[2026-07-23 21:40:27] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.80:2000
-   速度: 760.77KB/s | 数据量: 4096.0KB | 总耗时: 5.90s
-[2026-07-23 21:40:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.235:12350
-   速度: 501.35KB/s | 数据量: 3072.0KB | 总耗时: 6.66s
-[2026-07-23 21:40:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.232:12320
-   速度: 716.23KB/s | 数据量: 4096.0KB | 总耗时: 7.06s
-[2026-07-23 21:40:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.39:2000
-   速度: 729.66KB/s | 数据量: 4096.0KB | 总耗时: 7.21s
-[2026-07-23 21:40:29] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.93:2000
-   速度: 770.85KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-07-23 21:40:30] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.2:10020
-   速度: 742.85KB/s | 数据量: 4096.0KB | 总耗时: 6.06s
-[2026-07-23 21:40:30] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.94:2000
-   速度: 504.32KB/s | 数据量: 3072.0KB | 总耗时: 6.63s
-[2026-07-23 21:40:30] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.1:10010
-   速度: 692.93KB/s | 数据量: 4096.0KB | 总耗时: 6.48s
-[2026-07-23 21:40:32] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.3:10030
-   速度: 743.57KB/s | 数据量: 4096.0KB | 总耗时: 6.05s
-[2026-07-23 21:40:32] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.4:10040
-   速度: 787.27KB/s | 数据量: 4096.0KB | 总耗时: 5.72s
-[2026-07-23 21:40:34] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.6:10060
-   速度: 739.78KB/s | 数据量: 4096.0KB | 总耗时: 6.09s
-[2026-07-23 21:40:34] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.5:10050
-   速度: 697.01KB/s | 数据量: 4096.0KB | 总耗时: 6.44s
-[2026-07-23 21:40:34] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.53:10530
-   速度: 760.29KB/s | 数据量: 4096.0KB | 总耗时: 6.96s
-[2026-07-23 21:40:36] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.10:10100
-   速度: 739.55KB/s | 数据量: 4096.0KB | 总耗时: 6.08s
-[2026-07-23 21:40:36] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.51:10510
-   速度: 662.58KB/s | 数据量: 4096.0KB | 总耗时: 7.80s
-[2026-07-23 21:40:36] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.11:10110
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:36] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.8:10080
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:36] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.9:10090
-   速度: 753.03KB/s | 数据量: 4096.0KB | 总耗时: 6.71s
-[2026-07-23 21:40:39] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.12:10120
-   速度: 714.97KB/s | 数据量: 4096.0KB | 总耗时: 7.33s
-[2026-07-23 21:40:40] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.13:10130
-   速度: 709.17KB/s | 数据量: 4096.0KB | 总耗时: 7.39s
-[2026-07-23 21:40:40] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.15:10150
-   速度: 770.19KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-07-23 21:40:41] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.14:10140
-   速度: 668.01KB/s | 数据量: 4096.0KB | 总耗时: 6.72s
-[2026-07-23 21:40:42] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.72:10720
-   速度: 737.11KB/s | 数据量: 4096.0KB | 总耗时: 6.09s
-[2026-07-23 21:40:42] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.75:10750
-   速度: 762.60KB/s | 数据量: 4096.0KB | 总耗时: 5.89s
-[2026-07-23 21:40:42] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.74:10740
-   速度: 727.06KB/s | 数据量: 4096.0KB | 总耗时: 6.18s
-[2026-07-23 21:40:43] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.7:10070
-   速度: 698.20KB/s | 数据量: 4096.0KB | 总耗时: 8.24s
-[2026-07-23 21:40:43] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.71:10710
-   速度: 739.88KB/s | 数据量: 4096.0KB | 总耗时: 6.85s
-[2026-07-23 21:40:43] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.73:10730
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:46] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.77:10770
-   速度: 776.04KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
-[2026-07-23 21:40:46] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.76:10760
-   速度: 708.65KB/s | 数据量: 4096.0KB | 总耗时: 6.35s
-[2026-07-23 21:40:46] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.79:10790
-   速度: 758.29KB/s | 数据量: 4096.0KB | 总耗时: 5.94s
-[2026-07-23 21:40:47] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.80:10800
-   速度: 738.05KB/s | 数据量: 4096.0KB | 总耗时: 6.84s
-[2026-07-23 21:40:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.83:10830
-   速度: 739.14KB/s | 数据量: 4096.0KB | 总耗时: 6.07s
-[2026-07-23 21:40:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.81:10810
-   速度: 679.08KB/s | 数据量: 4096.0KB | 总耗时: 6.60s
-[2026-07-23 21:40:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.86:10860
-   速度: 751.98KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-07-23 21:40:49] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.85:10850
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:49] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.82:10820
-   速度: 661.38KB/s | 数据量: 4096.0KB | 总耗时: 6.79s
-[2026-07-23 21:40:50] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.84:10840
-   速度: 709.69KB/s | 数据量: 4096.0KB | 总耗时: 7.13s
-[2026-07-23 21:40:52] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.87:10870
-   速度: 748.32KB/s | 数据量: 4096.0KB | 总耗时: 6.01s
-[2026-07-23 21:40:52] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.88:10880
-   速度: 660.73KB/s | 数据量: 4096.0KB | 总耗时: 6.78s
-[2026-07-23 21:40:52] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.89:10890
-   速度: 671.57KB/s | 数据量: 4096.0KB | 总耗时: 6.69s
-[2026-07-23 21:40:54] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.94:10940
-   速度: 673.95KB/s | 数据量: 4096.0KB | 总耗时: 6.66s
-[2026-07-23 21:40:55] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.97:10970
-   速度: 758.49KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
-[2026-07-23 21:40:55] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.99:10990
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:40:56] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.96:10960
-   速度: 729.25KB/s | 数据量: 4096.0KB | 总耗时: 6.89s
-[2026-07-23 21:40:56] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.98:10980
-   速度: 753.63KB/s | 数据量: 4096.0KB | 总耗时: 6.77s
-[2026-07-23 21:40:56] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.95:10950
-   速度: 683.43KB/s | 数据量: 4096.0KB | 总耗时: 7.37s
-[2026-07-23 21:40:56] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.101:11010
-   速度: 674.41KB/s | 数据量: 4096.0KB | 总耗时: 6.64s
-[2026-07-23 21:40:59] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.102:11020
-   速度: 705.01KB/s | 数据量: 4096.0KB | 总耗时: 7.15s
-[2026-07-23 21:40:59] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.38:10380
-   速度: 710.43KB/s | 数据量: 4096.0KB | 总耗时: 6.32s
-[2026-07-23 21:40:59] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.78:10780
-   速度: 700.07KB/s | 数据量: 4096.0KB | 总耗时: 6.43s
-[2026-07-23 21:41:00] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.124:11240
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:01] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.39:10390
-   速度: 755.70KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
-[2026-07-23 21:41:02] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.40:10400
-   速度: 703.81KB/s | 数据量: 4096.0KB | 总耗时: 6.38s
-[2026-07-23 21:41:02] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.156:11560
-   速度: 737.98KB/s | 数据量: 4096.0KB | 总耗时: 6.08s
-[2026-07-23 21:41:02] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.64:10640
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:02] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.111:11110
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:03] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.112:11120
-   速度: 716.76KB/s | 数据量: 4096.0KB | 总耗时: 6.26s
-[2026-07-23 21:41:05] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.113:11130
-   速度: 756.09KB/s | 数据量: 4096.0KB | 总耗时: 5.94s
-[2026-07-23 21:41:05] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.114:11140
-   速度: 729.21KB/s | 数据量: 4096.0KB | 总耗时: 6.15s
-[2026-07-23 21:41:06] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.153:11530
-   速度: 736.10KB/s | 数据量: 4096.0KB | 总耗时: 6.11s
-[2026-07-23 21:41:07] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.115:11150
-   速度: 685.51KB/s | 数据量: 4096.0KB | 总耗时: 8.26s
-[2026-07-23 21:41:07] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.104:11040
-   速度: 684.84KB/s | 数据量: 4096.0KB | 总耗时: 6.57s
-[2026-07-23 21:41:08] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.218:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:08] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.68:10680
-   速度: 748.30KB/s | 数据量: 4096.0KB | 总耗时: 6.04s
-[2026-07-23 21:41:08] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.128:11280
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:08] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.132:11320
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:08] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.67:10670
-   速度: 707.27KB/s | 数据量: 4096.0KB | 总耗时: 6.37s
-[2026-07-23 21:41:11] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.153:2000
-   速度: 490.91KB/s | 数据量: 3072.0KB | 总耗时: 6.79s
-[2026-07-23 21:41:12] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.168:2000
-   速度: 480.64KB/s | 数据量: 3072.0KB | 总耗时: 6.95s
-[2026-07-23 21:41:13] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.47:2000
-   速度: 746.42KB/s | 数据量: 4096.0KB | 总耗时: 6.03s
-[2026-07-23 21:41:13] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.169:2000
-   速度: 482.33KB/s | 数据量: 3072.0KB | 总耗时: 7.77s
-[2026-07-23 21:41:14] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.137:11370
-   速度: 754.86KB/s | 数据量: 4096.0KB | 总耗时: 5.94s
-[2026-07-23 21:41:14] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.60:2000
-   速度: 492.14KB/s | 数据量: 3072.0KB | 总耗时: 6.79s
-[2026-07-23 21:41:14] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.152:11520
-   速度: 706.75KB/s | 数据量: 4096.0KB | 总耗时: 6.36s
-[2026-07-23 21:41:14] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.18:10180
-   速度: 713.21KB/s | 数据量: 4096.0KB | 总耗时: 6.27s
-[2026-07-23 21:41:15] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.151:11510
-   速度: 727.83KB/s | 数据量: 4096.0KB | 总耗时: 6.96s
-[2026-07-23 21:41:16] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.27:10270
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:17] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.20:10200
-   速度: 806.23KB/s | 数据量: 4096.0KB | 总耗时: 5.64s
-[2026-07-23 21:41:19] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.25:10250
-   速度: 756.49KB/s | 数据量: 4096.0KB | 总耗时: 6.76s
-[2026-07-23 21:41:19] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.31:10310
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:19] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.52:10520
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:20] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.44:10440
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.174:11740
-   速度: 686.35KB/s | 数据量: 4096.0KB | 总耗时: 6.53s
-[2026-07-23 21:41:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.135:11350
-   速度: 678.07KB/s | 数据量: 4096.0KB | 总耗时: 6.62s
-[2026-07-23 21:41:21] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.175:11750
-   速度: 720.94KB/s | 数据量: 4096.0KB | 总耗时: 6.22s
-[2026-07-23 21:41:22] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.59:10590
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:22] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.184:11840
-   速度: 728.97KB/s | 数据量: 4096.0KB | 总耗时: 6.15s
-[2026-07-23 21:41:23] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.183:11830
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.55s
-[2026-07-23 21:41:24] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.20.215:12150
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:25] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.216:12160
-   速度: 758.95KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
-[2026-07-23 21:41:27] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.72:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:27] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.210:12100
-   速度: 701.44KB/s | 数据量: 4096.0KB | 总耗时: 8.24s
-[2026-07-23 21:41:27] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.73:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.217:12170
-   速度: 293.40KB/s | 数据量: 2048.0KB | 总耗时: 7.55s
-[2026-07-23 21:41:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.234:12340
-   速度: 493.84KB/s | 数据量: 3072.0KB | 总耗时: 6.75s
-[2026-07-23 21:41:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.20.227:12270
-   速度: 487.86KB/s | 数据量: 3072.0KB | 总耗时: 6.86s
-[2026-07-23 21:41:28] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.84:2000
-   速度: 509.66KB/s | 数据量: 3072.0KB | 总耗时: 6.54s
-[2026-07-23 21:41:30] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.95:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:31] ❌ 测速失败: http://171.8.106.125:8800/rtp/239.16.10.179:2000
-   错误: HTTPConnectionPool(host='171.8.106.125', port=8800): Read timed out. | 域名: 171.8.106.125
-[2026-07-23 21:41:31] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.97:2000
-   速度: 477.91KB/s | 数据量: 3072.0KB | 总耗时: 7.02s
-[2026-07-23 21:41:33] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.190:7980
-   速度: 812.19KB/s | 数据量: 4096.0KB | 总耗时: 5.54s
-[2026-07-23 21:41:33] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.188:7980
-   速度: 782.51KB/s | 数据量: 4096.0KB | 总耗时: 5.75s
-[2026-07-23 21:41:33] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.187:7980
-   速度: 347.72KB/s | 数据量: 2048.0KB | 总耗时: 6.40s
-[2026-07-23 21:41:34] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.214:2000
-   速度: 490.98KB/s | 数据量: 3072.0KB | 总耗时: 6.84s
-[2026-07-23 21:41:34] ✅ 测速成功: http://171.8.106.125:8800/rtp/239.16.10.180:2000
-   速度: 706.30KB/s | 数据量: 4096.0KB | 总耗时: 7.35s
-[2026-07-23 21:41:34] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.192:7980
-   速度: 769.51KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-07-23 21:41:36] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.193:7980
-   速度: 744.44KB/s | 数据量: 4096.0KB | 总耗时: 6.02s
-[2026-07-23 21:41:37] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.194:7980
-   速度: 764.68KB/s | 数据量: 4096.0KB | 总耗时: 5.88s
-[2026-07-23 21:41:37] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.195:7980
-   速度: 774.33KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
-[2026-07-23 21:41:38] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.191:7980
-   速度: 208.25KB/s | 数据量: 2048.0KB | 总耗时: 10.35s
-[2026-07-23 21:41:39] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.196:7980
-   速度: 791.37KB/s | 数据量: 4096.0KB | 总耗时: 5.71s
-[2026-07-23 21:41:39] ❌ 测速失败: http://211.158.64.23:8888/rtp/225.0.4.68:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:39] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.189:7980
-   速度: 770.10KB/s | 数据量: 4096.0KB | 总耗时: 5.83s
-[2026-07-23 21:41:39] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.74:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:39] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.132:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:40] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.142:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:42] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.176:7980
-   速度: 752.72KB/s | 数据量: 4096.0KB | 总耗时: 5.96s
-[2026-07-23 21:41:43] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.73:7980
-   速度: 796.85KB/s | 数据量: 4096.0KB | 总耗时: 5.64s
-[2026-07-23 21:41:44] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.144:7980
-   速度: 766.55KB/s | 数据量: 4096.0KB | 总耗时: 5.86s
-[2026-07-23 21:41:44] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.127:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:45] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.137:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:45] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.131:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:45] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.130:7980
-   速度: 782.20KB/s | 数据量: 4096.0KB | 总耗时: 5.73s
-[2026-07-23 21:41:45] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.129:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:45] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.218:7980
-   速度: 756.29KB/s | 数据量: 4096.0KB | 总耗时: 5.94s
-[2026-07-23 21:41:46] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.143:7980
-   速度: 122.38KB/s | 数据量: 1024.0KB | 总耗时: 8.90s
-[2026-07-23 21:41:48] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.219:7980
-   速度: 773.85KB/s | 数据量: 4096.0KB | 总耗时: 5.80s
-[2026-07-23 21:41:49] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.128:7980
-   速度: 752.57KB/s | 数据量: 4096.0KB | 总耗时: 5.96s
-[2026-07-23 21:41:50] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.81:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:50] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.75:7980
-   速度: 761.01KB/s | 数据量: 4096.0KB | 总耗时: 5.90s
-[2026-07-23 21:41:50] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.179:7980
-   速度: 758.17KB/s | 数据量: 4096.0KB | 总耗时: 5.92s
-[2026-07-23 21:41:51] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.79:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:51] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.133:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:51] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.84:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:52] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.78:7980
-   速度: 749.30KB/s | 数据量: 4096.0KB | 总耗时: 5.99s
-[2026-07-23 21:41:54] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.82:7980
-   速度: 756.64KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
-[2026-07-23 21:41:54] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.220:7980
-   速度: 105.77KB/s | 数据量: 1024.0KB | 总耗时: 10.20s
-[2026-07-23 21:41:55] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.98:7980
-   速度: 759.63KB/s | 数据量: 4096.0KB | 总耗时: 5.91s
-[2026-07-23 21:41:56] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.80:7980
-   速度: 790.29KB/s | 数据量: 4096.0KB | 总耗时: 5.68s
-[2026-07-23 21:41:56] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.174:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:56] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.199:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:56] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.175:7980
-   速度: 765.53KB/s | 数据量: 4096.0KB | 总耗时: 5.86s
-[2026-07-23 21:41:56] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.200:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:41:57] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.201:7980
-   速度: 736.47KB/s | 数据量: 4096.0KB | 总耗时: 6.06s
-[2026-07-23 21:42:00] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.203:7980
-   速度: 754.45KB/s | 数据量: 4096.0KB | 总耗时: 5.95s
-[2026-07-23 21:42:00] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.204:7980
-   速度: 773.70KB/s | 数据量: 4096.0KB | 总耗时: 5.80s
-[2026-07-23 21:42:00] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.50:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:01] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.54:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:01] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.48:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:02] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.146:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:04] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.147:7980
-   速度: 289.06KB/s | 数据量: 2048.0KB | 总耗时: 7.61s
-[2026-07-23 21:42:04] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.168:7980
-   速度: 290.95KB/s | 数据量: 2048.0KB | 总耗时: 7.57s
-[2026-07-23 21:42:05] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.169:7980
-   速度: 277.78KB/s | 数据量: 2048.0KB | 总耗时: 7.90s
-[2026-07-23 21:42:06] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.202:7980
-   速度: 148.47KB/s | 数据量: 2048.0KB | 总耗时: 14.32s
-[2026-07-23 21:42:07] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.164:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:07] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.56:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:07] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=73cd512b37e8b0df0b8da35717bb131d&wsTime=1784822435 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-07-23 21:42:07] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.51:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:07] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.170:7980
-   速度: 291.76KB/s | 数据量: 2048.0KB | 总耗时: 7.53s
-[2026-07-23 21:42:08] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.171:7980
-   速度: 286.71KB/s | 数据量: 2048.0KB | 总耗时: 7.67s
-[2026-07-23 21:42:08] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.172:7980
-   速度: 290.77KB/s | 数据量: 2048.0KB | 总耗时: 7.57s
-[2026-07-23 21:42:09] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.98s
-[2026-07-23 21:42:10] ✅ 测速成功: http://116.52.173.134:1234/608807423
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.20s
-[2026-07-23 21:42:10] ✅ 测速成功: http://116.52.173.134:1234/608807420
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.67s
-[2026-07-23 21:42:10] ✅ 测速成功: http://116.52.173.134:1234/624878271
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.47s
-[2026-07-23 21:42:10] ✅ 测速成功: http://116.52.173.134:1234/624878396
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 3.13s
-[2026-07-23 21:42:11] ✅ 测速成功: http://116.52.173.134:1234/673168121
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.51s
-[2026-07-23 21:42:11] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.53:7980
-   速度: 293.01KB/s | 数据量: 2048.0KB | 总耗时: 7.49s
-[2026-07-23 21:42:11] ❌ 测速失败: http://211.158.64.23:8888/udp/225.0.4.57:7980
-   错误: HTTPConnectionPool(host='211.158.64.23', port=8888): Read timed out. | 域名: 211.158.64.23
-[2026-07-23 21:42:11] ✅ 测速成功: http://116.52.173.134:1234/641886683
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.44s
-[2026-07-23 21:42:12] ✅ 测速成功: http://116.52.173.134:1234/608807419
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.44s
-[2026-07-23 21:42:12] ✅ 测速成功: http://116.52.173.134:1234/631780421
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.51s
-[2026-07-23 21:42:12] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.149:7980
-   速度: 296.63KB/s | 数据量: 2048.0KB | 总耗时: 7.43s
-[2026-07-23 21:42:13] ✅ 测速成功: http://116.52.173.134:1234/608807416
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.48s
-[2026-07-23 21:42:13] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.09s
-[2026-07-23 21:42:13] ✅ 测速成功: http://116.52.173.134:1234/631780532
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.47s
-[2026-07-23 21:42:13] ✅ 测速成功: http://116.52.173.134:1234/673168223
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.43s
-[2026-07-23 21:42:13] ✅ 测速成功: http://116.52.173.134:1234/673168140
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.43s
-[2026-07-23 21:42:13] ✅ 测速成功: http://116.52.173.134:1234/624878405
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.33s
-[2026-07-23 21:42:14] ✅ 测速成功: http://116.52.173.134:1234/624878440
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.42s
-[2026-07-23 21:42:14] ✅ 测速成功: http://116.52.173.134:1234/738910914
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.55s
-[2026-07-23 21:42:14] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.12:7980
-   速度: 323.00KB/s | 数据量: 2048.0KB | 总耗时: 6.85s
-[2026-07-23 21:42:14] ✅ 测速成功: http://116.52.173.134:1234/952383261
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.53s
-[2026-07-23 21:42:14] ✅ 测速成功: http://116.52.173.134:1234/630287636
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-07-23 21:42:14] ✅ 测速成功: http://116.52.173.134:1234/956923145
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.53s
-[2026-07-23 21:42:15] ✅ 测速成功: http://116.52.173.134:1234/641886773
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 3.57s
-[2026-07-23 21:42:15] ✅ 测速成功: http://116.52.173.134:1234/624878356
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.84s
-[2026-07-23 21:42:15] ✅ 测速成功: http://116.52.173.134:1234/608831231
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.44s
-[2026-07-23 21:42:15] ✅ 测速成功: http://116.52.173.134:1234/651632648
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.16s
-[2026-07-23 21:42:16] ✅ 测速成功: http://116.52.173.134:1234/947472502
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.48s
-[2026-07-23 21:42:16] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.25s
-[2026-07-23 21:42:17] ✅ 测速成功: http://116.52.173.134:1234/790187291
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.51s
-[2026-07-23 21:42:17] ✅ 测速成功: http://116.52.173.134:1234/947472500
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.54s
-[2026-07-23 21:42:17] ✅ 测速成功: http://116.52.173.134:1234/623899368
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.41s
-[2026-07-23 21:42:17] ✅ 测速成功: http://116.52.173.134:1234/962042070
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 3.15s
-[2026-07-23 21:42:18] ✅ 测速成功: http://211.158.64.23:8888/udp/225.0.4.153:7980
-   速度: 154.77KB/s | 数据量: 2048.0KB | 总耗时: 13.76s
-[2026-07-23 21:42:18] ✅ 测速成功: http://116.52.173.134:1234/783847495
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.72s
-[2026-07-23 21:42:18] ✅ 测速成功: http://116.52.173.134:1234/947472496
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 3.65s
-[2026-07-23 21:42:18] ✅ 测速成功: http://116.52.173.134:1234/630291707
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.47s
-[2026-07-23 21:42:18] ✅ 测速成功: http://116.52.173.134:1234/956904896
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-07-23 21:42:19] ❌ 测速失败: http://116.52.173.134:1234/608917627
-   错误: HTTPConnectionPool(host='116.52.173.134', port=1234): Read timed out. (read timeout=5) | 域名: 116.52.173.134
-[2026-07-23 21:42:19] ✅ 测速成功: http://116.52.173.134:1234/738910535
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.22s
-[2026-07-23 21:42:19] ✅ 测速成功: http://116.52.173.134:1234/609154353
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.54s
-[2026-07-23 21:42:19] ✅ 测速成功: http://116.52.173.134:1234/961023778
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.38s
-[2026-07-23 21:42:19] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20260723200408&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20260723200408&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a9687e2665aaa57761ad6034078bba86&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.16s
-[2026-07-23 21:42:19] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/titanminglan/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260723200409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20260723200409&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=03a363546dda92bc0371aaf76105903a&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.05s
-[2026-07-23 21:42:19] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260723180405&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=171.8.79.254&SecurityKey=20260723180405&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2f819c84e30761142011c7a8dc86239b&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:19] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/xwzhhd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20260723200412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20260723200412&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f967b547669b81640ec6b1efeb170b7b&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:19] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20260723200412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=171.8.79.254&SecurityKey=20260723200412&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ac9f93c407c66b4eb688f0d088c95be&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:19] ✅ 测速成功: http://116.52.173.134:1234/947472506
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.56s
-[2026-07-23 21:42:19] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260723200421&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20260723200421&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dd8cfd1673f34deb9fa4ad2b82de6f1b&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:20] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 453.12KB/s | 数据量: 0.5KB | 总耗时: 1.79s
-[2026-07-23 21:42:20] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 453.12KB/s | 数据量: 0.5KB | 总耗时: 1.91s
-[2026-07-23 21:42:20] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 6.46s
-[2026-07-23 21:42:20] ✅ 测速成功: http://live.wjyanghu.com/live/CH1.m3u8
-   速度: 264.65KB/s | 数据量: 0.3KB | 总耗时: 2.23s
-[2026-07-23 21:42:20] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20260723200407&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=171.8.79.254&SecurityKey=20260723200407&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=15b1ca886a17f74ca70259dc03f49c42&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.25s
-[2026-07-23 21:42:20] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260723200421&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=171.8.79.254&SecurityKey=20260723200421&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6bab80e30535cfaaec85bbe3e37f39c9&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.06s
-[2026-07-23 21:42:20] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/jswshd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260723180404&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=171.8.79.254&SecurityKey=20260723180404&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2c3e71dafaa3f630852b7e84d036465a&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.12s
-[2026-07-23 21:42:20] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/jingdiandonghua/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260723200421&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20260723200421&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b9ed981e7f891e337ee470199a6e5f80&sv=10004&ct=android
+测速日志 2026-07-24 03:03:11
+[2026-07-24 03:03:14] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=4dfe38e5edad7b0ca6d3e16250797ad0&wsTime=1784844066 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-07-24 03:03:14] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.06s
+[2026-07-24 03:03:14] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-07-24 03:03:14] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.42s
+[2026-07-24 03:03:14] ✅ 测速成功: http://125.42.151.53:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-07-24 03:03:14] ✅ 测速成功: http://125.42.151.53:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-07-24 03:03:14] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-07-24 03:03:14] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-07-24 03:03:14] ✅ 测速成功: http://125.42.151.217:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-07-24 03:03:14] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-07-24 03:03:15] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260724000412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=171.8.79.254&SecurityKey=20260724000412&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7dbacb1a3b2258d9dbc9ca1735a318e9&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.58s
+[2026-07-24 03:03:15] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20260724000413&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=171.8.79.254&SecurityKey=20260724000413&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=65277a2ec1b406eea0eb949c741a80c7&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.59s
+[2026-07-24 03:03:15] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/wssj/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022201&pid=2028597139&timestamp=20260724000414&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475359&ParentNodeID=-99&assertID=5910022201&client_ip=171.8.79.254&SecurityKey=20260724000414&promotionId=&mvid=5900006724&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=07bff4034d5a391e1e2549d9a5d3ba18&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.04s
+[2026-07-24 03:03:15] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/wd-henanwssd-600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260724000415&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20260724000415&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=686af5162ac9f71b0531de24bde1fd7b&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.04s
+[2026-07-24 03:03:15] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.41s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/titanminglan/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260724000414&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20260724000414&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3c2cd7518a95fee60adc45cc25b63e9b&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.02s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260724000413&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=171.8.79.254&SecurityKey=20260724000413&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=15db717cd8b8ceed296441346be90c09&sv=10004&ct=android
    速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.08s
-[2026-07-23 21:42:20] ✅ 测速成功: http://116.52.173.134:1234/738910838
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.60s
-[2026-07-23 21:42:22] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/287/5106644287/media/5106644287_5339710576_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826917&pid=2028597139&timestamp=20260723200422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342614&ParentNodeID=-99&assertID=5701826917&client_ip=171.8.79.254&SecurityKey=20260723200422&promotionId=&mvid=5106644287&mcid=1003&mpid=120000582966&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75ad9e7f6e7b6e69628de2a0e4d70516&sv=10004&ct=android
-   速度: 475.50KB/s | 数据量: 436.6KB | 总耗时: 2.24s
-[2026-07-23 21:42:22] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/343/5106644343/media/5106644343_5339709967_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826913&pid=2028597139&timestamp=20260723200423&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342347&ParentNodeID=-99&assertID=5701826913&client_ip=171.8.79.254&SecurityKey=20260723200423&promotionId=&mvid=5106644343&mcid=1003&mpid=120000583017&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c1cfac4ee3ac9aa1fc8549ca776f0827&sv=10004&ct=android
-   速度: 457.85KB/s | 数据量: 413.0KB | 总耗时: 2.32s
-[2026-07-23 21:42:25] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/643/634/5106643634/media/5106643634_5339726582_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701825807&pid=2028593549&timestamp=20260723180408&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966332304&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701825807&client_ip=171.8.79.254&SecurityKey=20260723180408&promotionId=&mvid=5106643634&mcid=1003&mpid=120000583078&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=053e4816615a399502be77ad1a3f57b9&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 5.42s
-[2026-07-23 21:42:25] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/643/631/5106643631/media/5106643631_5339727582_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701825801&pid=2028593549&timestamp=20260723180408&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966332307&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701825801&client_ip=171.8.79.254&SecurityKey=20260723180408&promotionId=&mvid=5106643631&mcid=1003&mpid=120000583078&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=d9d406d3e54f4e12cd1b68992a5d796e&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 4.79s
-[2026-07-23 21:42:25] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/643/641/5106643641/media/5106643641_5339706393_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826691&pid=2028597139&timestamp=20260723180408&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966341126&ParentNodeID=-99&assertID=5701826691&client_ip=171.8.79.254&SecurityKey=20260723180408&promotionId=&mvid=5106643641&mcid=1003&mpid=120000582965&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31d07ae808c592ef0972fddc838d62f8&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 4.71s
-[2026-07-23 21:42:25] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/335/5106644335/media/5106644335_5339707297_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826722&pid=2028597139&timestamp=20260723180408&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966341457&ParentNodeID=-99&assertID=5701826722&client_ip=171.8.79.254&SecurityKey=20260723180408&promotionId=&mvid=5106644335&mcid=1003&mpid=120000580209&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31da3d87a1fa11406a54bed2063d0363&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 4.79s
-[2026-07-23 21:42:25] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/634/599/5106634599/media/5106634599_5339394369_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701819135&pid=2028597139&timestamp=20260723200424&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966206340&ParentNodeID=-99&assertID=5701819135&client_ip=171.8.79.254&SecurityKey=20260723200424&promotionId=&mvid=5106634599&mcid=1003&mpid=120000582850&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d6edfc43e079ea930caf605ed0b884f9&sv=10004&ct=android
-   速度: 305.42KB/s | 数据量: 156.7KB | 总耗时: 2.92s
-[2026-07-23 21:42:25] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/325/5106644325/media/5106644325_5339717833_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827047&pid=2028597139&timestamp=20260723180409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345402&ParentNodeID=-99&assertID=5701827047&client_ip=171.8.79.254&SecurityKey=20260723180409&promotionId=&mvid=5106644325&mcid=1003&mpid=120000583369&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0d79dc487b0eaa574de25d8c5c60a269&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.63s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/643/632/5106643632/media/5106643632_5339727796_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701825808&pid=2028593549&timestamp=20260723200422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966332382&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701825808&client_ip=171.8.79.254&SecurityKey=20260723200422&promotionId=&mvid=5106643632&mcid=1003&mpid=120000583078&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=c428168a7c5df68d0d1f0664038b3069&sv=10004&ct=android
-   速度: 433.60KB/s | 数据量: 360.3KB | 总耗时: 5.85s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/326/5106644326/media/5106644326_5339717747_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827065&pid=2028597139&timestamp=20260723180409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345063&ParentNodeID=-99&assertID=5701827065&client_ip=171.8.79.254&SecurityKey=20260723180409&promotionId=&mvid=5106644326&mcid=1003&mpid=120000583372&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a54a8d777a30a0d622a5ba714e36f72e&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.51s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/643/633/5106643633/media/5106643633_5339678400_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701825810&pid=2028593549&timestamp=20260723200422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966332721&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701825810&client_ip=171.8.79.254&SecurityKey=20260723200422&promotionId=&mvid=5106643633&mcid=1003&mpid=120000583078&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=b2f638a2109d0022c9804c06e9dec425&sv=10004&ct=android
-   速度: 400.76KB/s | 数据量: 415.3KB | 总耗时: 6.09s
-[2026-07-23 21:42:26] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/298/5106644298/media/5106644298_5339716786_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826670&pid=2028593549&timestamp=20260723180409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345095&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701826670&client_ip=171.8.79.254&SecurityKey=20260723180409&promotionId=&mvid=5106644298&mcid=1003&mpid=120000583079&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=235cfde24c7174798aa5846361155563&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.55s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/328/5106644328/media/5106644328_5339711949_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826982&pid=2028597139&timestamp=20260723200423&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966343231&ParentNodeID=-99&assertID=5701826982&client_ip=171.8.79.254&SecurityKey=20260723200423&promotionId=&mvid=5106644328&mcid=1003&mpid=120000583017&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8329c89d1638c310316b337e76650896&sv=10004&ct=android
-   速度: 491.77KB/s | 数据量: 544.7KB | 总耗时: 5.90s
-[2026-07-23 21:42:26] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/305/5106644305/media/5106644305_5339718335_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827134&pid=2028593549&timestamp=20260723180410&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345457&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827134&client_ip=171.8.79.254&SecurityKey=20260723180410&promotionId=&mvid=5106644305&mcid=1003&mpid=120000583079&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=d8fe4546f67f97f87bc03274e9ef9ec4&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.52s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/331/5106644331/media/5106644331_5339732950_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827010&pid=2028597139&timestamp=20260723200423&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966344065&ParentNodeID=-99&assertID=5701827010&client_ip=171.8.79.254&SecurityKey=20260723200423&promotionId=&mvid=5106644331&mcid=1003&mpid=120000583017&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cb57151805d39a235135037fe263f4cb&sv=10004&ct=android
-   速度: 611.57KB/s | 数据量: 826.9KB | 总耗时: 5.94s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/321/5106644321/media/5106644321_5339710337_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701826981&pid=2028597139&timestamp=20260723200424&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342523&ParentNodeID=-99&assertID=5701826981&client_ip=171.8.79.254&SecurityKey=20260723200424&promotionId=&mvid=5106644321&mcid=1003&mpid=130000196198&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fa5f51a2a8a8c16f0c2365831ac322de&sv=10004&ct=android
-   速度: 409.74KB/s | 数据量: 356.4KB | 总耗时: 1.48s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/333/5106644333/media/5106644333_5339715529_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827029&pid=2028597139&timestamp=20260723200424&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966344762&ParentNodeID=-99&assertID=5701827029&client_ip=171.8.79.254&SecurityKey=20260723200424&promotionId=&mvid=5106644333&mcid=1003&mpid=120000583017&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e3d21315fccf2d4136061362b473bc81&sv=10004&ct=android
-   速度: 706.47KB/s | 数据量: 974.4KB | 总耗时: 4.00s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/306/5106644306/media/5106644306_5339718040_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827133&pid=2028593549&timestamp=20260723180410&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345373&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827133&client_ip=171.8.79.254&SecurityKey=20260723180410&promotionId=&mvid=5106644306&mcid=1003&mpid=120000583079&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=030c7f855f254b8a1ce8ad257907787f&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.54s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/292/5106644292/media/5106644292_5339714614_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827033&pid=2028597139&timestamp=20260723200425&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966344366&ParentNodeID=-99&assertID=5701827033&client_ip=171.8.79.254&SecurityKey=20260723200425&promotionId=&mvid=5106644292&mcid=1003&mpid=120000583370&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5fc9b95e8a01dbd09db9632c84370c65&sv=10004&ct=android
-   速度: 478.74KB/s | 数据量: 498.3KB | 总耗时: 1.63s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/303/5106644303/media/5106644303_5339714969_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827043&pid=2028597139&timestamp=20260723200425&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966344467&ParentNodeID=-99&assertID=5701827043&client_ip=171.8.79.254&SecurityKey=20260723200425&promotionId=&mvid=5106644303&mcid=1003&mpid=120000583371&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=351064998bfb83faeecc874762a7303e&sv=10004&ct=android
-   速度: 464.95KB/s | 数据量: 449.3KB | 总耗时: 1.62s
-[2026-07-23 21:42:26] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/448/5106644448/media/5106644448_5339717770_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827123&pid=2028593549&timestamp=20260723180410&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345125&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827123&client_ip=171.8.79.254&SecurityKey=20260723180410&promotionId=&mvid=5106644448&mcid=1003&mpid=120000583079&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=81b070cd7a512b02ad9725a934252f31&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.57s
-[2026-07-23 21:42:27] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/334/5106644334/media/5106644334_5339718569_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827136&pid=2028597139&timestamp=20260723180410&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345511&ParentNodeID=-99&assertID=5701827136&client_ip=171.8.79.254&SecurityKey=20260723180410&promotionId=&mvid=5106644334&mcid=1003&mpid=120000583018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80d3c5b6e8606c129ffd8b1ca40c049d&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.52s
-[2026-07-23 21:42:27] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/402/5106644402/media/5106644402_5339718880_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827160&pid=2028597139&timestamp=20260723180410&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345573&ParentNodeID=-99&assertID=5701827160&client_ip=171.8.79.254&SecurityKey=20260723180410&promotionId=&mvid=5106644402&mcid=1003&mpid=120000583018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51f478d2926c62b8ab3d454f59979258&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.52s
-[2026-07-23 21:42:27] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/330/5106644330/media/5106644330_5339719166_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827162&pid=2028597139&timestamp=20260723180411&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345630&ParentNodeID=-99&assertID=5701827162&client_ip=171.8.79.254&SecurityKey=20260723180411&promotionId=&mvid=5106644330&mcid=1003&mpid=120000583018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aafa4ac4f2ce7be1ce8743c1fce84f7c&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.54s
-[2026-07-23 21:42:27] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/400/5106644400/media/5106644400_5339719414_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827159&pid=2028597139&timestamp=20260723180411&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345669&ParentNodeID=-99&assertID=5701827159&client_ip=171.8.79.254&SecurityKey=20260723180411&promotionId=&mvid=5106644400&mcid=1003&mpid=120000583018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c62c4fe330e527c2ca24ac81908c653d&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.57s
-[2026-07-23 21:42:27] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/478/5106644478/media/5106644478_5339733416_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827462&pid=2028597139&timestamp=20260723180412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966349803&ParentNodeID=-99&assertID=5701827462&client_ip=171.8.79.254&SecurityKey=20260723180412&promotionId=&mvid=5106644478&mcid=1003&mpid=120000583617&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=71e5beec090aa4e152eca36b1e88adbf&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.55s
-[2026-07-23 21:42:27] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/469/5106644469/media/5106644469_5339733707_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827494&pid=2028597139&timestamp=20260723180412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966349876&ParentNodeID=-99&assertID=5701827494&client_ip=171.8.79.254&SecurityKey=20260723180412&promotionId=&mvid=5106644469&mcid=1003&mpid=120000582968&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4f6b1e5eb5c0c65b1107d6e1f68de179&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.57s
-[2026-07-23 21:42:27] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/678/5106644678/media/5106644678_5339745385_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827686&pid=2028597139&timestamp=20260723180412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966354438&ParentNodeID=-99&assertID=5701827686&client_ip=171.8.79.254&SecurityKey=20260723180412&promotionId=&mvid=5106644678&mcid=1003&mpid=120000582969&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e2e5291964b7dc8b93b84a0b18c73d6f&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.52s
-[2026-07-23 21:42:27] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/193/5106645193/media/5106645193_5339747790_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827944&pid=2028597139&timestamp=20260723180412&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966354795&ParentNodeID=-99&assertID=5701827944&client_ip=171.8.79.254&SecurityKey=20260723180412&promotionId=&mvid=5106645193&mcid=1003&mpid=120000582970&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d70b9ee42e63f714a0e67f2c1b79e03e&sv=10004&ct=android
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.54s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss246_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512481&pid=2028597139&timestamp=20260723200429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342480&ParentNodeID=-99&assertID=7510512481&client_ip=171.8.79.254&SecurityKey=20260723200429&promotionId=&mvid=7510255906&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a6642d9bb0a8cbb9256906a72cd3e834&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.02s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/pcstation29_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512529&pid=2028597139&timestamp=20260723200428&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342917&ParentNodeID=-99&assertID=7510512529&client_ip=171.8.79.254&SecurityKey=20260723200428&promotionId=&mvid=7510255930&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8c5b75c3b102f3637e6befcdde3ab113&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.31s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss243_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512423&pid=2028597139&timestamp=20260723200429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342072&ParentNodeID=-99&assertID=7510512423&client_ip=171.8.79.254&SecurityKey=20260723200429&promotionId=&mvid=7510255877&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6b0665a9dd1b5c304b73e20e0e3a55d6&sv=10004&ct=android
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20260724000421&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=171.8.79.254&SecurityKey=20260724000421&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b17d9f4ae0c5deaa55a4bb0eda1b3849&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.05s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/cctv8hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260724000411&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=171.8.79.254&SecurityKey=20260724000411&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8f76e4ada2b821b048efeca062009a37&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.20s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260724020417&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=171.8.79.254&SecurityKey=20260724020417&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5db6d0d7d578a59689b86f41a49b5db7&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.59s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cftx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20260724000424&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=171.8.79.254&SecurityKey=20260724000424&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b56a09b01e87a7d5b759d950992a8c9a&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.03s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260724000415&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20260724000415&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cdb3beb02369938c78caa3e3c5a7cd93&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.60s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20260724000424&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=171.8.79.254&SecurityKey=20260724000424&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d86c3c3896bffc806b085ef4d8707af5&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.06s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ws2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20260724020419&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=171.8.79.254&SecurityKey=20260724020419&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f78d707571601cb57064be8b8341361c&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.04s
+[2026-07-24 03:03:16] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.85s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/wd-virtuallive5100030975-150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20260724000425&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=171.8.79.254&SecurityKey=20260724000425&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2693f71358e666822372dd38d8dd5b7a&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20260724000422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=171.8.79.254&SecurityKey=20260724000422&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5d555478d95c2bb28ddd4bdb07d74c2b&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.67s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20260724000422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=171.8.79.254&SecurityKey=20260724000422&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4bf7e52f4fc67a38ed3c9a500cc1f9c8&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.64s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260724000428&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=171.8.79.254&SecurityKey=20260724000428&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9d3bb9c7581c46a1981df16fc4c5c591&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.52s
+[2026-07-24 03:03:16] ✅ 测速成功: http://mgsp-ali2.live.miguvideo.com:8088/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260724000416&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=171.8.79.254&SecurityKey=20260724000416&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=93d29e1911969efb1838535f308e574e&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.90s
+[2026-07-24 03:03:16] ✅ 测速成功: http://live.wjyanghu.com/live/CH1.m3u8
+   速度: 268.55KB/s | 数据量: 0.3KB | 总耗时: 2.07s
+[2026-07-24 03:03:17] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 515.62KB/s | 数据量: 0.5KB | 总耗时: 2.32s
+[2026-07-24 03:03:17] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 515.62KB/s | 数据量: 0.5KB | 总耗时: 2.34s
+[2026-07-24 03:03:17] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/635/034/5106635034/media/5106635034_5339448947_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701820175&pid=2028597139&timestamp=20260724000433&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966228636&ParentNodeID=-99&assertID=5701820175&client_ip=171.8.79.254&SecurityKey=20260724000433&promotionId=&mvid=5106635034&mcid=1003&mpid=120000582851&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e9e954920a14299f634d663e6e86939&sv=10004&ct=android
+   速度: 540.86KB/s | 数据量: 143.7KB | 总耗时: 0.72s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/678/5106644678/media/5106644678_5339745385_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827686&pid=2028597139&timestamp=20260724020420&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966354438&ParentNodeID=-99&assertID=5701827686&client_ip=171.8.79.254&SecurityKey=20260724020420&promotionId=&mvid=5106644678&mcid=1003&mpid=120000582969&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d6a0fcaa0b17227e6ed9ebd3156ac9ad&sv=10004&ct=android
+   速度: 567.26KB/s | 数据量: 407.0KB | 总耗时: 1.54s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/200/5106645200/media/5106645200_5339760884_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828545&pid=2028597139&timestamp=20260724000431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966359119&ParentNodeID=-99&assertID=5701828545&client_ip=171.8.79.254&SecurityKey=20260724000431&promotionId=&mvid=5106645200&mcid=1003&mpid=120000583183&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9b43a18ec347eb1cb909d7482f39cf10&sv=10004&ct=android
+   速度: 605.24KB/s | 数据量: 441.9KB | 总耗时: 1.51s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/225/5106645225/media/5106645225_5339755001_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828319&pid=2028597139&timestamp=20260724000430&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966356847&ParentNodeID=-99&assertID=5701828319&client_ip=171.8.79.254&SecurityKey=20260724000430&promotionId=&mvid=5106645225&mcid=1003&mpid=120000582972&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9d5a254fc5313d6473c0fd65ccd5c5d7&sv=10004&ct=android
+   速度: 565.47KB/s | 数据量: 467.4KB | 总耗时: 1.64s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/193/5106645193/media/5106645193_5339747790_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827944&pid=2028597139&timestamp=20260724020420&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966354795&ParentNodeID=-99&assertID=5701827944&client_ip=171.8.79.254&SecurityKey=20260724020420&promotionId=&mvid=5106645193&mcid=1003&mpid=120000582970&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=de9856bd7b7a16f097b376828f84a220&sv=10004&ct=android
+   速度: 541.52KB/s | 数据量: 459.4KB | 总耗时: 1.69s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/466/5106644466/media/5106644466_5339721154_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827236&pid=2028593549&timestamp=20260724000429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345976&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827236&client_ip=171.8.79.254&SecurityKey=20260724000429&promotionId=&mvid=5106644466&mcid=1003&mpid=120000583081&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=dc468fff4e5f8344e51b5d41507af8ac&sv=10004&ct=android
+   速度: 711.15KB/s | 数据量: 666.9KB | 总耗时: 2.27s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/217/5106645217/media/5106645217_5339759615_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828469&pid=2028597139&timestamp=20260724000431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966358452&ParentNodeID=-99&assertID=5701828469&client_ip=171.8.79.254&SecurityKey=20260724000431&promotionId=&mvid=5106645217&mcid=1003&mpid=120000583183&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=440f1bed234473753dae90329de6966c&sv=10004&ct=android
+   速度: 773.02KB/s | 数据量: 842.4KB | 总耗时: 1.93s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/478/5106644478/media/5106644478_5339733416_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827462&pid=2028597139&timestamp=20260724020420&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966349803&ParentNodeID=-99&assertID=5701827462&client_ip=171.8.79.254&SecurityKey=20260724020420&promotionId=&mvid=5106644478&mcid=1003&mpid=120000583617&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75a9bfa2735c38f930ea646d9bac20d1&sv=10004&ct=android
+   速度: 667.78KB/s | 数据量: 738.5KB | 总耗时: 2.33s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/229/5106645229/media/5106645229_5339761263_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828523&pid=2028597139&timestamp=20260724000431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966359280&ParentNodeID=-99&assertID=5701828523&client_ip=171.8.79.254&SecurityKey=20260724000431&promotionId=&mvid=5106645229&mcid=1003&mpid=120000583187&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=59888dbb87dbf1d6b6d65dbb78b84f9f&sv=10004&ct=android
+   速度: 724.02KB/s | 数据量: 694.8KB | 总耗时: 1.45s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss158_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510510395&pid=2028597139&timestamp=20260724000438&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966220505&ParentNodeID=-99&assertID=7510510395&client_ip=171.8.79.254&SecurityKey=20260724000438&promotionId=&mvid=7510254863&mcid=500020&mpid=120000583193&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=45aa8175f17993a377762aeebaebe41a&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.24s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss157_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510510393&pid=2028597139&timestamp=20260724000438&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966220444&ParentNodeID=-99&assertID=7510510393&client_ip=171.8.79.254&SecurityKey=20260724000438&promotionId=&mvid=7510254862&mcid=500020&mpid=120000583193&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=61d1ac5a54ec1238d3b77ecbb7479e98&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.34s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss156_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510510391&pid=2028597139&timestamp=20260724000437&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966220402&ParentNodeID=-99&assertID=7510510391&client_ip=171.8.79.254&SecurityKey=20260724000437&promotionId=&mvid=7510254861&mcid=500020&mpid=120000583193&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d5d1b5df93c9ef51f304e01d059e4a96&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.38s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss159_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510510397&pid=2028597139&timestamp=20260724000438&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966220524&ParentNodeID=-99&assertID=7510510397&client_ip=171.8.79.254&SecurityKey=20260724000438&promotionId=&mvid=7510254864&mcid=500020&mpid=120000583193&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb3e2d3011e5c3adb969411d8dac34bf&sv=10004&ct=android
    速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.12s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss242_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512407&pid=2028597139&timestamp=20260723200429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966341890&ParentNodeID=-99&assertID=7510512407&client_ip=171.8.79.254&SecurityKey=20260723200429&promotionId=&mvid=7510255869&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=97445cab7e85f39244909e7769464c52&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.27s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss247_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512497&pid=2028597139&timestamp=20260723200429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342599&ParentNodeID=-99&assertID=7510512497&client_ip=171.8.79.254&SecurityKey=20260723200429&promotionId=&mvid=7510255914&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4f847958d94521cacb753d037a30979c&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.02s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss131_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510509039&pid=2028597139&timestamp=20260723200431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966167540&ParentNodeID=-99&assertID=7510509039&client_ip=171.8.79.254&SecurityKey=20260723200431&promotionId=&mvid=7510254185&mcid=500020&mpid=120000582975&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=16f6224ecb48fe5b111303fd8b748479&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss244_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512449&pid=2028597139&timestamp=20260723200429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342278&ParentNodeID=-99&assertID=7510512449&client_ip=171.8.79.254&SecurityKey=20260723200429&promotionId=&mvid=7510255890&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e193ac979eae90e8fe823907e5f16cf4&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.02s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss245_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512467&pid=2028597139&timestamp=20260723200429&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342443&ParentNodeID=-99&assertID=7510512467&client_ip=171.8.79.254&SecurityKey=20260723200429&promotionId=&mvid=7510255899&mcid=500020&mpid=120000583619&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e556a668df899a4238d0a182aac6ed9b&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.02s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/pcstation28_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512527&pid=2028597139&timestamp=20260723200431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342909&ParentNodeID=-99&assertID=7510512527&client_ip=171.8.79.254&SecurityKey=20260723200431&promotionId=&mvid=7510255929&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a471ff3a9c2d6926130d71ccfe42680b&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss242_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512409&pid=2028597139&timestamp=20260723200431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966341936&ParentNodeID=-99&assertID=7510512409&client_ip=171.8.79.254&SecurityKey=20260723200431&promotionId=&mvid=7510255870&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=430f3b947e49d6c7711dddb800078978&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss243_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512435&pid=2028597139&timestamp=20260723200432&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342098&ParentNodeID=-99&assertID=7510512435&client_ip=171.8.79.254&SecurityKey=20260723200432&promotionId=&mvid=7510255883&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bc7a4e7ed02aae6f3e844cde9906935f&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss244_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512447&pid=2028597139&timestamp=20260723200432&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342259&ParentNodeID=-99&assertID=7510512447&client_ip=171.8.79.254&SecurityKey=20260723200432&promotionId=&mvid=7510255889&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ad14290f68f3b31dd596ec6c68937037&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss245_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512465&pid=2028597139&timestamp=20260723200432&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342435&ParentNodeID=-99&assertID=7510512465&client_ip=171.8.79.254&SecurityKey=20260723200432&promotionId=&mvid=7510255898&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e1b612abe2120369573d1b284f21481e&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss247_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512495&pid=2028597139&timestamp=20260723200432&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342593&ParentNodeID=-99&assertID=7510512495&client_ip=171.8.79.254&SecurityKey=20260723200432&promotionId=&mvid=7510255913&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e39269d0c852b77cb9d3ef350fee98b&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:27] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss246_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512479&pid=2028597139&timestamp=20260723200432&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342475&ParentNodeID=-99&assertID=7510512479&client_ip=171.8.79.254&SecurityKey=20260723200432&promotionId=&mvid=7510255905&mcid=500020&mpid=120000583620&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aa8a9adf044141b87c196de887943b95&sv=10004&ct=android
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.01s
-[2026-07-23 21:42:28] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.11s
-[2026-07-23 21:42:28] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/342/5106644342/media/5106644342_5339720194_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827163&pid=2028597139&timestamp=20260723200425&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345806&ParentNodeID=-99&assertID=5701827163&client_ip=171.8.79.254&SecurityKey=20260723200425&promotionId=&mvid=5106644342&mcid=1003&mpid=120000583018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=560fc2cbe5d00d88e5a55bb385bf4aad&sv=10004&ct=android
-   速度: 512.32KB/s | 数据量: 626.1KB | 总耗时: 1.81s
-[2026-07-23 21:42:28] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/467/5106644467/media/5106644467_5339720300_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827238&pid=2028593549&timestamp=20260723200426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345821&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827238&client_ip=171.8.79.254&SecurityKey=20260723200426&promotionId=&mvid=5106644467&mcid=1003&mpid=120000583081&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=fc46883c2492177239d52df6b4b7b051&sv=10004&ct=android
-   速度: 525.27KB/s | 数据量: 583.8KB | 总耗时: 1.73s
-[2026-07-23 21:42:28] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.69s
-[2026-07-23 21:42:28] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/644/466/5106644466/media/5106644466_5339721154_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827236&pid=2028593549&timestamp=20260723200426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345976&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827236&client_ip=171.8.79.254&SecurityKey=20260723200426&promotionId=&mvid=5106644466&mcid=1003&mpid=120000583081&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=5e82a257edd8dd83253ee8df377bac22&sv=10004&ct=android
-   速度: 588.41KB/s | 数据量: 666.9KB | 总耗时: 1.71s
-[2026-07-23 21:42:28] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.70s
-[2026-07-23 21:42:28] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/462/5106644462/media/5106644462_5339721433_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827237&pid=2028593549&timestamp=20260723200426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345978&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827237&client_ip=171.8.79.254&SecurityKey=20260723200426&promotionId=&mvid=5106644462&mcid=1003&mpid=120000583081&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=6e5b0790aa2c0d7c237b2bb35e12f326&sv=10004&ct=android
-   速度: 524.63KB/s | 数据量: 587.5KB | 总耗时: 1.71s
-[2026-07-23 21:42:28] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/463/5106644463/media/5106644463_5339726648_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827241&pid=2028593549&timestamp=20260723200426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966347574&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827241&client_ip=171.8.79.254&SecurityKey=20260723200426&promotionId=&mvid=5106644463&mcid=1003&mpid=120000583081&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=ea25ebf5cb93af2b81ad024505cc5ab3&sv=10004&ct=android
-   速度: 505.14KB/s | 数据量: 601.8KB | 总耗时: 1.82s
-[2026-07-23 21:42:29] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/644/458/5106644458/media/5106644458_5339720969_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701827240&pid=2028593549&timestamp=20260723200426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966345951&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701827240&client_ip=171.8.79.254&SecurityKey=20260723200426&promotionId=&mvid=5106644458&mcid=1003&mpid=120000583081&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=86450fcb5ab442def4823983971d95e8&sv=10004&ct=android
-   速度: 332.88KB/s | 数据量: 611.8KB | 总耗时: 2.45s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss160_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510510399&pid=2028597139&timestamp=20260724000438&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966220544&ParentNodeID=-99&assertID=7510510399&client_ip=171.8.79.254&SecurityKey=20260724000438&promotionId=&mvid=7510254865&mcid=500020&mpid=120000583193&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b1b23f8a0e66a1bde2b0e58b96e68c2c&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.09s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss247_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512489&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342567&ParentNodeID=-99&assertID=7510512489&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255910&mcid=500020&mpid=120000583623&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a284830477948e4d47f362339a3f37f0&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.04s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss161_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510510401&pid=2028597139&timestamp=20260724000438&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966220559&ParentNodeID=-99&assertID=7510510401&client_ip=171.8.79.254&SecurityKey=20260724000438&promotionId=&mvid=7510254866&mcid=500020&mpid=120000583193&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=98314aa6f6eb46ada41e444893a69ea2&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/645/240/5106645240/media/5106645240_5339761346_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828524&pid=2028597139&timestamp=20260724000431&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966359316&ParentNodeID=-99&assertID=5701828524&client_ip=171.8.79.254&SecurityKey=20260724000431&promotionId=&mvid=5106645240&mcid=1003&mpid=120000583187&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5ed59701e1bbd20ea27545e33601c992&sv=10004&ct=android
+   速度: 592.24KB/s | 数据量: 694.8KB | 总耗时: 1.80s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss246_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512473&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966342459&ParentNodeID=-99&assertID=7510512473&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255902&mcid=500020&mpid=120000583623&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8f9c01adca1df272cbe5a8ceedb8cee0&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss258_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511949&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966324213&ParentNodeID=-99&assertID=7510511949&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255640&mcid=500020&mpid=120000570625&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=40f84051bbd09e557d84387b3e8810f3&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.04s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss262_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511957&pid=2028597139&timestamp=20260724000451&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966324308&ParentNodeID=-99&assertID=7510511957&client_ip=171.8.79.254&SecurityKey=20260724000451&promotionId=&mvid=7510255644&mcid=500020&mpid=120000570627&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=000b1c797b0428fef6e071bf28371b51&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.03s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss257_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511947&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966324202&ParentNodeID=-99&assertID=7510511947&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255639&mcid=500020&mpid=120000570625&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=efad163d552451dea4e3674db1605535&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.09s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss260_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511953&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966324240&ParentNodeID=-99&assertID=7510511953&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255642&mcid=500020&mpid=120000570626&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e11bf0ef9fb3b62e97af26054f20d07e&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.06s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss261_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511955&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966324267&ParentNodeID=-99&assertID=7510511955&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255643&mcid=500020&mpid=120000570627&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b4c2518161695cbca4008da7b61fc49b&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.05s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss098_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512125&pid=2028597139&timestamp=20260724000451&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966336306&ParentNodeID=-99&assertID=7510512125&client_ip=171.8.79.254&SecurityKey=20260724000451&promotionId=&mvid=7510255728&mcid=500020&mpid=120000583627&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6bae47cb4d91e8f831daf9a325580016&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.03s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss259_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511951&pid=2028597139&timestamp=20260724000450&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966324225&ParentNodeID=-99&assertID=7510511951&client_ip=171.8.79.254&SecurityKey=20260724000450&promotionId=&mvid=7510255641&mcid=500020&mpid=120000570626&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d5e02127464ab007533cf74ca0b6090a&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss141_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471325&pid=2028597139&timestamp=20260724000453&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964217873&ParentNodeID=-99&assertID=7510471325&client_ip=171.8.79.254&SecurityKey=20260724000453&promotionId=&mvid=7510235328&mcid=500020&mpid=120000574656&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a8dbd693d9a48e8992be8baa467b06f6&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.04s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss100_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512127&pid=2028597139&timestamp=20260724000451&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966336325&ParentNodeID=-99&assertID=7510512127&client_ip=171.8.79.254&SecurityKey=20260724000451&promotionId=&mvid=7510255729&mcid=500020&mpid=120000583629&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b159116fdb06de74655568396ad36910&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.05s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss097_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512123&pid=2028597139&timestamp=20260724000451&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966336297&ParentNodeID=-99&assertID=7510512123&client_ip=171.8.79.254&SecurityKey=20260724000451&promotionId=&mvid=7510255727&mcid=500020&mpid=120000583626&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7e524fd4e058485aa910b97e50029f5b&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss099_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510512121&pid=2028597139&timestamp=20260724000451&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966336281&ParentNodeID=-99&assertID=7510512121&client_ip=171.8.79.254&SecurityKey=20260724000451&promotionId=&mvid=7510255726&mcid=500020&mpid=120000583628&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=41167b48020864791bcb703a29b538f3&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss142_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471327&pid=2028597139&timestamp=20260724000454&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964217902&ParentNodeID=-99&assertID=7510471327&client_ip=171.8.79.254&SecurityKey=20260724000454&promotionId=&mvid=7510235329&mcid=500020&mpid=120000574658&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=85ca04e818b798af3430b767caae0818&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss143_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471329&pid=2028597139&timestamp=20260724000454&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964217918&ParentNodeID=-99&assertID=7510471329&client_ip=171.8.79.254&SecurityKey=20260724000454&promotionId=&mvid=7510235330&mcid=500020&mpid=120000574660&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b10d5baa50a387be1e9e8dbf8d79db62&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss172_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510501253&pid=2028597139&timestamp=20260724000454&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965595666&ParentNodeID=-99&assertID=7510501253&client_ip=171.8.79.254&SecurityKey=20260724000454&promotionId=&mvid=7510250292&mcid=500020&mpid=120000580920&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba1b03a6fe05eee170fc22b844be78d1&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.06s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss149_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511545&pid=2028597139&timestamp=20260724000455&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966305432&ParentNodeID=-99&assertID=7510511545&client_ip=171.8.79.254&SecurityKey=20260724000455&promotionId=&mvid=7510255438&mcid=500020&mpid=120000583381&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=68090ff3709693fec3bd1790decd1a82&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.06s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss144_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471331&pid=2028597139&timestamp=20260724000454&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964217945&ParentNodeID=-99&assertID=7510471331&client_ip=171.8.79.254&SecurityKey=20260724000454&promotionId=&mvid=7510235331&mcid=500020&mpid=120000574662&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6e0b450ccc39c0f85b45e9ef457c7ee1&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss150_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511547&pid=2028597139&timestamp=20260724000456&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966305440&ParentNodeID=-99&assertID=7510511547&client_ip=171.8.79.254&SecurityKey=20260724000456&promotionId=&mvid=7510255439&mcid=500020&mpid=120000583382&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5f9fab3314b19c6f9f766895a52985e3&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.06s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss145_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471333&pid=2028597139&timestamp=20260724000454&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964217966&ParentNodeID=-99&assertID=7510471333&client_ip=171.8.79.254&SecurityKey=20260724000454&promotionId=&mvid=7510235332&mcid=500020&mpid=120000574665&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6cd1c3b1aba9b159aa745af96b8b63ac&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss255_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511701&pid=2028597139&timestamp=20260724000457&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966320288&ParentNodeID=-99&assertID=7510511701&client_ip=171.8.79.254&SecurityKey=20260724000457&promotionId=&mvid=7510255516&mcid=500020&mpid=120000583496&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=88bc09f977ac0b3f57ff4b881f672cd5&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.03s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss252_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511695&pid=2028597139&timestamp=20260724000456&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966320258&ParentNodeID=-99&assertID=7510511695&client_ip=171.8.79.254&SecurityKey=20260724000456&promotionId=&mvid=7510255513&mcid=500020&mpid=120000583493&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e948311cf072cdd216ca6213b8b46c2b&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.05s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss151_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511549&pid=2028597139&timestamp=20260724000456&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966305478&ParentNodeID=-99&assertID=7510511549&client_ip=171.8.79.254&SecurityKey=20260724000456&promotionId=&mvid=7510255440&mcid=500020&mpid=120000583383&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=786179406cd0033c5851841911c5bb8a&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss251_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511693&pid=2028597139&timestamp=20260724000456&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966320245&ParentNodeID=-99&assertID=7510511693&client_ip=171.8.79.254&SecurityKey=20260724000456&promotionId=&mvid=7510255512&mcid=500020&mpid=120000583492&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=67650e0d0497a6b1f17f7181638ffe3e&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:18] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss256_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511703&pid=2028597139&timestamp=20260724000457&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966320290&ParentNodeID=-99&assertID=7510511703&client_ip=171.8.79.254&SecurityKey=20260724000457&promotionId=&mvid=7510255517&mcid=500020&mpid=120000583497&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=19308eb01ea13511a6ead27b19bd3a98&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.05s
+[2026-07-24 03:03:19] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss253_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511697&pid=2028597139&timestamp=20260724000456&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966320276&ParentNodeID=-99&assertID=7510511697&client_ip=171.8.79.254&SecurityKey=20260724000456&promotionId=&mvid=7510255514&mcid=500020&mpid=120000583494&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0e241a7c870d35c767ff2d6c7105e8fa&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:19] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss127_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511743&pid=2028597139&timestamp=20260724000457&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966322649&ParentNodeID=-99&assertID=7510511743&client_ip=171.8.79.254&SecurityKey=20260724000457&promotionId=&mvid=7510255537&mcid=500020&mpid=120000583519&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8b7b1ca5dd043c157485231b04b8cdff&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.03s
+[2026-07-24 03:03:19] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss254_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511699&pid=2028597139&timestamp=20260724000456&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966320285&ParentNodeID=-99&assertID=7510511699&client_ip=171.8.79.254&SecurityKey=20260724000456&promotionId=&mvid=7510255515&mcid=500020&mpid=120000583495&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be4da52c0707dc6bc6c4cc8162285593&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:19] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.03s
+[2026-07-24 03:03:19] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss126_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511741&pid=2028597139&timestamp=20260724000457&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966322637&ParentNodeID=-99&assertID=7510511741&client_ip=171.8.79.254&SecurityKey=20260724000457&promotionId=&mvid=7510255536&mcid=500020&mpid=120000583518&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c765905207704632bab1c3397ec8f7fc&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:19] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss128_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511745&pid=2028597139&timestamp=20260724000457&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966322656&ParentNodeID=-99&assertID=7510511745&client_ip=171.8.79.254&SecurityKey=20260724000457&promotionId=&mvid=7510255538&mcid=500020&mpid=120000583520&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3b2ca54befe718619e184f21b0e6efdb&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:19] ✅ 测速成功: http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss147_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510511747&pid=2028597139&timestamp=20260724000457&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966322668&ParentNodeID=-99&assertID=7510511747&client_ip=171.8.79.254&SecurityKey=20260724000457&promotionId=&mvid=7510255539&mcid=500020&mpid=120000583521&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=296996f7d9b760f66d4cf92abaf01329&sv=10004&ct=android
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.08s
+[2026-07-24 03:03:19] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-07-24 03:03:19] ✅ 测速成功: http://hlszymgspvod.miguvideo.com:8080/depository-nas05/asset/zhengshi/5106/119/043/5106119043/media/5106119043_5325972606_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701469171&pid=2029000643&timestamp=20260724000433&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=959537521&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701469171&client_ip=171.8.79.254&SecurityKey=20260724000433&promotionId=&mvid=5106119043&mcid=1003&mpid=120000546554&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=fdb698e9f891d4ca1d1429b51b0d97b3&sv=10004&ct=android
+   速度: 748.14KB/s | 数据量: 810.0KB | 总耗时: 1.59s
+[2026-07-24 03:03:19] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.73s
+[2026-07-24 03:03:20] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/646/166/5106646166/media/5106646166_5339759846_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828528&pid=2028597139&timestamp=20260724000433&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966358884&ParentNodeID=-99&assertID=5701828528&client_ip=171.8.79.254&SecurityKey=20260724000433&promotionId=&mvid=5106646166&mcid=1003&mpid=120000582973&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=299c888b228cdb5d459317d80301db37&sv=10004&ct=android
+   速度: 569.77KB/s | 数据量: 425.1KB | 总耗时: 1.78s
+[2026-07-24 03:03:20] ✅ 测速成功: http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/646/120/5106646120/media/5106646120_5339760919_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701828533&pid=2028597139&timestamp=20260724000434&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966359292&ParentNodeID=-99&assertID=5701828533&client_ip=171.8.79.254&SecurityKey=20260724000434&promotionId=&mvid=5106646120&mcid=1003&mpid=120000583374&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f59d3725f543b804f2f7a22274696ae3&sv=10004&ct=android
+   速度: 603.37KB/s | 数据量: 559.4KB | 总耗时: 1.89s
