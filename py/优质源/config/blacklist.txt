@@ -4804,3 +4804,5 @@ jsv-live-play.sfccn.com
 171.8.169.42
 114.254.38.3
 183.164.237.86
+flvalipull2mgsplive.miguvideo.com
+59.175.11.109
