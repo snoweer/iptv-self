@@ -1,17 +1,19 @@
-测速日志 2026-09-09 04:32:56
-[2026-09-09 04:32:58] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.17s
-[2026-09-09 04:32:59] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-09-09 04:32:59] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-09-09 04:32:59] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-09-09 04:32:59] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 0.94s
-[2026-09-09 04:32:59] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 1.07s
-[2026-09-09 04:33:01] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 452.15KB/s | 数据量: 0.5KB | 总耗时: 2.37s
-[2026-09-09 04:33:01] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 452.15KB/s | 数据量: 0.5KB | 总耗时: 2.38s
+测速日志 2026-09-09 10:28:23
+[2026-09-09 10:28:25] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.21s
+[2026-09-09 10:28:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-09-09 10:28:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-09-09 10:28:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-09-09 10:28:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2026-09-09 10:28:26] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-09-09 10:28:26] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.30s
+[2026-09-09 10:28:31] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 448.24KB/s | 数据量: 0.4KB | 总耗时: 6.07s
+[2026-09-09 10:28:31] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 448.24KB/s | 数据量: 0.4KB | 总耗时: 6.08s
