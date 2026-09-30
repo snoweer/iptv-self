@@ -1,15 +1,15 @@
-测速日志 2026-09-30 11:22:43
-[2026-09-30 11:22:46] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.13s
-[2026-09-30 11:22:46] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.32s
-[2026-09-30 11:22:46] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-09-30 11:22:46] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.58s
-[2026-09-30 11:22:47] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.68s
-[2026-09-30 11:22:48] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 513.67KB/s | 数据量: 0.5KB | 总耗时: 2.45s
-[2026-09-30 11:22:48] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 513.67KB/s | 数据量: 0.5KB | 总耗时: 2.52s
+测速日志 2026-09-30 19:42:17
+[2026-09-30 19:42:20] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.05s
+[2026-09-30 19:42:21] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-09-30 19:42:21] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.68s
+[2026-09-30 19:42:21] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.25s
+[2026-09-30 19:42:22] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 2.00s
+[2026-09-30 19:42:23] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 449.22KB/s | 数据量: 0.4KB | 总耗时: 2.92s
+[2026-09-30 19:42:23] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 449.22KB/s | 数据量: 0.4KB | 总耗时: 2.92s
