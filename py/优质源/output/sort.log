@@ -1,245 +1,245 @@
-测速日志 2026-10-20 10:53:48
-[2026-10-20 10:53:57] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.165:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.48s
-[2026-10-20 10:54:00] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.164:1234
-   速度: 115.44KB/s | 数据量: 1024.0KB | 总耗时: 9.35s
-[2026-10-20 10:54:02] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.154:1234
-   速度: 103.04KB/s | 数据量: 1024.0KB | 总耗时: 10.42s
-[2026-10-20 10:54:02] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.241:1234
-   速度: 100.30KB/s | 数据量: 1024.0KB | 总耗时: 10.69s
-[2026-10-20 10:54:03] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.150:1234
-   速度: 92.36KB/s | 数据量: 1024.0KB | 总耗时: 11.57s
-[2026-10-20 10:54:04] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.126:1234
-   速度: 82.18KB/s | 数据量: 1024.0KB | 总耗时: 12.95s
-[2026-10-20 10:54:06] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.151:1234
-   速度: 69.39KB/s | 数据量: 1024.0KB | 总耗时: 15.24s
-[2026-10-20 10:54:06] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.25:1234
-   速度: 68.83KB/s | 数据量: 1024.0KB | 总耗时: 15.35s
-[2026-10-20 10:54:08] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.156:1234
-   速度: 123.02KB/s | 数据量: 2048.0KB | 总耗时: 17.11s
-[2026-10-20 10:54:10] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.168:1234
-   速度: 56.83KB/s | 数据量: 1024.0KB | 总耗时: 18.51s
-[2026-10-20 10:54:11] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.27:1234
-   速度: 71.91KB/s | 数据量: 1024.0KB | 总耗时: 14.72s
-[2026-10-20 10:54:14] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.170:1234
-   速度: 85.88KB/s | 数据量: 1024.0KB | 总耗时: 12.41s
-[2026-10-20 10:54:17] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.137:1234
-   速度: 148.76KB/s | 数据量: 1024.0KB | 总耗时: 7.36s
-[2026-10-20 10:54:19] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.135:1234
-   速度: 57.57KB/s | 数据量: 1024.0KB | 总耗时: 18.27s
-[2026-10-20 10:54:20] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.171:1234
-   速度: 62.68KB/s | 数据量: 1024.0KB | 总耗时: 16.82s
-[2026-10-20 10:54:20] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.172:1234
-   速度: 79.24KB/s | 数据量: 1024.0KB | 总耗时: 13.39s
-[2026-10-20 10:54:20] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.179:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.49s
-[2026-10-20 10:54:20] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.138:1234
-   速度: 119.19KB/s | 数据量: 1024.0KB | 总耗时: 9.08s
-[2026-10-20 10:54:22] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.93:1234
-   速度: 60.28KB/s | 数据量: 1024.0KB | 总耗时: 17.48s
-[2026-10-20 10:54:22] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.29:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.49s
-[2026-10-20 10:54:22] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.136:1234
-   速度: 66.19KB/s | 数据量: 1024.0KB | 总耗时: 15.94s
-[2026-10-20 10:54:24] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.178:1234
-   速度: 105.25KB/s | 数据量: 1024.0KB | 总耗时: 10.23s
-[2026-10-20 10:54:24] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.139:1234
-   速度: 146.58KB/s | 数据量: 1024.0KB | 总耗时: 7.46s
-[2026-10-20 10:54:25] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.52:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:54:25] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.47:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:54:26] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.201:1234
-   速度: 43.94KB/s | 数据量: 1024.0KB | 总耗时: 23.78s
-[2026-10-20 10:54:27] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.56:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.68s
-[2026-10-20 10:54:27] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.58:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
-[2026-10-20 10:54:28] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.51:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.49s
-[2026-10-20 10:54:29] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.206:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.57s
-[2026-10-20 10:54:31] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.173:1234
-   速度: 46.87KB/s | 数据量: 1024.0KB | 总耗时: 22.33s
-[2026-10-20 10:54:33] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.38:1234
-   速度: 95.91KB/s | 数据量: 1024.0KB | 总耗时: 11.18s
-[2026-10-20 10:54:33] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.15:1234
-   速度: 72.09KB/s | 数据量: 1024.0KB | 总耗时: 14.69s
-[2026-10-20 10:54:36] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.45:1234
-   速度: 80.55KB/s | 数据量: 1024.0KB | 总耗时: 13.20s
-[2026-10-20 10:54:36] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.230:1234
-   速度: 68.09KB/s | 数据量: 1024.0KB | 总耗时: 15.52s
-[2026-10-20 10:54:37] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.117:1234
-   速度: 141.29KB/s | 数据量: 1024.0KB | 总耗时: 7.74s
-[2026-10-20 10:54:39] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.182:1234
-   速度: 57.32KB/s | 数据量: 1024.0KB | 总耗时: 18.33s
-[2026-10-20 10:54:39] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.140:1234
-   速度: 57.16KB/s | 数据量: 1024.0KB | 总耗时: 19.40s
-[2026-10-20 10:54:39] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.131:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
-[2026-10-20 10:54:40] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.63:1234
-   速度: 74.22KB/s | 数据量: 1024.0KB | 总耗时: 14.28s
-[2026-10-20 10:54:42] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.125:1234
-   速度: 89.73KB/s | 数据量: 1024.0KB | 总耗时: 11.90s
-[2026-10-20 10:54:43] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.185:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:54:45] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.123:1234
-   速度: 90.54KB/s | 数据量: 1024.0KB | 总耗时: 11.79s
-[2026-10-20 10:54:46] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.74:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.49s
-[2026-10-20 10:54:51] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.181:1234
-   速度: 177.91KB/s | 数据量: 2048.0KB | 总耗时: 12.00s
-[2026-10-20 10:54:51] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.26:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
-[2026-10-20 10:54:51] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.60:1234
-   速度: 39.37KB/s | 数据量: 1024.0KB | 总耗时: 26.49s
-[2026-10-20 10:54:52] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.82:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
-[2026-10-20 10:54:52] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.186:1234
-   速度: 120.89KB/s | 数据量: 1024.0KB | 总耗时: 8.97s
-[2026-10-20 10:54:52] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.80:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:54:53] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.141:1234
-   速度: 63.19KB/s | 数据量: 1024.0KB | 总耗时: 16.67s
-[2026-10-20 10:54:53] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.122:1234
-   速度: 54.04KB/s | 数据量: 1024.0KB | 总耗时: 19.42s
-[2026-10-20 10:54:53] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.115:1234
-   速度: 66.30KB/s | 数据量: 1024.0KB | 总耗时: 15.91s
-[2026-10-20 10:54:55] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.130:1234
-   速度: 66.32KB/s | 数据量: 1024.0KB | 总耗时: 15.92s
-[2026-10-20 10:54:56] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.116:1234
-   速度: 50.41KB/s | 数据量: 1024.0KB | 总耗时: 20.78s
-[2026-10-20 10:54:57] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.110:1234
-   速度: 97.12KB/s | 数据量: 1024.0KB | 总耗时: 11.03s
-[2026-10-20 10:54:57] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.95:1234
-   速度: 192.47KB/s | 数据量: 1024.0KB | 总耗时: 5.80s
-[2026-10-20 10:54:57] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.124:1234
-   速度: 61.46KB/s | 数据量: 1024.0KB | 总耗时: 17.14s
-[2026-10-20 10:55:04] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.180:1234
-   速度: 140.04KB/s | 数据量: 1024.0KB | 总耗时: 7.80s
-[2026-10-20 10:55:05] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.49:1234
-   速度: 81.95KB/s | 数据量: 1024.0KB | 总耗时: 12.98s
-[2026-10-20 10:55:05] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.50:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:55:06] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.111:1234
-   速度: 83.78KB/s | 数据量: 1024.0KB | 总耗时: 12.71s
-[2026-10-20 10:55:07] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.86:1234
-   速度: 108.90KB/s | 数据量: 1024.0KB | 总耗时: 9.89s
-[2026-10-20 10:55:08] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.35:1234
-   速度: 72.74KB/s | 数据量: 1024.0KB | 总耗时: 15.60s
-[2026-10-20 10:55:10] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.101:1234
-   速度: 61.73KB/s | 数据量: 1024.0KB | 总耗时: 17.32s
-[2026-10-20 10:55:12] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.18:1234
-   速度: 70.48KB/s | 数据量: 1024.0KB | 总耗时: 15.00s
-[2026-10-20 10:55:12] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.67:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:55:14] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.212:1234
-   速度: 129.76KB/s | 数据量: 1024.0KB | 总耗时: 8.37s
-[2026-10-20 10:55:14] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.163:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:55:14] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.76:1234
-   速度: 59.68KB/s | 数据量: 1024.0KB | 总耗时: 17.64s
-[2026-10-20 10:55:16] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.239:1234
-   速度: 144.91KB/s | 数据量: 1024.0KB | 总耗时: 7.53s
-[2026-10-20 10:55:18] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.161:1234
-   速度: 199.85KB/s | 数据量: 1024.0KB | 总耗时: 5.61s
-[2026-10-20 10:55:19] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.107:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
-[2026-10-20 10:55:20] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.114:1234
-   速度: 69.46KB/s | 数据量: 1024.0KB | 总耗时: 15.23s
-[2026-10-20 10:55:20] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.34:1234
-   速度: 41.63KB/s | 数据量: 1024.0KB | 总耗时: 25.09s
-[2026-10-20 10:55:21] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.40:1234
-   速度: 36.27KB/s | 数据量: 1024.0KB | 总耗时: 28.69s
-[2026-10-20 10:55:22] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.160:1234
-   速度: 61.68KB/s | 数据量: 1024.0KB | 总耗时: 17.08s
-[2026-10-20 10:55:22] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.133:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:55:22] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.149:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.49s
-[2026-10-20 10:55:29] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.169:1234
-   速度: 55.22KB/s | 数据量: 1024.0KB | 总耗时: 19.04s
-[2026-10-20 10:55:29] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.162:1234
-   速度: 73.54KB/s | 数据量: 1024.0KB | 总耗时: 14.40s
-[2026-10-20 10:55:29] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.238:1234
-   速度: 47.23KB/s | 数据量: 1024.0KB | 总耗时: 22.15s
-[2026-10-20 10:55:30] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.108:1234
-   速度: 97.14KB/s | 数据量: 1024.0KB | 总耗时: 11.03s
-[2026-10-20 10:55:32] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.98:1234
-   速度: 64.21KB/s | 数据量: 1024.0KB | 总耗时: 16.43s
-[2026-10-20 10:55:33] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.127:1234
-   速度: 81.80KB/s | 数据量: 1024.0KB | 总耗时: 13.01s
-[2026-10-20 10:55:33] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.90:1234
-   速度: 55.87KB/s | 数据量: 1024.0KB | 总耗时: 18.80s
-[2026-10-20 10:55:34] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.53:1234
-   速度: 88.41KB/s | 数据量: 1024.0KB | 总耗时: 12.05s
-[2026-10-20 10:55:38] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.134:1234
-   速度: 129.89KB/s | 数据量: 2048.0KB | 总耗时: 16.24s
-[2026-10-20 10:55:40] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.28:1234
-   速度: 107.41KB/s | 数据量: 1024.0KB | 总耗时: 10.00s
-[2026-10-20 10:55:40] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.103:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.49s
-[2026-10-20 10:55:40] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.128:1234
-   速度: 52.75KB/s | 数据量: 1024.0KB | 总耗时: 19.90s
-[2026-10-20 10:55:42] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.6:1234
-   速度: 115.62KB/s | 数据量: 1024.0KB | 总耗时: 9.35s
-[2026-10-20 10:55:43] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.59:1234
-   速度: 75.69KB/s | 数据量: 1024.0KB | 总耗时: 14.01s
-[2026-10-20 10:55:45] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.198:1234
-   速度: 64.94KB/s | 数据量: 1024.0KB | 总耗时: 16.25s
-[2026-10-20 10:55:47] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.8:1234
-   速度: 76.49KB/s | 数据量: 1024.0KB | 总耗时: 13.86s
-[2026-10-20 10:55:47] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.188:1234
-   速度: 56.35KB/s | 数据量: 1024.0KB | 总耗时: 18.65s
-[2026-10-20 10:55:48] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.43:1234
-   速度: 69.72KB/s | 数据量: 1024.0KB | 总耗时: 15.17s
-[2026-10-20 10:55:52] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.57:1234
-   速度: 89.06KB/s | 数据量: 1024.0KB | 总耗时: 11.97s
-[2026-10-20 10:55:53] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.102:1234
-   速度: 146.11KB/s | 数据量: 1024.0KB | 总耗时: 7.50s
-[2026-10-20 10:55:53] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.213:1234
-   速度: 188.79KB/s | 数据量: 1024.0KB | 总耗时: 5.91s
-[2026-10-20 10:55:53] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.187:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:55:55] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.109:1234
-   速度: 84.54KB/s | 数据量: 1024.0KB | 总耗时: 12.60s
-[2026-10-20 10:55:56] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.159:1234
-   速度: 59.32KB/s | 数据量: 1024.0KB | 总耗时: 17.74s
-[2026-10-20 10:56:00] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.119:1234
-   速度: 128.95KB/s | 数据量: 1024.0KB | 总耗时: 8.42s
-[2026-10-20 10:56:01] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.214:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
-[2026-10-20 10:56:01] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.104:1234
-   速度: 50.60KB/s | 数据量: 1024.0KB | 总耗时: 20.71s
-[2026-10-20 10:56:02] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.197:1234
-   速度: 128.90KB/s | 数据量: 1024.0KB | 总耗时: 8.42s
-[2026-10-20 10:56:02] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-10-20 10:56:02] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 1.22s
-[2026-10-20 10:56:02] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.118:1234
-   速度: 79.09KB/s | 数据量: 1024.0KB | 总耗时: 14.44s
-[2026-10-20 10:56:03] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.105:1234
-   速度: 48.73KB/s | 数据量: 1024.0KB | 总耗时: 21.48s
-[2026-10-20 10:56:03] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.155:1234
-   速度: 169.48KB/s | 数据量: 1024.0KB | 总耗时: 7.53s
-[2026-10-20 10:56:04] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.157:1234
-   速度: 43.58KB/s | 数据量: 1024.0KB | 总耗时: 24.00s
-[2026-10-20 10:56:04] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
-   速度: 1.04KB/s | 数据量: 0.2KB | 总耗时: 1.66s
-[2026-10-20 10:56:04] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.60s
-[2026-10-20 10:56:04] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 450.20KB/s | 数据量: 0.5KB | 总耗时: 1.52s
-[2026-10-20 10:56:04] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 450.20KB/s | 数据量: 0.5KB | 总耗时: 0.95s
-[2026-10-20 10:56:04] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.83s
-[2026-10-20 10:56:04] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.203:1234
-   速度: 95.46KB/s | 数据量: 1024.0KB | 总耗时: 11.22s
-[2026-10-20 10:56:05] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.148:1234
-   速度: 58.83KB/s | 数据量: 1024.0KB | 总耗时: 17.87s
-[2026-10-20 10:56:06] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.48:1234
-   速度: 98.15KB/s | 数据量: 1024.0KB | 总耗时: 10.92s
-[2026-10-20 10:56:08] ✅ 测速成功: http://116.2.168.188:4010/rtp/232.0.0.215:1234
-   速度: 141.51KB/s | 数据量: 1024.0KB | 总耗时: 7.71s
+测速日志 2026-10-20 18:45:21
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.126:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.126:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.150:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.150:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.241:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.241:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.154:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.154:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.164:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.164:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.168:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.168:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.25:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.25:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.135:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.135:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.27:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.27:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.170:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.170:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.172:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.172:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.171:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.171:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.201:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.201:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.93:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.93:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.137:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.137:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.138:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.138:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.15:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.15:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.140:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.140:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:24] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.179:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.179:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.156:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.156:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.151:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.151:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.165:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.165:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.29:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.29:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.230:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.230:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.45:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.45:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.38:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.38:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.60:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.60:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.47:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.47:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.52:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.52:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.173:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.173:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.139:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.139:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.58:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.58:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.51:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.51:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:25] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.56:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.56:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.125:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.125:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.117:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.117:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.122:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.122:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.141:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.141:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.115:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.115:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.181:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.181:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.130:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.130:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.131:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.131:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.124:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.124:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.136:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.136:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.178:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.178:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.185:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.185:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.186:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.186:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.206:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.206:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.74:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.74:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:26] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.63:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.63:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.182:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.182:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.110:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.110:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.26:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.26:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.95:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.95:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.123:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.123:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.101:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.101:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.116:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.116:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.80:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.80:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.82:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.82:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.40:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.40:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.35:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.35:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.111:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.111:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.34:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.34:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.180:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.180:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.18:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.18:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.86:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.86:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.50:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.50:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.76:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.76:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.114:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.114:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.160:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.160:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.212:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.212:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.238:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.238:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.239:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.239:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.169:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.169:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.161:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.161:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.67:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.67:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.163:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.163:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.162:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.162:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.90:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.90:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.127:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.127:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.128:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.128:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.133:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.133:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:27] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.134:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.134:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.149:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.149:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.49:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.49:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.59:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.59:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.188:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.188:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.198:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.198:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.28:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.28:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.6:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.6:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.43:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.43:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.103:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.103:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.159:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.159:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.157:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.157:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.57:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.57:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.104:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.104:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.105:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.105:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.109:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.109:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.102:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.102:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.98:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.98:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.213:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.213:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:28] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.148:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.148:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.118:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.118:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.53:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.53:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.203:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.203:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.197:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.197:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.48:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.48:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.155:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.155:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.214:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.214:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.215:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.215:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-10-20 18:45:29] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-10-20 18:45:29] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.108:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.108:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:29] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.107:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.107:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:30] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.119:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.119:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:30] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.187:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.187:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:30] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.68s
+[2026-10-20 18:45:30] ❌ 测速失败: http://116.2.168.188:4010/rtp/232.0.0.8:1234
+   错误: HTTPConnectionPool(host='116.2.168.188', port=4010): Max retries exceeded with url: /rtp/232.0.0.8:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.168.188', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.168.188
+[2026-10-20 18:45:30] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.15s
+[2026-10-20 18:45:31] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 508.79KB/s | 数据量: 0.5KB | 总耗时: 2.22s
+[2026-10-20 18:45:31] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 508.79KB/s | 数据量: 0.5KB | 总耗时: 2.46s
