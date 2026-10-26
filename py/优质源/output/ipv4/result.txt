@@ -1,3 +1,5 @@
+央视频道,#genre#
+CCTV3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 ☘️吉林省,#genre#
