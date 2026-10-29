@@ -71,8 +71,8 @@ CHC家庭影院,http://219.156.33.127:4022/rtp/225.1.4.209:1262
 ☘️湖南省,#genre#
 金鹰纪实,http://219.156.33.127:4022/rtp/225.1.4.172:1711
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 ☘️新疆,#genre#
 新疆卫视,http://219.156.33.127:4022/rtp/225.1.4.47:1076
 ☘️天津市,#genre#
