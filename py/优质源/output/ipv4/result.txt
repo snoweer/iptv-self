@@ -1,8 +1,12 @@
+央视频道,#genre#
+CCTV3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1793422800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4938476a13a01026bb1ecddd61438619&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 卫视频道,#genre#
+江苏卫视,http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 其他,#genre#
-CCTV-4k,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793336400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1307dcdc4caf0edaa97f8f745f137378&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4k,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793422800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-be0657b192cce81fc745511ff14cd56f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 HBO SIGNATURE,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
