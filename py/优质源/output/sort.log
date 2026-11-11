@@ -1,653 +1,131 @@
-测速日志 2026-11-11 12:01:25
-[2026-11-11 12:01:29] ✅ 测速成功: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794366000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-913f6032316cfa530300db14b334720b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+测速日志 2026-11-11 21:20:07
+[2026-11-11 21:20:10] ✅ 测速成功: http://173.208.234.146/live/cctv8.m3u8
+   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-11-11 21:20:10] ✅ 测速成功: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794366000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-913f6032316cfa530300db14b334720b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.21s
-[2026-11-11 12:01:29] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-11-11 12:01:29] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-11-11 12:01:30] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 1.32s
-[2026-11-11 12:01:34] ❌ 测速失败: http://112.85.93.7:7788/641886683
-   错误: HTTPConnectionPool(host='112.85.93.7', port=7788): Read timed out. (read timeout=5) | 域名: 112.85.93.7
-[2026-11-11 12:01:49] ❌ 测速失败: http://27.22.35.13:7788/641886683
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=b6d27a4d10383ec5365818610d871e3d&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261111093417&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=240e:36a:5157:1c00:1e41:859d:7c47:4d27&SecurityKey=20261111093417&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aef1f399e95c02d2915f90e40840e58e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.22.35.13
-[2026-11-11 12:01:49] ❌ 测速失败: http://116.237.170.51:7788/641886683
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20261111092943729db29b83134f579cd99131d1a0a0ac&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261111092943&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=240e:b8f:9131:da00:7073:a4cf:dc82:f43a&SecurityKey=20261111092943&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=382e5d98f195ba3115f85370b324cc40&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.237.170.51
-[2026-11-11 12:01:49] ❌ 测速失败: http://175.169.113.102:1234/641886683
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=d1e2d22d513dcc70adafd981bbbf1a4e&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261111120049&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=175.169.113.102&SecurityKey=20261111120049&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d2957df6dabfdcd1aa47a236aa7042a4&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 175.169.113.102
-[2026-11-11 12:01:49] ❌ 测速失败: http://116.52.173.150:1234/641886683
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=444c02cf0db9e13aa24607599f94cbcb&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261111102451&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=116.52.173.150&SecurityKey=20261111102451&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be13e01de4ac9d25731bc96820023f7a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.52.173.150
-[2026-11-11 12:01:49] ❌ 测速失败: http://42.94.209.184:7788/641886683
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=fbbbf56236f57c257c778cf5ed379909&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261111111351&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=240e:336:5:8e01::3b5&SecurityKey=20261111111351&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48b94106918596cb2495b04b2a30d581&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 42.94.209.184
-[2026-11-11 12:01:49] ❌ 测速失败: http://116.237.170.51:7788/641886773
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=20261111120129ca9892ba257f4167b020a5f5cee29eeb&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261111120129&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=240e:b8f:9131:da00:7073:a4cf:dc82:f43a&SecurityKey=20261111120129&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=325070a7b9c1dc726190259872b8b761&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.237.170.51
-[2026-11-11 12:01:49] ❌ 测速失败: http://113.124.186.195:7788/641886683
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20261111104803af956ed523e148ee8dfb1b67a1001105&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261111104803&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=240e:345:3625:4b00:fc68:6980:6056:f152&SecurityKey=20261111104803&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4247180509be419f4e62b83332dbbbe4&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 113.124.186.195
-[2026-11-11 12:01:49] ❌ 测速失败: http://27.22.35.13:7788/641886773
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=b6d27a4d10383ec5365818610d871e3d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261111093425&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=240e:36a:5157:1c00:1e41:859d:7c47:4d27&SecurityKey=20261111093425&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=53c7d0a630067222b46cf1d8594bb1ab&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.22.35.13
-[2026-11-11 12:01:49] ❌ 测速失败: http://113.124.186.195:7788/641886773
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202611111053171a347dc9e15948da932ca60dbd476020&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261111105317&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=240e:345:3625:4b00:fc68:6980:6056:f152&SecurityKey=20261111105317&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0fb8832d4728df21d2481fb76e60933c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 113.124.186.195
-[2026-11-11 12:01:49] ✅ 测速成功: http://173.208.234.146/live/cctv8.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-11 12:01:50] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-11-11 12:01:50] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-11-11 12:01:53] ❌ 测速失败: http://112.85.93.7:7788/641886773
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=a090585c55c28a3928ef44a791ca6e17&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261111090757&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=2408:823d:7611:f2dc:26bd:4cfc:ead3:6e07&SecurityKey=20261111090757&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a450bf98d475ffa0efdaf4dcded361bb&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 112.85.93.7
-[2026-11-11 12:02:09] ❌ 测速失败: http://116.52.173.150:1234/624878356
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/cctv8hd265/54/20200407/index.m3u8?msisdn=444c02cf0db9e13aa24607599f94cbcb&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261111102534&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=116.52.173.150&SecurityKey=20261111102534&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cc86a76051ac80b5982ed24f1e1e12c8&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.52.173.150
-[2026-11-11 12:02:09] ❌ 测速失败: http://116.52.173.150:1234/641886773
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=444c02cf0db9e13aa24607599f94cbcb&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261111102536&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=116.52.173.150&SecurityKey=20261111102536&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c122d311fe439c32a6c9084a225a7f12&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.52.173.150
-[2026-11-11 12:02:09] ❌ 测速失败: http://113.124.186.195:7788/624878356
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=202611111101073ad8be9cabe0445ead61c8da0805cc3b&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261111110107&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=240e:345:3625:4b00:fc68:6980:6056:f152&SecurityKey=20261111110107&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d59dbfe54e821b4968f22ab7aaeae0df&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 113.124.186.195
-[2026-11-11 12:02:09] ❌ 测速失败: http://175.169.113.102:1234/624878356
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/cctv8hd265/54/20200407/index.m3u8?msisdn=d1e2d22d513dcc70adafd981bbbf1a4e&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261111115550&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=175.169.113.102&SecurityKey=20261111115550&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e25786c77031356868bb80b53eb768aa&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 175.169.113.102
-[2026-11-11 12:02:09] ❌ 测速失败: http://42.94.209.184:7788/624878356
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=fbbbf56236f57c257c778cf5ed379909&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261111111353&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=240e:336:5:8e01::3b5&SecurityKey=20261111111353&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d63d899437fb224cf1f5648091c6ab8a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 42.94.209.184
-[2026-11-11 12:02:09] ❌ 测速失败: http://42.94.209.184:7788/641886773
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=fbbbf56236f57c257c778cf5ed379909&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261111111408&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=240e:336:5:8e01::3b5&SecurityKey=20261111111408&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f17b28dc036aa81487012295aa960af9&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 42.94.209.184
-[2026-11-11 12:02:09] ❌ 测速失败: http://112.85.93.7:7788/624878356
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=a090585c55c28a3928ef44a791ca6e17&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261111112933&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=2408:823d:7611:d960::b59&SecurityKey=20261111112933&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=959d8d581416ef72f8464e0ec6a2f3c9&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 112.85.93.7
-[2026-11-11 12:02:09] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-11-11 12:02:10] ❌ 测速失败: http://42.94.209.184:7788/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=fbbbf56236f57c257c778cf5ed379909&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111111403&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=240e:336:5:8e01::3b5&SecurityKey=20261111111403&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=299d82f513e6640d4738239345f8531b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 42.94.209.184
-[2026-11-11 12:02:11] ❌ 测速失败: http://116.237.170.51:7788/624878356
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=20261111100117718d0e6f53974553be6aac6b71963b85&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261111100117&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=240e:b8f:9131:da00:7073:a4cf:dc82:f43a&SecurityKey=20261111100117&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=851e171bf98e4c13a2b179dc298c8b0e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.237.170.51
-[2026-11-11 12:02:12] ❌ 测速失败: http://116.237.170.51:7788/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=20261111101009a4af5c04841440d3b0faf2084a26e7eb&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111101009&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=240e:b8f:9131:da00:7073:a4cf:dc82:f43a&SecurityKey=20261111101009&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2334a0a96f1f34b82e948027b2a10e42&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.237.170.51
-[2026-11-11 12:02:28] ❌ 测速失败: http://175.169.113.102:1234/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=d1e2d22d513dcc70adafd981bbbf1a4e&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111090423&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=175.169.113.102&SecurityKey=20261111090423&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b10495cb69f8df3c7a04f6f0a1d6819d&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 175.169.113.102
-[2026-11-11 12:02:28] ❌ 测速失败: http://112.85.93.7:7788/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=a090585c55c28a3928ef44a791ca6e17&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111091653&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=2408:823d:7611:f2dc:12e5:4caa:a716:1393&SecurityKey=20261111091653&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7eb3da448514051566fe0beceed1ed44&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 112.85.93.7
-[2026-11-11 12:02:28] ❌ 测速失败: http://116.52.173.150:1234/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=444c02cf0db9e13aa24607599f94cbcb&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111102621&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=116.52.173.150&SecurityKey=20261111102621&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80520e74377e3ecf9e68bd461f19aaed&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.52.173.150
-[2026-11-11 12:02:28] ❌ 测速失败: http://113.124.186.195:7788/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=20261111110109219ebddc2c1b4e12bc217fad2cac79d4&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111110109&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=240e:345:3625:4b00:fc68:6980:6056:f152&SecurityKey=20261111110109&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75a15f4814e0297494268830e2b9f93f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 113.124.186.195
-[2026-11-11 12:02:28] ❌ 测速失败: http://42.94.209.184:7788/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=fbbbf56236f57c257c778cf5ed379909&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111111357&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=240e:336:5:8e01::3b5&SecurityKey=20261111111357&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e738bcbb8d03b4613903e82b8b85f433&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 42.94.209.184
-[2026-11-11 12:02:29] ❌ 测速失败: http://116.237.170.51:7788/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=20261111100517735859fc377a487492e646c0632bafa5&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111100517&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=240e:b8f:9131:da00:7073:a4cf:dc82:f43a&SecurityKey=20261111100517&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5371c6f6b9de73563831fa92b1067836&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.237.170.51
-[2026-11-11 12:02:29] ❌ 测速失败: http://27.22.35.13:7788/673168185
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=b6d27a4d10383ec5365818610d871e3d&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261111091122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=240e:36a:5157:1c00:1e41:859d:7c47:4d27&SecurityKey=20261111091122&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cc598f6fa5bef1cde60152085cf8145c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.22.35.13
-[2026-11-11 12:02:30] ❌ 测速失败: http://116.52.173.150:1234/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=444c02cf0db9e13aa24607599f94cbcb&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111102654&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=116.52.173.150&SecurityKey=20261111102654&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8a2d012a6f54ea0b77c95d9100750f1c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 116.52.173.150
-[2026-11-11 12:02:30] ❌ 测速失败: http://27.22.35.13:7788/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=b6d27a4d10383ec5365818610d871e3d&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111090224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=240e:36a:5157:1c00:1e41:859d:7c47:4d27&SecurityKey=20261111090224&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5c27decf2822bced3c9b19418ab6ef33&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.22.35.13
-[2026-11-11 12:02:31] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.57s
-[2026-11-11 12:02:31] ❌ 测速失败: http://175.169.113.102:1234/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=d1e2d22d513dcc70adafd981bbbf1a4e&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111092823&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=175.169.113.102&SecurityKey=20261111092823&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=71b18eb6ddf0f7ec7e9452516f64cad3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 175.169.113.102
-[2026-11-11 12:02:32] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-11-11 12:02:33] ✅ 测速成功: http://116.237.170.51:7788/673168256
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.30s
-[2026-11-11 12:02:35] ✅ 测速成功: http://27.22.35.13:7788/673168256
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.62s
-[2026-11-11 12:02:35] ✅ 测速成功: http://116.52.173.150:1234/673168223
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.56s
-[2026-11-11 12:02:36] ✅ 测速成功: http://113.124.186.195:7788/673168256
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.33s
-[2026-11-11 12:02:37] ✅ 测速成功: http://116.52.173.150:1234/673168256
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.38s
-[2026-11-11 12:02:38] ✅ 测速成功: http://112.85.93.7:7788/673168256
-   速度: 669.92KB/s | 数据量: 0.7KB | 总耗时: 1.64s
-[2026-11-11 12:02:42] ✅ 测速成功: http://175.169.113.102:1234/673168256
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 4.53s
-[2026-11-11 12:02:44] ✅ 测速成功: http://113.124.186.195:7788/608807420
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.48s
-[2026-11-11 12:02:47] ✅ 测速成功: http://116.237.170.51:7788/673168223
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 18.88s
-[2026-11-11 12:02:47] ✅ 测速成功: http://42.94.209.184:7788/673168223
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 18.19s
-[2026-11-11 12:02:47] ✅ 测速成功: http://175.169.113.102:1234/673168223
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 17.05s
-[2026-11-11 12:02:47] ✅ 测速成功: http://113.124.186.195:7788/673168223
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 18.41s
-[2026-11-11 12:02:47] ❌ 测速失败: http://112.85.93.7:7788/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=a090585c55c28a3928ef44a791ca6e17&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111120157&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=180.105.36.243&SecurityKey=20261111120157&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2111c41a5029696204735de9190146d0&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 112.85.93.7
-[2026-11-11 12:02:47] ❌ 测速失败: http://113.124.186.195:7788/608807423
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=20261111110109b185b574e5f14d00bc5b78341dbcb967&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261111110109&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=240e:345:3625:4b00:fc68:6980:6056:f152&SecurityKey=20261111110109&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=991d9623c81f1690291cfdb547ec3fcd&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 113.124.186.195
-[2026-11-11 12:02:47] ❌ 测速失败: http://112.85.93.7:7788/673168223
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=a090585c55c28a3928ef44a791ca6e17&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261111103747&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=180.105.36.243&SecurityKey=20261111103747&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7c3faa076fb0f865c010aeba410c989f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 112.85.93.7
-[2026-11-11 12:02:47] ✅ 测速成功: http://42.94.209.184:7788/673168256
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 10.61s
-[2026-11-11 12:02:48] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.54s
-[2026-11-11 12:02:48] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.53s
-[2026-11-11 12:02:48] ✅ 测速成功: http://116.237.170.51:7788/608807420
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.34s
-[2026-11-11 12:02:48] ✅ 测速成功: http://116.52.173.150:1234/608807420
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.52s
-[2026-11-11 12:02:48] ✅ 测速成功: http://112.85.93.7:7788/608807420
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 1.40s
-[2026-11-11 12:02:49] ✅ 测速成功: http://42.94.209.184:7788/631780532
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.54s
-[2026-11-11 12:02:49] ❌ 测速失败: http://27.22.35.13:7788/673168223
-   错误: HTTPConnectionPool(host='hlszymgsplive.miguvideo.com', port=8080): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=b6d27a4d10383ec5365818610d871e3d&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261111091011&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=240e:36a:5157:1c00:1e41:859d:7c47:4d27&SecurityKey=20261111091011&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f56051030ae04b1c574a969453cc7333&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='hlszymgsplive.miguvideo.com', port=8080): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.22.35.13
-[2026-11-11 12:02:50] ✅ 测速成功: http://116.52.173.150:1234/631780532
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.53s
-[2026-11-11 12:02:50] ✅ 测速成功: http://27.22.35.13:7788/631780532
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.38s
-[2026-11-11 12:02:50] ✅ 测速成功: http://173.208.234.146/live/cctv3.m3u8
-   速度: 208.98KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-11 12:02:50] ✅ 测速成功: http://175.169.113.102:1234/631780532
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.53s
-[2026-11-11 12:02:51] ✅ 测速成功: http://27.22.35.13:7788/624878271
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.53s
-[2026-11-11 12:02:51] ✅ 测速成功: http://175.169.113.102:1234/624878271
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.55s
-[2026-11-11 12:02:51] ✅ 测速成功: http://42.94.209.184:7788/608807420
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 7.60s
-[2026-11-11 12:02:51] ✅ 测速成功: http://116.52.173.150:1234/624878271
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-11-11 12:02:52] ✅ 测速成功: http://175.169.113.102:1234/608807420
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 4.64s
-[2026-11-11 12:02:52] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-11 12:02:52] ✅ 测速成功: http://113.124.186.195:7788/631780532
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.60s
-[2026-11-11 12:02:52] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-11-11 12:02:52] ✅ 测速成功: http://116.237.170.51:7788/624878271
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.38s
-[2026-11-11 12:02:53] ✅ 测速成功: http://42.94.209.184:7788/631780421
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.52s
-[2026-11-11 12:02:53] ✅ 测速成功: http://113.124.186.195:7788/631780421
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.38s
-[2026-11-11 12:02:53] ✅ 测速成功: http://27.22.35.13:7788/631780421
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.50s
-[2026-11-11 12:02:54] ✅ 测速成功: http://175.169.113.102:1234/631780421
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.56s
-[2026-11-11 12:02:54] ✅ 测速成功: http://113.124.186.195:7788/624878271
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.49s
-[2026-11-11 12:02:55] ✅ 测速成功: http://27.22.35.13:7788/608807420
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 7.63s
-[2026-11-11 12:02:55] ✅ 测速成功: http://116.237.170.51:7788/608807419
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.46s
-[2026-11-11 12:02:55] ✅ 测速成功: http://112.85.93.7:7788/631780421
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-11-11 12:02:56] ✅ 测速成功: http://116.237.170.51:7788/631780532
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.67s
-[2026-11-11 12:02:56] ✅ 测速成功: http://112.85.93.7:7788/608807419
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.33s
-[2026-11-11 12:02:56] ✅ 测速成功: http://116.237.170.51:7788/631780421
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.38s
-[2026-11-11 12:02:57] ✅ 测速成功: http://42.94.209.184:7788/608807419
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.41s
-[2026-11-11 12:02:57] ✅ 测速成功: http://175.169.113.102:1234/608807419
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 4.43s
-[2026-11-11 12:02:58] ✅ 测速成功: http://116.52.173.150:1234/608807419
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.54s
-[2026-11-11 12:02:58] ✅ 测速成功: http://113.124.186.195:7788/608807416
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.33s
-[2026-11-11 12:02:59] ✅ 测速成功: http://113.124.186.195:7788/608807419
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.44s
-[2026-11-11 12:02:59] ✅ 测速成功: http://27.22.35.13:7788/608807419
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.60s
-[2026-11-11 12:02:59] ✅ 测速成功: http://116.52.173.150:1234/631780421
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.65s
-[2026-11-11 12:02:59] ✅ 测速成功: http://175.169.113.102:1234/608807416
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.53s
-[2026-11-11 12:03:00] ✅ 测速成功: http://112.85.93.7:7788/631780532
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 10.69s
-[2026-11-11 12:03:00] ✅ 测速成功: http://116.237.170.51:7788/608807416
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.38s
-[2026-11-11 12:03:00] ✅ 测速成功: http://112.85.93.7:7788/608807416
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 1.47s
-[2026-11-11 12:03:00] ✅ 测速成功: http://42.94.209.184:7788/608807416
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 4.56s
-[2026-11-11 12:03:01] ✅ 测速成功: http://27.22.35.13:7788/624878396
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.38s
-[2026-11-11 12:03:01] ✅ 测速成功: http://113.124.186.195:7788/624878396
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.51s
-[2026-11-11 12:03:01] ✅ 测速成功: http://112.85.93.7:7788/624878396
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 1.41s
-[2026-11-11 12:03:02] ✅ 测速成功: http://113.124.186.195:7788/673168121
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.33s
-[2026-11-11 12:03:02] ✅ 测速成功: http://175.169.113.102:1234/673168121
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.52s
-[2026-11-11 12:03:03] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
-   速度: 5947.44KB/s | 数据量: 31230.2KB | 总耗时: 7.55s
-[2026-11-11 12:03:04] ✅ 测速成功: http://42.94.209.184:7788/673168121
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.63s
-[2026-11-11 12:03:04] ✅ 测速成功: http://175.169.113.102:1234/624878396
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 4.72s
-[2026-11-11 12:03:04] ✅ 测速成功: http://173.208.234.146/live/cctv7.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-11 12:03:05] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.54s
-[2026-11-11 12:03:05] ✅ 测速成功: http://42.94.209.184:7788/624878396
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 4.59s
-[2026-11-11 12:03:05] ✅ 测速成功: http://27.22.35.13:7788/608807416
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 7.66s
-[2026-11-11 12:03:05] ✅ 测速成功: http://116.52.173.150:1234/608807416
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.64s
-[2026-11-11 12:03:06] ✅ 测速成功: http://27.22.35.13:7788/673168121
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.65s
-[2026-11-11 12:03:06] ✅ 测速成功: http://116.237.170.51:7788/624878396
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 5.54s
-[2026-11-11 12:03:06] ✅ 测速成功: http://113.124.186.195:7788/673168140
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.53s
-[2026-11-11 12:03:06] ✅ 测速成功: http://113.124.186.195:7788/624878405
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.33s
-[2026-11-11 12:03:07] ✅ 测速成功: http://27.22.35.13:7788/673168140
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.53s
-[2026-11-11 12:03:07] ✅ 测速成功: http://116.237.170.51:7788/624878405
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.50s
-[2026-11-11 12:03:07] ✅ 测速成功: http://112.85.93.7:7788/624878405
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 1.47s
-[2026-11-11 12:03:08] ✅ 测速成功: http://175.169.113.102:1234/624878405
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.60s
-[2026-11-11 12:03:08] ✅ 测速成功: http://116.52.173.150:1234/624878396
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.60s
-[2026-11-11 12:03:08] ✅ 测速成功: http://112.85.93.7:7788/673168121
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 4.54s
-[2026-11-11 12:03:08] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-11-11 12:03:09] ✅ 测速成功: http://116.52.173.150:1234/667987558
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.41s
-[2026-11-11 12:03:09] ✅ 测速成功: http://27.22.35.13:7788/667987558
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.54s
-[2026-11-11 12:03:10] ✅ 测速成功: http://175.169.113.102:1234/667987558
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.56s
-[2026-11-11 12:03:10] ✅ 测速成功: http://116.237.170.51:7788/673168121
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.51s
-[2026-11-11 12:03:10] ✅ 测速成功: http://112.85.93.7:7788/667987558
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.49s
-[2026-11-11 12:03:10] ✅ 测速成功: http://173.208.234.146/live/cctv11.m3u8
-   速度: 211.91KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-11 12:03:10] ✅ 测速成功: http://42.94.209.184:7788/667987558
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.43s
-[2026-11-11 12:03:10] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:03:11] ✅ 测速成功: http://42.94.209.184:7788/624878405
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 4.57s
-[2026-11-11 12:03:11] ✅ 测速成功: http://113.124.186.195:7788/624878440
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.50s
-[2026-11-11 12:03:12] ✅ 测速成功: http://175.169.113.102:1234/673168140
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.55s
-[2026-11-11 12:03:12] ✅ 测速成功: http://116.237.170.51:7788/624878440
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 2.35s
-[2026-11-11 12:03:12] ✅ 测速成功: http://113.124.186.195:7788/667987558
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.55s
-[2026-11-11 12:03:12] ✅ 测速成功: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794366000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-872e54cd66038031e7e7f6890d611d32&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.16s
-[2026-11-11 12:03:13] ✅ 测速成功: http://42.94.209.184:7788/624878440
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.54s
-[2026-11-11 12:03:13] ✅ 测速成功: http://112.85.93.7:7788/624878440
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.48s
-[2026-11-11 12:03:14] ✅ 测速成功: http://175.169.113.102:1234/952383261
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-11-11 12:03:14] ✅ 测速成功: http://27.22.35.13:7788/624878440
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.61s
-[2026-11-11 12:03:15] ✅ 测速成功: http://27.22.35.13:7788/624878405
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 8.23s
-[2026-11-11 12:03:16] ✅ 测速成功: http://116.237.170.51:7788/952383261
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.48s
-[2026-11-11 12:03:16] ✅ 测速成功: http://113.124.186.195:7788/952383261
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 2.49s
-[2026-11-11 12:03:16] ✅ 测速成功: http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-11-11 21:20:11] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.35s
+[2026-11-11 21:20:11] ✅ 测速成功: http://173.208.234.146/live/cctv3.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.45s
+[2026-11-11 21:20:11] ✅ 测速成功: http://173.208.234.146/live/cctv7.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-11-11 21:20:11] ✅ 测速成功: http://173.208.234.146/live/cctv11.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2026-11-11 21:20:11] ✅ 测速成功: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794366000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-872e54cd66038031e7e7f6890d611d32&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.14s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2026-11-11 21:20:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:11] ✅ 测速成功: http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:11] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
+   速度: 18.55KB/s | 数据量: 0.0KB | 总耗时: 0.62s
+[2026-11-11 21:20:11] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
    速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-11-11 12:03:17] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s
-[2026-11-11 12:03:17] ✅ 测速成功: http://42.94.209.184:7788/952383261
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 2.56s
-[2026-11-11 12:03:17] ✅ 测速成功: http://112.85.93.7:7788/952383261
-   速度: 669.92KB/s | 数据量: 0.7KB | 总耗时: 1.46s
-[2026-11-11 12:03:17] ✅ 测速成功: http://27.22.35.13:7788/952383261
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.56s
-[2026-11-11 12:03:18] ✅ 测速成功: http://175.169.113.102:1234/624878440
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.62s
-[2026-11-11 12:03:18] ✅ 测速成功: http://116.52.173.150:1234/952383261
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.42s
-[2026-11-11 12:03:19] ✅ 测速成功: http://42.94.209.184:7788/630287636
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.49s
-[2026-11-11 12:03:19] ✅ 测速成功: http://27.22.35.13:7788/630287636
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.55s
-[2026-11-11 12:03:19] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:19] ✅ 测速成功: http://175.169.113.102:1234/630287636
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.56s
-[2026-11-11 12:03:19] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58619.ts
-   速度: 1855.11KB/s | 数据量: 10785.8KB | 总耗时: 6.98s
-[2026-11-11 12:03:19] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:03:20] ✅ 测速成功: http://116.237.170.51:7788/667987558
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 10.67s
-[2026-11-11 12:03:20] ✅ 测速成功: http://116.52.173.150:1234/630287636
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.58s
-[2026-11-11 12:03:21] ✅ 测速成功: http://112.85.93.7:7788/956923145
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.32s
-[2026-11-11 12:03:21] ✅ 测速成功: http://113.124.186.195:7788/956923145
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.37s
-[2026-11-11 12:03:21] ✅ 测速成功: http://116.237.170.51:7788/956923145
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.62s
-[2026-11-11 12:03:21] ✅ 测速成功: http://116.52.173.150:1234/956923145
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.50s
-[2026-11-11 12:03:21] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-11 12:03:22] ✅ 测速成功: http://113.124.186.195:7788/630287636
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.56s
-[2026-11-11 12:03:22] ✅ 测速成功: http://116.52.173.150:1234/624878405
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 16.76s
-[2026-11-11 12:03:22] ✅ 测速成功: http://113.124.186.195:7788/738910914
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.35s
-[2026-11-11 12:03:23] ✅ 测速成功: http://42.94.209.184:7788/738910914
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.40s
-[2026-11-11 12:03:23] ✅ 测速成功: http://175.169.113.102:1234/738910914
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.49s
-[2026-11-11 12:03:24] ✅ 测速成功: http://116.52.173.150:1234/738910914
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.48s
-[2026-11-11 12:03:24] ✅ 测速成功: http://113.124.186.195:7788/651632648
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.33s
-[2026-11-11 12:03:25] ✅ 测速成功: http://116.52.173.150:1234/624878440
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 13.56s
-[2026-11-11 12:03:25] ✅ 测速成功: http://27.22.35.13:7788/738910914
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 2.51s
-[2026-11-11 12:03:25] ✅ 测速成功: http://116.237.170.51:7788/651632648
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.40s
-[2026-11-11 12:03:25] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-11-11 12:03:26] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-11-11 12:03:26] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-11-11 12:03:27] ✅ 测速成功: http://42.94.209.184:7788/651632648
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.60s
-[2026-11-11 12:03:28] ✅ 测速成功: http://27.22.35.13:7788/956923145
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 7.63s
-[2026-11-11 12:03:28] ✅ 测速成功: http://116.237.170.51:7788/630287636
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 10.52s
-[2026-11-11 12:03:28] ✅ 测速成功: http://175.169.113.102:1234/956923145
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.49s
-[2026-11-11 12:03:28] ✅ 测速成功: http://27.22.35.13:7788/651632648
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 5.53s
-[2026-11-11 12:03:30] ✅ 测速成功: http://42.94.209.184:7788/956923145
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 10.51s
-[2026-11-11 12:03:30] ✅ 测速成功: http://175.169.113.102:1234/849116810
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 2.25s
-[2026-11-11 12:03:30] ✅ 测速成功: http://116.52.173.150:1234/849116810
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.43s
-[2026-11-11 12:03:31] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:03:31] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 0.90s
-[2026-11-11 12:03:31] ✅ 测速成功: http://113.124.186.195:7788/849116810
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.38s
-[2026-11-11 12:03:31] ✅ 测速成功: http://116.237.170.51:7788/738910914
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 10.48s
-[2026-11-11 12:03:31] ✅ 测速成功: http://173.208.234.146/live/fhxg.m3u8
-   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-11 12:03:31] ✅ 测速成功: http://173.208.234.146/live/fhzw.m3u8
-   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-11-11 12:03:31] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-11 12:03:32] ✅ 测速成功: http://175.169.113.102:1234/651632648
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.64s
-[2026-11-11 12:03:32] ✅ 测速成功: http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
-   速度: 543.95KB/s | 数据量: 0.5KB | 总耗时: 0.94s
-[2026-11-11 12:03:32] ✅ 测速成功: http://27.22.35.13:7788/849116810
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.67s
-[2026-11-11 12:03:33] ✅ 测速成功: http://116.52.173.150:1234/608917627
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.13s
-[2026-11-11 12:03:33] ✅ 测速成功: http://42.94.209.184:7788/608831231
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.62s
-[2026-11-11 12:03:33] ✅ 测速成功: http://116.52.173.150:1234/608831231
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.52s
-[2026-11-11 12:03:33] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:33] ✅ 测速成功: http://175.169.113.102:1234/608831231
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.42s
-[2026-11-11 12:03:33] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:33] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:34] ✅ 测速成功: http://113.124.186.195:7788/608831231
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.38s
-[2026-11-11 12:03:34] ✅ 测速成功: http://116.237.170.51:7788/849116810
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.62s
-[2026-11-11 12:03:34] ✅ 测速成功: http://27.22.35.13:7788/608831231
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.67s
-[2026-11-11 12:03:35] ✅ 测速成功: http://116.237.170.51:7788/947472496
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.54s
-[2026-11-11 12:03:35] ✅ 测速成功: http://113.124.186.195:7788/947472496
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.54s
-[2026-11-11 12:03:35] ✅ 测速成功: http://42.94.209.184:7788/947472496
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.56s
-[2026-11-11 12:03:35] ✅ 测速成功: http://116.52.173.150:1234/651632648
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 10.56s
-[2026-11-11 12:03:35] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.61s
-[2026-11-11 12:03:35] ✅ 测速成功: http://175.169.113.102:1234/947472496
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.54s
-[2026-11-11 12:03:35] ✅ 测速成功: http://42.94.209.184:7788/849116810
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 7.68s
-[2026-11-11 12:03:36] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:36] ✅ 测速成功: http://116.237.170.51:7788/962042070
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.49s
-[2026-11-11 12:03:37] ✅ 测速成功: http://113.124.186.195:7788/962042070
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.48s
-[2026-11-11 12:03:37] ✅ 测速成功: http://175.169.113.102:1234/962042070
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-11 12:03:37] ✅ 测速成功: http://173.208.234.146/live/hnws.m3u8
-   速度: 206.05KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-11 12:03:37] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:03:38] ✅ 测速成功: http://113.124.186.195:7788/947472502
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.47s
-[2026-11-11 12:03:39] ✅ 测速成功: http://116.52.173.150:1234/962042070
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.47s
-[2026-11-11 12:03:40] ✅ 测速成功: http://42.94.209.184:7788/962042070
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 4.58s
-[2026-11-11 12:03:40] ✅ 测速成功: http://112.85.93.7:7788/962042070
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 4.38s
-[2026-11-11 12:03:40] ✅ 测速成功: http://175.169.113.102:1234/947472502
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.41s
-[2026-11-11 12:03:41] ✅ 测速成功: http://112.85.93.7:7788/947472496
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.43s
-[2026-11-11 12:03:41] ✅ 测速成功: http://112.85.93.7:7788/947472502
-   速度: 669.92KB/s | 数据量: 0.7KB | 总耗时: 1.37s
-[2026-11-11 12:03:42] ✅ 测速成功: http://116.52.173.150:1234/947472502
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.41s
-[2026-11-11 12:03:42] ✅ 测速成功: http://27.22.35.13:7788/947472496
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 8.76s
-[2026-11-11 12:03:43] ✅ 测速成功: http://42.94.209.184:7788/947472502
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 2.39s
-[2026-11-11 12:03:43] ✅ 测速成功: http://27.22.35.13:7788/962042070
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 7.74s
-[2026-11-11 12:03:43] ✅ 测速成功: http://116.237.170.51:7788/790187291
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.41s
-[2026-11-11 12:03:43] ✅ 测速成功: http://113.124.186.195:7788/790187291
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.53s
-[2026-11-11 12:03:44] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:03:44] ✅ 测速成功: http://27.22.35.13:7788/947472502
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 5.46s
-[2026-11-11 12:03:44] ✅ 测速成功: http://175.169.113.102:1234/790187291
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.53s
-[2026-11-11 12:03:44] ✅ 测速成功: http://112.85.93.7:7788/790187291
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.57s
-[2026-11-11 12:03:46] ✅ 测速成功: http://27.22.35.13:7788/947472500
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.59s
-[2026-11-11 12:03:47] ✅ 测速成功: http://116.52.173.150:1234/790187291
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.46s
-[2026-11-11 12:03:48] ✅ 测速成功: http://116.52.173.150:1234/849119120
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 16.63s
-[2026-11-11 12:03:49] ✅ 测速成功: http://175.169.113.102:1234/947472500
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.40s
-[2026-11-11 12:03:49] ✅ 测速成功: http://42.94.209.184:7788/790187291
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 7.51s
-[2026-11-11 12:03:49] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-11-11 12:03:50] ✅ 测速成功: http://27.22.35.13:7788/790187291
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 7.64s
-[2026-11-11 12:03:50] ✅ 测速成功: http://116.52.173.150:1234/947472500
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 6.21s
-[2026-11-11 12:03:50] ✅ 测速成功: http://112.85.93.7:7788/947472500
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.47s
-[2026-11-11 12:03:50] ✅ 测速成功: http://116.52.173.150:1234/947472496
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 16.77s
-[2026-11-11 12:03:51] ✅ 测速成功: http://116.237.170.51:7788/947472502
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 10.51s
-[2026-11-11 12:03:51] ✅ 测速成功: http://113.124.186.195:7788/623899368
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.49s
-[2026-11-11 12:03:51] ✅ 测速成功: http://112.85.93.7:7788/623899368
-   速度: 655.27KB/s | 数据量: 0.7KB | 总耗时: 1.51s
-[2026-11-11 12:03:51] ✅ 测速成功: http://116.237.170.51:7788/947472500
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.66s
-[2026-11-11 12:03:52] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-11-11 12:03:52] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:03:52] ✅ 测速成功: http://42.94.209.184:7788/623899368
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.52s
-[2026-11-11 12:03:53] ✅ 测速成功: http://116.237.170.51:7788/783847495
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.29s
-[2026-11-11 12:03:53] ✅ 测速成功: http://113.124.186.195:7788/783847495
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.46s
-[2026-11-11 12:03:55] ✅ 测速成功: http://116.52.173.150:1234/783847495
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.33s
-[2026-11-11 12:03:55] ✅ 测速成功: http://27.22.35.13:7788/783847495
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.43s
-[2026-11-11 12:03:55] ❌ 测速失败: https://stream2.jlntv.cn/sytv/sd/live.m3u8
-   错误: HTTPSConnectionPool(host='stream2.jlntv.cn', port=443): Max retries exceeded with url: /sytv/sd/live.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='stream2.jlntv.cn', port=443) at 0x77760184bed0>, 'Connection to stream2.jlntv.cn timed out. (connect timeout=3.05)')) | 域名: stream2.jlntv.cn
-[2026-11-11 12:03:55] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:55] ✅ 测速成功: http://42.94.209.184:7788/947472500
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 7.63s
-[2026-11-11 12:03:56] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:03:56] ✅ 测速成功: http://116.237.170.51:7788/623899368
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.58s
-[2026-11-11 12:03:58] ✅ 测速成功: http://27.22.35.13:7788/623899368
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 7.51s
-[2026-11-11 12:03:58] ✅ 测速成功: http://116.52.173.150:1234/623899368
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.47s
-[2026-11-11 12:03:58] ✅ 测速成功: http://113.124.186.195:7788/947472500
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 13.75s
-[2026-11-11 12:03:59] ✅ 测速成功: http://42.94.209.184:7788/783847495
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 4.47s
-[2026-11-11 12:03:59] ✅ 测速成功: http://112.85.93.7:7788/630291707
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-11 12:04:00] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:04:00] ✅ 测速成功: http://175.169.113.102:1234/783847495
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.67s
-[2026-11-11 12:04:00] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-11 12:04:01] ✅ 测速成功: http://116.52.173.150:1234/956904896
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.52s
-[2026-11-11 12:04:01] ✅ 测速成功: http://27.22.35.13:7788/630291707
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 5.48s
-[2026-11-11 12:04:02] ✅ 测速成功: http://112.85.93.7:7788/738910535
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.49s
-[2026-11-11 12:04:03] ✅ 测速成功: http://175.169.113.102:1234/630291707
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.67s
-[2026-11-11 12:04:03] ✅ 测速成功: http://116.237.170.51:7788/630291707
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.50s
-[2026-11-11 12:04:04] ✅ 测速成功: http://175.169.113.102:1234/623899368
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 13.65s
-[2026-11-11 12:04:04] ✅ 测速成功: http://113.124.186.195:7788/630291707
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 7.61s
-[2026-11-11 12:04:04] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-11 12:04:06] ✅ 测速成功: http://42.94.209.184:7788/947472506
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.54s
-[2026-11-11 12:04:06] ✅ 测速成功: http://113.124.186.195:7788/738910535
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 2.57s
-[2026-11-11 12:04:06] ✅ 测速成功: http://42.94.209.184:7788/630291707
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 7.61s
-[2026-11-11 12:04:06] ✅ 测速成功: http://175.169.113.102:1234/947472506
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 1.55s
-[2026-11-11 12:04:06] ✅ 测速成功: http://116.237.170.51:7788/738910535
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.52s
-[2026-11-11 12:04:07] ✅ 测速成功: http://116.237.170.51:7788/947472506
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.49s
-[2026-11-11 12:04:07] ✅ 测速成功: http://27.22.35.13:7788/738910535
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.59s
-[2026-11-11 12:04:08] ✅ 测速成功: http://112.85.93.7:7788/947472506
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.48s
-[2026-11-11 12:04:08] ✅ 测速成功: http://116.52.173.150:1234/630291707
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 10.55s
-[2026-11-11 12:04:08] ✅ 测速成功: http://175.169.113.102:1234/738910535
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.64s
-[2026-11-11 12:04:09] ✅ 测速成功: http://116.237.170.51:7788/609154353
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.32s
-[2026-11-11 12:04:09] ✅ 测速成功: http://113.124.186.195:7788/609154353
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.80s
-[2026-11-11 12:04:09] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-11-11 12:04:09] ✅ 测速成功: http://42.94.209.184:7788/738910535
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 8.53s
-[2026-11-11 12:04:10] ✅ 测速成功: http://112.85.93.7:7788/961023778
-   速度: 669.92KB/s | 数据量: 0.7KB | 总耗时: 1.37s
-[2026-11-11 12:04:11] ✅ 测速成功: http://116.237.170.51:7788/961023778
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.50s
-[2026-11-11 12:04:11] ✅ 测速成功: http://27.22.35.13:7788/947472506
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 5.50s
-[2026-11-11 12:04:12] ✅ 测速成功: http://27.22.35.13:7788/961023778
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 1.61s
-[2026-11-11 12:04:12] ✅ 测速成功: http://27.22.35.13:7788/609154353
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.62s
-[2026-11-11 12:04:13] ✅ 测速成功: http://42.94.209.184:7788/961023778
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.36s
-[2026-11-11 12:04:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-11 12:04:13] ✅ 测速成功: http://116.52.173.150:1234/738910535
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 13.55s
-[2026-11-11 12:04:14] ✅ 测速成功: http://116.52.173.150:1234/947472506
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.49s
-[2026-11-11 12:04:14] ✅ 测速成功: http://113.124.186.195:7788/961023778
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 4.60s
-[2026-11-11 12:04:14] ✅ 测速成功: http://116.237.170.51:7788/738910838
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.56s
-[2026-11-11 12:04:15] ✅ 测速成功: http://42.94.209.184:7788/738910838
-   速度: 651.37KB/s | 数据量: 0.7KB | 总耗时: 1.55s
-[2026-11-11 12:04:16] ✅ 测速成功: http://175.169.113.102:1234/961023778
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 4.63s
-[2026-11-11 12:04:16] ✅ 测速成功: http://175.169.113.102:1234/609154353
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.66s
-[2026-11-11 12:04:16] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-11 12:04:16] ✅ 测速成功: http://113.124.186.195:7788/947472506
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 10.64s
-[2026-11-11 12:04:16] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:04:17] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-11 12:04:17] ✅ 测速成功: http://113.124.186.195:7788/738910838
-   速度: 682.62KB/s | 数据量: 0.7KB | 总耗时: 1.44s
-[2026-11-11 12:04:17] ✅ 测速成功: http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
-   速度: 315.43KB/s | 数据量: 0.3KB | 总耗时: 0.78s
-[2026-11-11 12:04:17] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.60s
-[2026-11-11 12:04:17] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-11 12:04:17] ✅ 测速成功: http://27.22.35.13:7788/738910838
-   速度: 668.95KB/s | 数据量: 0.7KB | 总耗时: 4.55s
-[2026-11-11 12:04:18] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-11 12:04:18] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.54s
-[2026-11-11 12:04:18] ✅ 测速成功: http://116.52.173.150:1234/738910838
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.46s
-[2026-11-11 12:04:18] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.72s
-[2026-11-11 12:04:19] ✅ 测速成功: http://116.52.173.150:1234/609154353
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 10.48s
-[2026-11-11 12:04:19] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.54s
-[2026-11-11 12:04:21] ✅ 测速成功: http://175.169.113.102:1234/738910838
-   速度: 646.48KB/s | 数据量: 0.6KB | 总耗时: 7.72s
-[2026-11-11 12:04:22] ✅ 测速成功: http://112.85.93.7:7788/738910838
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.60s
-[2026-11-11 12:04:22] ✅ 测速成功: http://116.52.173.150:1234/961023778
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 10.50s
-[2026-11-11 12:04:24] ❌ 测速失败: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   错误: HTTPSConnectionPool(host='srs.iyb983.cn', port=443): Read timed out. (read timeout=5) | 域名: srs.iyb983.cn
-[2026-11-11 12:04:24] ❌ 测速失败: https://srs.iyb983.cn/video/CYS/index.m3u8
-   错误: HTTPSConnectionPool(host='srs.iyb983.cn', port=443): Read timed out. (read timeout=5) | 域名: srs.iyb983.cn
+[2026-11-11 21:20:12] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:12] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.47s
+[2026-11-11 21:20:12] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-11-11 21:20:12] ✅ 测速成功: http://173.208.234.146/live/fhxg.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-11-11 21:20:12] ✅ 测速成功: http://173.208.234.146/live/fhzw.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-11-11 21:20:12] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-11-11 21:20:12] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:12] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-11-11 21:20:12] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-11-11 21:20:12] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.24s
+[2026-11-11 21:20:12] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.53s
+[2026-11-11 21:20:12] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.02s
+[2026-11-11 21:20:12] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.11s
+[2026-11-11 21:20:12] ✅ 测速成功: http://173.208.234.146/live/hnws.m3u8
+   速度: 206.05KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-11-11 21:20:13] ✅ 测速成功: http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
+   速度: 543.95KB/s | 数据量: 0.5KB | 总耗时: 0.96s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-11-11 21:20:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:13] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 2.55s
+[2026-11-11 21:20:13] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.43s
+[2026-11-11 21:20:13] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.50s
+[2026-11-11 21:20:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-11-11 21:20:13] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:14] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:14] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.47s
+[2026-11-11 21:20:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2026-11-11 21:20:14] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-11-11 21:20:14] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.50s
+[2026-11-11 21:20:14] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-11-11 21:20:14] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-11-11 21:20:14] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.50s
+[2026-11-11 21:20:14] ✅ 测速成功: http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
+   速度: 315.43KB/s | 数据量: 0.3KB | 总耗时: 0.96s
+[2026-11-11 21:20:14] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.69s
+[2026-11-11 21:20:15] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 2.34s
+[2026-11-11 21:20:17] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58619.ts
+   速度: 2956.40KB/s | 数据量: 15416.6KB | 总耗时: 6.65s
