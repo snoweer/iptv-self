@@ -1,1333 +1,265 @@
-测速日志 2026-11-15 05:51:55
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.101:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.101:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x780855437c50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.85:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.85:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554c9e00>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.131:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.131:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x780855437250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.131:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.131:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x780855358d70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.103:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.103:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bca70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.100:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.100:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554ca520>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.104:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.104:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bccb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.86:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.86:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.102:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.102:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcdd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:00] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.240:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.240:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3d10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.108:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.108:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcef0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.106:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.106:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd490>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.5:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.5:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdeb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.105:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.105:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc950>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.109:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.109:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc830>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.107:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.107:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bda30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.239:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.239:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be0f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.233:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.233:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be330>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.110:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.110:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:03] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.115:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.115:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808556072f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.116:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.116:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.119:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.119:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdc70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.121:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.121:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.117:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.117:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.118:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.118:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd370>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.124:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.124:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.120:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.120:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.123:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.123:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd7f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.122:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.122:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be7b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:06] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.127:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.127:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.151:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.151:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.87:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.87:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcdd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.152:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.152:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc290>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.153:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.153:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf2f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.154:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.154:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.155:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.155:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bed50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.214:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.214:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bca70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.168:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.168:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf0b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.88:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.88:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:09] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.215:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.215:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bee70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.156:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.156:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bef90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.157:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.157:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.159:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.159:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be8d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.158:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.158:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf410>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.160:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.160:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bda30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.251:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.251:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.93:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.93:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.162:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.162:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc950>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.84:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.84:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:12] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.164:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.164:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.252:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.252:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.238:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.238:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bccb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.98:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.98:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be450>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.200:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.200:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd5b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.230:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.230:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.101:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.101:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.64:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.64:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc830>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.241:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.241:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf650>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.242:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.242:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf890>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:15] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.243:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.243:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.49:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.49:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be690>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.50:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.50:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdc70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.53:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.53:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcef0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.57:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.57:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdeb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.61:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.61:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.59:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.59:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.58:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.58:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.56:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.56:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcdd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.55:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.55:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfbf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:19] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.52:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.52:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.51:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.51:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.95:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.95:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.62:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.62:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd130>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.135:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.135:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3bf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.96:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.96:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf9b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.184:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.184:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.134:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.134:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be0f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.214:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.214:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf0b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.246:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.246:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd5b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:22] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.74:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.74:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be450>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.181:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.181:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf410>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.201:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.201:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.186:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.186:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.185:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.185:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.91:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.91:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.195:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.195:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.202:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.202:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfbf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.182:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.182:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.203:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.203:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bed50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:25] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.188:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.188:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.193:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.193:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.189:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.189:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be690>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.94:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.94:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bccb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.92:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.92:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd910>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.199:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.199:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.196:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.196:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfd10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.89:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.89:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3bf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.251.92:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.251.92:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.225:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.225:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be330>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:28] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.190:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.190:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.197:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.197:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bec30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.198:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.198:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be7b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.200:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.200:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.76:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.76:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be8d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.54:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.54:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf2f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.132:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.132:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bef90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.60:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.60:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.65:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.65:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bee70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.81:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.81:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:31] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.66:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.66:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc950>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.69:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.69:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcef0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.68:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.68:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.70:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.70:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf410>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.71:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.71:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf9b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.67:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.67:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be450>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.73:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.73:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.74:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.74:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.75:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.75:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.179:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.179:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be330>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:34] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.180:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.180:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf890>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.181:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.181:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc830>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.192:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.192:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd910>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.254:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.254:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf770>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.202:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.202:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfe30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.66:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.66:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.67:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.67:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.86:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.86:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdc70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.97:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.97:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be330>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.87:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.87:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bda30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:37] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.88:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.88:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808556072f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.254.72:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.254.72:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdeb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.61:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.61:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.121:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.121:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.2:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.2:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.122:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.122:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bca70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.15:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.15:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd130>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.42:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.42:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf410>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.7:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.7:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc3b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.16:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.16:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:40] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.8:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.8:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd7f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.209:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.209:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf2f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.234:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.234:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bed50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.208:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.208:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf650>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.252.235:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.252.235:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be690>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.1:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.1:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd490>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.23:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.23:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.24:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.24:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bca70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.4:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.4:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.41:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.41:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:43] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.13:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.13:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.26:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.26:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.14:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.14:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be0f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.21:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.21:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd5b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.22:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.22:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf0b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.75:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.75:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be8d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.39:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.39:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.12:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.12:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bef90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.10:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.10:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bee70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.11:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.11:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bccb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:46] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.18:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.18:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.19:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.19:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808556072f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.36:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.36:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.32:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.32:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.20:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.20:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.45:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.45:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf770>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.33:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.33:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.34:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.34:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.47:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.47:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd910>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.31:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.31:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd370>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:49] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.30:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.30:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf650>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.29:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.29:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be450>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.46:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.46:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.48:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.48:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc3b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.35:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.35:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf9b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.37:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.37:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.25:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.25:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcef0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.44:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.44:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc290>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.38:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.38:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808556072f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.43:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.43:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfbf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:52] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.255.28:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.255.28:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.253.231:9000
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.253.231:9000 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdeb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.101:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.101:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfd10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.102:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.102:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.100:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.100:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be7b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.109:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.109:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdc70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.106:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.106:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bef90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.105:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.105:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bccb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.108:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.108:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfe30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.103:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.103:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:55] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.104:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.104:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.107:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.107:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf770>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.110:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.110:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be690>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.233:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.233:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.5:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.5:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.239:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.239:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd490>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.119:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.119:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd130>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.115:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.115:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be8d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.118:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.118:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.116:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.116:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:52:58] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.117:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.117:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bca70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.123:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.123:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.124:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.124:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.121:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.121:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf9b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.151:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.151:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd7f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.120:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.120:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bed50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.122:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.122:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.127:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.127:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdeb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.152:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.152:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.154:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.154:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808556072f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:01] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.153:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.153:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.195:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.195:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.155:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.155:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.168:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.168:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc3b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.156:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.156:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.158:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.158:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bec30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.157:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.157:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be450>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.159:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.159:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf650>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.160:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.160:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf770>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.251:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.251:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf0b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:04] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.162:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.162:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.93:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.93:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.98:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.98:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.164:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.164:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be8d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.252:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.252:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.238:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.238:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x78083cf74290>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.243:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.243:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.241:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.241:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.230:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.230:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfd10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.242:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.242:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:07] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.214:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.214:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.95:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.95:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc830>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.96:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.96:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdc70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.74:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.74:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf2f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.135:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.135:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3bf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.134:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.134:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.186:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.186:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bec30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.201:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.201:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.184:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.184:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bed50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.91:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.91:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf9b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:10] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.185:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.185:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.195:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.195:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.181:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.181:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.202:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.202:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.182:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.182:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd370>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.188:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.188:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.203:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.203:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.92:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.92:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.193:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.193:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bee70>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.94:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.94:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdfd0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:13] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.200:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.200:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc290>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.190:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.190:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.196:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.196:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.225:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.225:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfbf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.189:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.189:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc830>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.199:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.199:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bcef0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.198:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.198:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x78083cf74710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.197:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.197:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.192:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.192:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bccb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.254:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.254:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:17] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.66:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.66:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd7f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.67:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.67:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.86:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.86:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf0b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.88:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.88:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be210>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.87:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.87:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf770>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.97:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.97:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf9b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.180:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.180:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfd10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.179:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.179:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.181:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.181:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.231:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.231:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd370>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:20] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.61:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.61:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.121:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.121:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bef90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.15:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.15:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.122:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.122:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x78083cf74050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.16:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.16:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808556072f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.7:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.7:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.8:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.8:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd250>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.234:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.234:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.235:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.235:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdeb0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.208:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.208:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf2f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:23] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.245.209:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.245.209:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bec30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.24:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.24:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdb50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.1:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.1:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.41:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.41:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.23:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.23:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd490>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.4:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.4:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.13:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.13:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be690>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.14:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.14:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be570>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.26:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.26:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.22:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.22:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:26] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.21:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.21:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bed50>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.246.75:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.246.75:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.12:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.12:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf650>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.39:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.39:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfbf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.10:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.10:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc290>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.11:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.11:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3bf0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.18:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.18:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfad0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.19:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.19:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552be9f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.20:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.20:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd6d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.32:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.32:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf2f0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:29] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.36:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.36:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x78083cf75010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.42:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.42:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc050>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.33:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.33:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bd010>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.45:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.45:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x78083cf744d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.34:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.34:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc830>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.31:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.31:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc950>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.30:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.30:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3e30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.29:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.29:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d3530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.35:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.35:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf0b0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.37:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.37:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bfe30>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:32] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.25:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.25:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf650>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:35] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.44:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.44:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf530>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:35] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.57:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.57:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bdd90>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:35] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.43:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.43:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808554d31d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:35] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.28:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.28:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bc710>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:35] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.38:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.38:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552bf1d0>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:35] ❌ 测速失败: http://58.46.70.91:8188/udp/239.76.248.27:1234
-   错误: HTTPConnectionPool(host='58.46.70.91', port=8188): Max retries exceeded with url: /udp/239.76.248.27:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='58.46.70.91', port=8188) at 0x7808552beb10>, 'Connection to 58.46.70.91 timed out. (connect timeout=3.05)')) | 域名: 58.46.70.91
-[2026-11-15 05:53:38] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.21:10210
-   速度: 770.87KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-11-15 05:53:38] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.165:11650
-   速度: 764.28KB/s | 数据量: 4096.0KB | 总耗时: 5.89s
-[2026-11-15 05:53:38] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.164:11640
-   速度: 764.25KB/s | 数据量: 4096.0KB | 总耗时: 5.90s
-[2026-11-15 05:53:38] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.122:2000
-   速度: 739.82KB/s | 数据量: 4096.0KB | 总耗时: 6.09s
-[2026-11-15 05:53:40] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.168:11680
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:40] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.173:11730
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:41] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.149:2000
-   速度: 774.87KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
-[2026-11-15 05:53:41] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.195:11950
-   速度: 759.63KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
-[2026-11-15 05:53:41] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.171:11710
-   速度: 754.94KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:53:41] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.167:11670
-   速度: 755.16KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:53:43] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.120:11200
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:43] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.197:11970
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:43] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.122:11220
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:44] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.204:12040
-   速度: 766.19KB/s | 数据量: 4096.0KB | 总耗时: 5.88s
-[2026-11-15 05:53:46] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.154:2000
-   速度: 789.70KB/s | 数据量: 4096.0KB | 总耗时: 5.70s
-[2026-11-15 05:53:46] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.158:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:46] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.159:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:46] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.155:2000
-   速度: 749.42KB/s | 数据量: 4096.0KB | 总耗时: 6.00s
-[2026-11-15 05:53:47] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.156:2000
-   速度: 740.55KB/s | 数据量: 4096.0KB | 总耗时: 6.09s
-[2026-11-15 05:53:47] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.157:2000
-   速度: 870.11KB/s | 数据量: 5120.0KB | 总耗时: 6.39s
-[2026-11-15 05:53:50] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.58:2000
-   速度: 751.85KB/s | 数据量: 4096.0KB | 总耗时: 5.99s
-[2026-11-15 05:53:50] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.177:11770
-   速度: 503.36KB/s | 数据量: 3072.0KB | 总耗时: 6.64s
-[2026-11-15 05:53:50] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.179:11790
-   速度: 499.25KB/s | 数据量: 3072.0KB | 总耗时: 6.69s
-[2026-11-15 05:53:50] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.178:11780
-   速度: 509.21KB/s | 数据量: 3072.0KB | 总耗时: 6.56s
-[2026-11-15 05:53:52] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.165:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:52] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.164:2000
-   速度: 771.60KB/s | 数据量: 4096.0KB | 总耗时: 5.84s
-[2026-11-15 05:53:52] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.172:2000
-   速度: 765.29KB/s | 数据量: 4096.0KB | 总耗时: 5.88s
-[2026-11-15 05:53:53] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.173:2000
-   速度: 728.57KB/s | 数据量: 4096.0KB | 总耗时: 6.18s
-[2026-11-15 05:53:53] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.59:2000
-   速度: 755.10KB/s | 数据量: 4096.0KB | 总耗时: 5.95s
-[2026-11-15 05:53:53] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.57:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:53:55] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.177:2000
-   速度: 762.44KB/s | 数据量: 4096.0KB | 总耗时: 5.91s
-[2026-11-15 05:53:56] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.155:11550
-   速度: 770.13KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-11-15 05:53:57] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.139:11390
-   速度: 499.45KB/s | 数据量: 3072.0KB | 总耗时: 6.69s
-[2026-11-15 05:53:57] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.154:11540
-   速度: 496.43KB/s | 数据量: 3072.0KB | 总耗时: 6.73s
-[2026-11-15 05:53:58] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.140:11400
-   速度: 767.72KB/s | 数据量: 4096.0KB | 总耗时: 5.87s
-[2026-11-15 05:53:58] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.52:2000
-   速度: 764.19KB/s | 数据量: 4096.0KB | 总耗时: 5.89s
-[2026-11-15 05:53:58] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.49:2000
-   速度: 753.44KB/s | 数据量: 4096.0KB | 总耗时: 5.98s
-[2026-11-15 05:53:58] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.32:10320
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.56s
-[2026-11-15 05:53:59] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.71:2000
-   速度: 514.12KB/s | 数据量: 3072.0KB | 总耗时: 6.49s
-[2026-11-15 05:53:59] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.19:10190
-   速度: 507.73KB/s | 数据量: 3072.0KB | 总耗时: 6.60s
-[2026-11-15 05:54:01] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.41:10410
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:01] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.42:10420
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:02] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.45:10450
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:02] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.43:10430
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:04] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.48:10480
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.54s
-[2026-11-15 05:54:04] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.49:10490
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:04] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.50:10500
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:04] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.47:10470
-   速度: 875.14KB/s | 数据量: 5120.0KB | 总耗时: 6.40s
-[2026-11-15 05:54:05] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.109:11090
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:05] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.63:10630
-   速度: 895.20KB/s | 数据量: 5120.0KB | 总耗时: 6.25s
-[2026-11-15 05:54:08] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.144:11440
-   速度: 728.41KB/s | 数据量: 4096.0KB | 总耗时: 6.13s
-[2026-11-15 05:54:08] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.142:11420
-   速度: 505.66KB/s | 数据量: 3072.0KB | 总耗时: 6.60s
-[2026-11-15 05:54:08] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.145:11450
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:09] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.191:11910
-   速度: 504.99KB/s | 数据量: 3072.0KB | 总耗时: 6.62s
-[2026-11-15 05:54:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.193:11930
-   速度: 764.11KB/s | 数据量: 4096.0KB | 总耗时: 5.91s
-[2026-11-15 05:54:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.206:12060
-   速度: 780.84KB/s | 数据量: 4096.0KB | 总耗时: 5.78s
-[2026-11-15 05:54:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.205:12050
-   速度: 518.02KB/s | 数据量: 3072.0KB | 总耗时: 6.46s
-[2026-11-15 05:54:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.192:11920
-   速度: 502.59KB/s | 数据量: 3072.0KB | 总耗时: 6.65s
-[2026-11-15 05:54:11] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.208:12080
-   速度: 791.58KB/s | 数据量: 4096.0KB | 总耗时: 5.69s
-[2026-11-15 05:54:11] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.207:12070
-   速度: 507.66KB/s | 数据量: 3072.0KB | 总耗时: 6.60s
-[2026-11-15 05:54:13] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.232:12320
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:14] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.209:12090
-   速度: 754.20KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:54:14] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.228:12280
-   速度: 510.31KB/s | 数据量: 3072.0KB | 总耗时: 6.55s
-[2026-11-15 05:54:15] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.235:12350
-   速度: 508.75KB/s | 数据量: 3072.0KB | 总耗时: 6.58s
-[2026-11-15 05:54:16] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.80:2000
-   速度: 764.02KB/s | 数据量: 4096.0KB | 总耗时: 5.89s
-[2026-11-15 05:54:16] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.39:2000
-   速度: 740.84KB/s | 数据量: 4096.0KB | 总耗时: 6.08s
-[2026-11-15 05:54:16] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.93:2000
-   速度: 789.75KB/s | 数据量: 4096.0KB | 总耗时: 5.70s
-[2026-11-15 05:54:17] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.2:10020
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:17] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.1:10010
-   速度: 733.07KB/s | 数据量: 4096.0KB | 总耗时: 6.14s
-[2026-11-15 05:54:17] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.94:2000
-   速度: 468.95KB/s | 数据量: 3072.0KB | 总耗时: 7.10s
-[2026-11-15 05:54:19] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.3:10030
-   速度: 769.78KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-11-15 05:54:20] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.53:10530
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:20] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.4:10040
-   速度: 724.20KB/s | 数据量: 4096.0KB | 总耗时: 6.19s
-[2026-11-15 05:54:21] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.5:10050
-   速度: 804.02KB/s | 数据量: 4096.0KB | 总耗时: 5.61s
-[2026-11-15 05:54:21] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.6:10060
-   速度: 770.06KB/s | 数据量: 4096.0KB | 总耗时: 5.85s
-[2026-11-15 05:54:21] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.51:10510
-   速度: 783.69KB/s | 数据量: 4096.0KB | 总耗时: 5.75s
-[2026-11-15 05:54:22] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.8:10080
-   速度: 778.63KB/s | 数据量: 4096.0KB | 总耗时: 5.79s
-[2026-11-15 05:54:23] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.10:10100
-   速度: 800.62KB/s | 数据量: 4096.0KB | 总耗时: 5.63s
-[2026-11-15 05:54:23] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.9:10090
-   速度: 761.09KB/s | 数据量: 4096.0KB | 总耗时: 5.92s
-[2026-11-15 05:54:23] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.11:10110
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:25] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.12:10120
-   速度: 772.48KB/s | 数据量: 4096.0KB | 总耗时: 5.83s
-[2026-11-15 05:54:26] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.13:10130
-   速度: 768.16KB/s | 数据量: 4096.0KB | 总耗时: 5.87s
-[2026-11-15 05:54:26] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.14:10140
-   速度: 758.11KB/s | 数据量: 4096.0KB | 总耗时: 5.95s
-[2026-11-15 05:54:27] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.15:10150
-   速度: 777.58KB/s | 数据量: 4096.0KB | 总耗时: 5.80s
-[2026-11-15 05:54:27] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.71:10710
-   速度: 774.68KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
-[2026-11-15 05:54:27] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.7:10070
-   速度: 748.96KB/s | 数据量: 4096.0KB | 总耗时: 6.02s
-[2026-11-15 05:54:29] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.75:10750
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:29] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.74:10740
-   速度: 797.04KB/s | 数据量: 4096.0KB | 总耗时: 5.66s
-[2026-11-15 05:54:29] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.72:10720
-   速度: 487.88KB/s | 数据量: 3072.0KB | 总耗时: 6.84s
-[2026-11-15 05:54:29] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.73:10730
-   速度: 766.05KB/s | 数据量: 4096.0KB | 总耗时: 5.88s
-[2026-11-15 05:54:31] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.76:10760
-   速度: 756.56KB/s | 数据量: 4096.0KB | 总耗时: 5.96s
-[2026-11-15 05:54:31] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.77:10770
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:32] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.79:10790
-   速度: 768.63KB/s | 数据量: 4096.0KB | 总耗时: 5.86s
-[2026-11-15 05:54:32] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.80:10800
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:33] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.82:10820
-   速度: 802.90KB/s | 数据量: 4096.0KB | 总耗时: 5.62s
-[2026-11-15 05:54:33] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.81:10810
-   速度: 772.12KB/s | 数据量: 4096.0KB | 总耗时: 5.84s
-[2026-11-15 05:54:34] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.83:10830
-   速度: 772.24KB/s | 数据量: 4096.0KB | 总耗时: 5.84s
-[2026-11-15 05:54:34] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.84:10840
-   速度: 784.15KB/s | 数据量: 4096.0KB | 总耗时: 5.75s
-[2026-11-15 05:54:34] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.85:10850
-   速度: 784.29KB/s | 数据量: 4096.0KB | 总耗时: 5.75s
-[2026-11-15 05:54:34] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.86:10860
-   速度: 782.36KB/s | 数据量: 4096.0KB | 总耗时: 5.77s
-[2026-11-15 05:54:37] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.88:10880
-   速度: 802.03KB/s | 数据量: 4096.0KB | 总耗时: 5.62s
-[2026-11-15 05:54:37] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.87:10870
-   速度: 762.83KB/s | 数据量: 4096.0KB | 总耗时: 5.91s
-[2026-11-15 05:54:37] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.89:10890
-   速度: 765.38KB/s | 数据量: 4096.0KB | 总耗时: 5.89s
-[2026-11-15 05:54:39] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.94:10940
-   速度: 707.81KB/s | 数据量: 4096.0KB | 总耗时: 6.32s
-[2026-11-15 05:54:39] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.96:10960
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:39] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.95:10950
-   速度: 755.31KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:54:40] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.101:11010
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:40] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.98:10980
-   速度: 776.55KB/s | 数据量: 4096.0KB | 总耗时: 5.80s
-[2026-11-15 05:54:40] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.97:10970
-   速度: 775.26KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
-[2026-11-15 05:54:40] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.99:10990
-   速度: 759.03KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
-[2026-11-15 05:54:43] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.102:11020
-   速度: 752.54KB/s | 数据量: 4096.0KB | 总耗时: 6.00s
-[2026-11-15 05:54:43] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.78:10780
-   速度: 754.20KB/s | 数据量: 4096.0KB | 总耗时: 5.98s
-[2026-11-15 05:54:43] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.38:10380
-   速度: 745.51KB/s | 数据量: 4096.0KB | 总耗时: 6.04s
-[2026-11-15 05:54:44] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.124:11240
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:45] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.39:10390
-   速度: 754.30KB/s | 数据量: 4096.0KB | 总耗时: 5.98s
-[2026-11-15 05:54:45] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.40:10400
-   速度: 774.07KB/s | 数据量: 4096.0KB | 总耗时: 5.83s
-[2026-11-15 05:54:46] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.64:10640
-   速度: 797.93KB/s | 数据量: 4096.0KB | 总耗时: 5.65s
-[2026-11-15 05:54:46] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.156:11560
-   速度: 818.29KB/s | 数据量: 4096.0KB | 总耗时: 5.51s
-[2026-11-15 05:54:46] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.111:11110
-   速度: 758.18KB/s | 数据量: 4096.0KB | 总耗时: 5.95s
-[2026-11-15 05:54:46] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.112:11120
-   速度: 761.21KB/s | 数据量: 4096.0KB | 总耗时: 5.92s
-[2026-11-15 05:54:48] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.113:11130
-   速度: 779.31KB/s | 数据量: 4096.0KB | 总耗时: 5.79s
-[2026-11-15 05:54:49] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.114:11140
-   速度: 742.30KB/s | 数据量: 4096.0KB | 总耗时: 6.06s
-[2026-11-15 05:54:49] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.115:11150
-   速度: 758.72KB/s | 数据量: 4096.0KB | 总耗时: 5.94s
-[2026-11-15 05:54:50] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.153:11530
-   速度: 778.15KB/s | 数据量: 4096.0KB | 总耗时: 5.78s
-[2026-11-15 05:54:50] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.104:11040
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:50] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.67:10670
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:51] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.218:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:52] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.68:10680
-   速度: 766.68KB/s | 数据量: 4096.0KB | 总耗时: 5.88s
-[2026-11-15 05:54:52] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.128:11280
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:52] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.132:11320
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:55] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.153:2000
-   速度: 501.93KB/s | 数据量: 3072.0KB | 总耗时: 6.66s
-[2026-11-15 05:54:56] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.168:2000
-   速度: 501.32KB/s | 数据量: 3072.0KB | 总耗时: 6.67s
-[2026-11-15 05:54:56] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.47:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:56] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.137:11370
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:54:56] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.169:2000
-   速度: 503.89KB/s | 数据量: 3072.0KB | 总耗时: 6.64s
-[2026-11-15 05:54:57] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.60:2000
-   速度: 506.23KB/s | 数据量: 3072.0KB | 总耗时: 6.60s
-[2026-11-15 05:54:57] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.151:11510
-   速度: 761.62KB/s | 数据量: 4096.0KB | 总耗时: 5.91s
-[2026-11-15 05:54:57] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.27:10270
-   速度: 818.30KB/s | 数据量: 4096.0KB | 总耗时: 5.51s
-[2026-11-15 05:54:58] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.152:11520
-   速度: 746.98KB/s | 数据量: 4096.0KB | 总耗时: 6.04s
-[2026-11-15 05:54:58] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.18:10180
-   速度: 739.55KB/s | 数据量: 4096.0KB | 总耗时: 6.05s
-[2026-11-15 05:55:01] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.20:10200
-   速度: 806.36KB/s | 数据量: 4096.0KB | 总耗时: 5.60s
-[2026-11-15 05:55:01] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.31:10310
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:01] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.44:10440
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:01] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.25:10250
-   速度: 754.04KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:55:02] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.52:10520
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:03] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.59:10590
-   速度: 515.41KB/s | 数据量: 3072.0KB | 总耗时: 6.47s
-[2026-11-15 05:55:03] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.174:11740
-   速度: 747.78KB/s | 数据量: 4096.0KB | 总耗时: 6.03s
-[2026-11-15 05:55:03] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.135:11350
-   速度: 743.66KB/s | 数据量: 4096.0KB | 总耗时: 6.06s
-[2026-11-15 05:55:04] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.175:11750
-   速度: 729.94KB/s | 数据量: 4096.0KB | 总耗时: 6.17s
-[2026-11-15 05:55:04] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.184:11840
-   速度: 763.56KB/s | 数据量: 4096.0KB | 总耗时: 5.90s
-[2026-11-15 05:55:06] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.183:11830
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:07] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.215:12150
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:07] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.20.217:12170
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:07] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.216:12160
-   速度: 802.58KB/s | 数据量: 4096.0KB | 总耗时: 5.63s
-[2026-11-15 05:55:07] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.210:12100
-   速度: 753.79KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:55:09] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.72:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:09] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.73:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.227:12270
-   速度: 506.91KB/s | 数据量: 3072.0KB | 总耗时: 6.61s
-[2026-11-15 05:55:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.20.234:12340
-   速度: 507.51KB/s | 数据量: 3072.0KB | 总耗时: 6.59s
-[2026-11-15 05:55:10] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.84:2000
-   速度: 497.56KB/s | 数据量: 3072.0KB | 总耗时: 6.73s
-[2026-11-15 05:55:13] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.180:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:13] ❌ 测速失败: http://1.192.240.71:8188/rtp/239.16.10.214:2000
-   错误: HTTPConnectionPool(host='1.192.240.71', port=8188): Read timed out. | 域名: 1.192.240.71
-[2026-11-15 05:55:13] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.95:2000
-   速度: 506.65KB/s | 数据量: 3072.0KB | 总耗时: 6.56s
-[2026-11-15 05:55:14] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.179:2000
-   速度: 508.79KB/s | 数据量: 3072.0KB | 总耗时: 6.56s
-[2026-11-15 05:55:14] ✅ 测速成功: http://1.192.240.71:8188/rtp/239.16.10.97:2000
-   速度: 502.88KB/s | 数据量: 3072.0KB | 总耗时: 6.64s
-[2026-11-15 05:55:15] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.23:8000
-   速度: 747.49KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
-[2026-11-15 05:55:16] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.159:8000
-   速度: 736.19KB/s | 数据量: 4096.0KB | 总耗时: 6.08s
-[2026-11-15 05:55:16] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.78:8000
-   速度: 634.99KB/s | 数据量: 4096.0KB | 总耗时: 6.96s
-[2026-11-15 05:55:17] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.24:8000
-   速度: 651.43KB/s | 数据量: 4096.0KB | 总耗时: 6.80s
-[2026-11-15 05:55:17] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.114:8000
-   速度: 485.48KB/s | 数据量: 3072.0KB | 总耗时: 6.82s
-[2026-11-15 05:55:21] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.104:8000
-   速度: 582.89KB/s | 数据量: 3072.0KB | 总耗时: 5.76s
-[2026-11-15 05:55:21] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.25:8000
-   速度: 385.24KB/s | 数据量: 3072.0KB | 总耗时: 8.48s
-[2026-11-15 05:55:21] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.250:8000
-   速度: 195.04KB/s | 数据量: 1024.0KB | 总耗时: 5.75s
-[2026-11-15 05:55:21] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.160:8000
-   速度: 251.76KB/s | 数据量: 2048.0KB | 总耗时: 8.63s
-[2026-11-15 05:55:23] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.251:8000
-   速度: 527.74KB/s | 数据量: 3072.0KB | 总耗时: 6.34s
-[2026-11-15 05:55:24] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.252:8000
-   速度: 508.40KB/s | 数据量: 3072.0KB | 总耗时: 6.54s
-[2026-11-15 05:55:25] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.249:8000
-   速度: 246.87KB/s | 数据量: 2048.0KB | 总耗时: 8.79s
-[2026-11-15 05:55:27] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.244:8000
-   速度: 514.75KB/s | 数据量: 3072.0KB | 总耗时: 6.47s
-[2026-11-15 05:55:28] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.242:8000
-   速度: 344.32KB/s | 数据量: 2048.0KB | 总耗时: 6.45s
-[2026-11-15 05:55:28] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.247:8000
-   速度: 473.33KB/s | 数据量: 3072.0KB | 总耗时: 6.99s
-[2026-11-15 05:55:29] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.243:8000
-   速度: 560.30KB/s | 数据量: 4096.0KB | 总耗时: 7.80s
-[2026-11-15 05:55:30] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.151:8000
-   速度: 60.75KB/s | 数据量: 1024.0KB | 总耗时: 17.35s
-[2026-11-15 05:55:31] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.67:8000
-   速度: 365.38KB/s | 数据量: 2048.0KB | 总耗时: 7.11s
-[2026-11-15 05:55:32] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.245:8000
-   速度: 468.44KB/s | 数据量: 3072.0KB | 总耗时: 7.07s
-[2026-11-15 05:55:32] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.248:8000
-   速度: 247.40KB/s | 数据量: 2048.0KB | 总耗时: 8.78s
-[2026-11-15 05:55:34] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.77:8000
-   速度: 578.77KB/s | 数据量: 3072.0KB | 总耗时: 5.81s
-[2026-11-15 05:55:35] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.246:8000
-   速度: 440.83KB/s | 数据量: 3072.0KB | 总耗时: 7.47s
-[2026-11-15 05:55:35] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.232:8000
-   速度: 160.57KB/s | 数据量: 1024.0KB | 总耗时: 6.88s
-[2026-11-15 05:55:36] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.111:8000
-   速度: 587.64KB/s | 数据量: 3072.0KB | 总耗时: 5.73s
-[2026-11-15 05:55:36] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.191:8000
-   速度: 467.22KB/s | 数据量: 3072.0KB | 总耗时: 7.09s
-[2026-11-15 05:55:36] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.22:8000
-   速度: 46.87KB/s | 数据量: 1024.0KB | 总耗时: 22.36s
-[2026-11-15 05:55:37] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.59:8000
-   速度: 45.05KB/s | 数据量: 1024.0KB | 总耗时: 23.49s
-[2026-11-15 05:55:37] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.187:8000
-   速度: 566.66KB/s | 数据量: 3072.0KB | 总耗时: 5.92s
-[2026-11-15 05:55:40] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.192:8000
-   速度: 269.12KB/s | 数据量: 2048.0KB | 总耗时: 8.10s
-[2026-11-15 05:55:40] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.80:8000
-   速度: 610.24KB/s | 数据量: 3072.0KB | 总耗时: 6.55s
-[2026-11-15 05:55:42] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.193:8000
-   速度: 645.55KB/s | 数据量: 4096.0KB | 总耗时: 6.85s
-[2026-11-15 05:55:43] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.194:8000
-   速度: 548.97KB/s | 数据量: 3072.0KB | 总耗时: 7.10s
-[2026-11-15 05:55:43] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.186:8000
-   速度: 85.16KB/s | 数据量: 1024.0KB | 总耗时: 12.54s
-[2026-11-15 05:55:44] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.233:8000
-   速度: 263.98KB/s | 数据量: 2048.0KB | 总耗时: 8.25s
-[2026-11-15 05:55:45] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.169:8000
-   速度: 263.68KB/s | 数据量: 2048.0KB | 总耗时: 8.27s
-[2026-11-15 05:55:46] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.79:8000
-   速度: 108.86KB/s | 数据量: 1024.0KB | 总耗时: 9.92s
-[2026-11-15 05:55:47] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.236:8000
-   速度: 689.16KB/s | 数据量: 4096.0KB | 总耗时: 6.45s
-[2026-11-15 05:55:47] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.175:8000
-   速度: 624.02KB/s | 数据量: 4096.0KB | 总耗时: 7.08s
-[2026-11-15 05:55:49] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.235:8000
-   速度: 89.68KB/s | 数据量: 1024.0KB | 总耗时: 11.92s
-[2026-11-15 05:55:50] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.168:8000
-   速度: 468.38KB/s | 数据量: 3072.0KB | 总耗时: 7.06s
-[2026-11-15 05:55:51] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.154:8000
-   速度: 278.09KB/s | 数据量: 2048.0KB | 总耗时: 7.86s
-[2026-11-15 05:55:53] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.152:8000
-   速度: 622.37KB/s | 数据量: 4096.0KB | 总耗时: 7.08s
-[2026-11-15 05:55:53] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.82:8000
-   速度: 640.45KB/s | 数据量: 4096.0KB | 总耗时: 6.90s
-[2026-11-15 05:55:53] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.83:8000
-   速度: 360.73KB/s | 数据量: 2048.0KB | 总耗时: 6.17s
-[2026-11-15 05:55:56] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.170:8000
-   速度: 79.46KB/s | 数据量: 1024.0KB | 总耗时: 14.39s
-[2026-11-15 05:55:57] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.84:8000
-   速度: 614.54KB/s | 数据量: 4096.0KB | 总耗时: 7.16s
-[2026-11-15 05:55:57] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.234:8000
-   速度: 51.07KB/s | 数据量: 1024.0KB | 总耗时: 20.56s
-[2026-11-15 05:55:58] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.85:8000
-   速度: 167.68KB/s | 数据量: 1024.0KB | 总耗时: 6.60s
-[2026-11-15 05:55:58] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.88:8000
-   速度: 187.03KB/s | 数据量: 2048.0KB | 总耗时: 11.45s
-[2026-11-15 05:55:59] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.74:8000
-   速度: 571.77KB/s | 数据量: 3072.0KB | 总耗时: 5.87s
-[2026-11-15 05:55:59] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.105:8000
-   速度: 557.80KB/s | 数据量: 3072.0KB | 总耗时: 6.00s
-[2026-11-15 05:56:00] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.86:8000
-   速度: 606.66KB/s | 数据量: 4096.0KB | 总耗时: 7.24s
-[2026-11-15 05:56:01] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.153:8000
-   速度: 61.88KB/s | 数据量: 1024.0KB | 总耗时: 17.06s
-[2026-11-15 05:56:02] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.87:8000
-   速度: 89.22KB/s | 数据量: 1024.0KB | 总耗时: 11.99s
-[2026-11-15 05:56:02] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.113:8000
-   速度: 595.45KB/s | 数据量: 3072.0KB | 总耗时: 5.66s
-[2026-11-15 05:56:03] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.90:8000
-   速度: 662.02KB/s | 数据量: 4096.0KB | 总耗时: 6.68s
-[2026-11-15 05:56:05] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.179:8000
-   速度: 168.93KB/s | 数据量: 1024.0KB | 总耗时: 6.56s
-[2026-11-15 05:56:06] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.93:8000
-   速度: 579.79KB/s | 数据量: 3072.0KB | 总耗时: 6.80s
-[2026-11-15 05:56:07] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.173:8000
-   速度: 652.83KB/s | 数据量: 4096.0KB | 总耗时: 6.77s
-[2026-11-15 05:56:07] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.190:8000
-   速度: 462.79KB/s | 数据量: 3072.0KB | 总耗时: 8.14s
-[2026-11-15 05:56:08] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.47:8000
-   速度: 143.05KB/s | 数据量: 1024.0KB | 总耗时: 7.65s
-[2026-11-15 05:56:10] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.196:8000
-   速度: 408.33KB/s | 数据量: 3072.0KB | 总耗时: 8.03s
-[2026-11-15 05:56:11] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.92:8000
-   速度: 134.21KB/s | 数据量: 1024.0KB | 总耗时: 8.12s
-[2026-11-15 05:56:12] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.195:8000
-   速度: 444.07KB/s | 数据量: 3072.0KB | 总耗时: 7.43s
-[2026-11-15 05:56:12] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.91:8000
-   速度: 653.32KB/s | 数据量: 4096.0KB | 总耗时: 6.76s
-[2026-11-15 05:56:13] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.112:8000
-   速度: 73.24KB/s | 数据量: 1024.0KB | 总耗时: 14.48s
-[2026-11-15 05:56:13] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.180:8000
-   速度: 695.18KB/s | 数据量: 4096.0KB | 总耗时: 6.39s
-[2026-11-15 05:56:14] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.89:8000
-   速度: 329.76KB/s | 数据量: 2048.0KB | 总耗时: 6.70s
-[2026-11-15 05:56:17] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.96:8000
-   速度: 575.52KB/s | 数据量: 3072.0KB | 总耗时: 5.84s
-[2026-11-15 05:56:18] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.98:8000
-   速度: 584.57KB/s | 数据量: 4096.0KB | 总耗时: 7.52s
-[2026-11-15 05:56:19] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.99:8000
-   速度: 706.59KB/s | 数据量: 4096.0KB | 总耗时: 6.29s
-[2026-11-15 05:56:19] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.197:8000
-   速度: 48.72KB/s | 数据量: 1024.0KB | 总耗时: 22.54s
-[2026-11-15 05:56:19] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.38:8000
-   速度: 63.09KB/s | 数据量: 1024.0KB | 总耗时: 17.10s
-[2026-11-15 05:56:19] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.101:8000
-   速度: 356.94KB/s | 数据量: 2048.0KB | 总耗时: 6.24s
-[2026-11-15 05:56:21] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.94:8000
-   速度: 421.98KB/s | 数据量: 3072.0KB | 总耗时: 7.78s
-[2026-11-15 05:56:23] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.117:8000
-   速度: 695.04KB/s | 数据量: 4096.0KB | 总耗时: 6.39s
-[2026-11-15 05:56:23] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.143:8000
-   速度: 404.70KB/s | 数据量: 2048.0KB | 总耗时: 5.57s
-[2026-11-15 05:56:25] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.144:8000
-   速度: 371.57KB/s | 数据量: 2048.0KB | 总耗时: 6.01s
-[2026-11-15 05:56:25] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.95:8000
-   速度: 82.84KB/s | 数据量: 1024.0KB | 总耗时: 13.11s
-[2026-11-15 05:56:26] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.66:8000
-   速度: 168.42KB/s | 数据量: 1024.0KB | 总耗时: 6.59s
-[2026-11-15 05:56:26] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.115:8000
-   速度: 61.35KB/s | 数据量: 1024.0KB | 总耗时: 18.19s
-[2026-11-15 05:56:27] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.139:8000
-   速度: 284.70KB/s | 数据量: 2048.0KB | 总耗时: 7.69s
-[2026-11-15 05:56:28] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.140:8000
-   速度: 148.83KB/s | 数据量: 1024.0KB | 总耗时: 7.37s
-[2026-11-15 05:56:29] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.103:8000
-   速度: 68.51KB/s | 数据量: 1024.0KB | 总耗时: 15.45s
-[2026-11-15 05:56:29] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.110:8000
-   速度: 553.76KB/s | 数据量: 3072.0KB | 总耗时: 6.05s
-[2026-11-15 05:56:30] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.116:8000
-   速度: 644.38KB/s | 数据量: 4096.0KB | 总耗时: 6.86s
-[2026-11-15 05:56:31] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.189:8000
-   速度: 697.26KB/s | 数据量: 4096.0KB | 总耗时: 6.38s
-[2026-11-15 05:56:31] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.141:8000
-   速度: 179.24KB/s | 数据量: 2048.0KB | 总耗时: 11.92s
-[2026-11-15 05:56:31] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.188:8000
-   速度: 369.57KB/s | 数据量: 2048.0KB | 总耗时: 6.05s
-[2026-11-15 05:56:31] ✅ 测速成功: http://173.208.234.146/live/cctv1.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-11-15 05:56:32] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:32] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.182:8000
-   速度: 167.23KB/s | 数据量: 1024.0KB | 总耗时: 6.63s
-[2026-11-15 05:56:33] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+测速日志 2026-11-15 12:10:17
+[2026-11-15 12:10:20] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-11-15 12:10:20] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-11-15 12:10:20] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
    速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:33] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.183:8000
-   速度: 166.79KB/s | 数据量: 1024.0KB | 总耗时: 6.63s
-[2026-11-15 05:56:33] ✅ 测速成功: http://173.208.234.146/live/cctv4.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-15 05:56:33] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.185:8000
-   速度: 203.42KB/s | 数据量: 1024.0KB | 总耗时: 5.53s
-[2026-11-15 05:56:34] ✅ 测速成功: http://112.85.93.3:7788/608807420
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.75s
-[2026-11-15 05:56:34] ✅ 测速成功: http://112.85.93.3:7788/631780532
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.00s
-[2026-11-15 05:56:34] ✅ 测速成功: http://112.85.93.3:7788/631780421
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.34s
-[2026-11-15 05:56:34] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+[2026-11-15 12:10:20] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-11-15 12:10:20] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-11-15 12:10:20] ✅ 测速成功: http://173.208.234.146/live/cctv4.m3u8
+   速度: 175.78KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-11-15 12:10:21] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-11-15 12:10:21] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-11-15 12:10:22] ✅ 测速成功: http://182.115.48.79:20002/608807419
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.52s
+[2026-11-15 12:10:22] ✅ 测速成功: http://182.115.48.79:20002/631780421
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.52s
+[2026-11-15 12:10:22] ✅ 测速成功: http://112.85.93.3:7788/608807416
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.98s
+[2026-11-15 12:10:22] ✅ 测速成功: http://182.115.48.79:20002/631780532
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.64s
+[2026-11-15 12:10:22] ✅ 测速成功: http://112.85.93.3:7788/608807419
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.15s
+[2026-11-15 12:10:22] ✅ 测速成功: http://112.85.93.3:7788/631780421
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.17s
+[2026-11-15 12:10:22] ✅ 测速成功: http://182.115.48.79:20002/608807420
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.67s
+[2026-11-15 12:10:23] ✅ 测速成功: http://112.85.93.3:7788/608807420
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.72s
+[2026-11-15 12:10:23] ✅ 测速成功: http://112.85.93.3:7788/631780532
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.75s
+[2026-11-15 12:10:23] ✅ 测速成功: http://173.208.234.146/live/cctv6.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.16s
+[2026-11-15 12:10:23] ✅ 测速成功: http://182.115.48.79:20002/624878271
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.81s
+[2026-11-15 12:10:23] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-11-15 05:56:34] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-11-15 05:56:34] ✅ 测速成功: http://173.208.234.146/live/cctv5p.m3u8
-   速度: 206.05KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-15 05:56:34] ✅ 测速成功: http://173.208.234.146/live/cctv6.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-15 05:56:35] ✅ 测速成功: http://112.85.93.3:7788/608807419
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:35] ❌ 测速失败: http://39.77.160.250:4002/rtp/239.253.254.100:8000
-   错误: HTTPConnectionPool(host='39.77.160.250', port=4002): Read timed out. | 域名: 39.77.160.250
-[2026-11-15 05:56:35] ✅ 测速成功: http://112.85.93.3:7788/608807416
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:35] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-11-15 05:56:35] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:36] ✅ 测速成功: http://112.85.93.3:7788/641886773
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.41s
-[2026-11-15 05:56:36] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:36] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.177:8000
-   速度: 873.67KB/s | 数据量: 5120.0KB | 总耗时: 6.37s
-[2026-11-15 05:56:36] ✅ 测速成功: http://173.208.234.146/live/cctv9.m3u8
-   速度: 208.98KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-11-15 05:56:36] ✅ 测速成功: http://112.85.93.3:7788/673168121
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:36] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.184:8000
-   速度: 121.46KB/s | 数据量: 1024.0KB | 总耗时: 8.94s
-[2026-11-15 05:56:36] ✅ 测速成功: http://112.85.93.3:7788/624878356
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:36] ✅ 测速成功: http://173.208.234.146/live/cctv10.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-11-15 05:56:36] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:36] ✅ 测速成功: http://112.85.93.3:7788/673168140
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:36] ✅ 测速成功: http://173.208.234.146/live/cctv12.m3u8
+[2026-11-15 12:10:23] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-11-15 12:10:23] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-11-15 12:10:23] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-11-15 12:10:23] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-11-15 12:10:24] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-11-15 12:10:24] ✅ 测速成功: http://182.115.48.79:20002/608807416
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.33s
+[2026-11-15 12:10:24] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 1.24s
+[2026-11-15 12:10:24] ✅ 测速成功: http://182.115.48.79:20002/641886773
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:24] ✅ 测速成功: http://182.115.48.79:20002/624878396
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.41s
+[2026-11-15 12:10:24] ✅ 测速成功: http://112.85.93.3:7788/641886773
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.44s
+[2026-11-15 12:10:24] ✅ 测速成功: http://112.85.93.3:7788/673168121
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:24] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-11-15 12:10:24] ✅ 测速成功: http://182.115.48.79:20002/673168121
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.39s
+[2026-11-15 12:10:24] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-11-15 12:10:24] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-11-15 12:10:24] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-11-15 12:10:25] ✅ 测速成功: http://112.85.93.3:7788/624878356
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.47s
+[2026-11-15 12:10:25] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-11-15 12:10:25] ✅ 测速成功: http://182.115.48.79:20002/624878356
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:25] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.57s
+[2026-11-15 12:10:25] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-11-15 12:10:25] ✅ 测速成功: http://36.24.254.195:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-11-15 12:10:25] ✅ 测速成功: http://112.85.93.3:7788/673168140
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.38s
+[2026-11-15 12:10:25] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-11-15 12:10:25] ✅ 测速成功: http://173.208.234.146/live/cctv13.m3u8
    速度: 211.91KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-15 05:56:36] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-11-15 05:56:36] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-15 05:56:36] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-15 05:56:36] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.142:8000
-   速度: 890.69KB/s | 数据量: 5120.0KB | 总耗时: 6.26s
-[2026-11-15 05:56:37] ✅ 测速成功: http://39.77.160.250:4002/rtp/239.253.254.253:8000
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.50s
-[2026-11-15 05:56:37] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-15 05:56:37] ✅ 测速成功: http://121.9.14.195:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2026-11-15 05:56:37] ✅ 测速成功: http://173.208.234.146/live/cctv14.m3u8
-   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-11-15 05:56:37] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:37] ✅ 测速成功: http://112.85.93.3:7788/624878405
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.37s
-[2026-11-15 05:56:37] ✅ 测速成功: http://play.kankanlive.com/live/1698423397390920.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 2.07s
-[2026-11-15 05:56:37] ✅ 测速成功: http://112.85.93.3:7788/673168185
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.39s
-[2026-11-15 05:56:37] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-15 05:56:37] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-11-15 05:56:38] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-11-15 12:10:25] ✅ 测速成功: http://182.115.48.79:20002/673168140
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.51s
+[2026-11-15 12:10:26] ✅ 测速成功: http://112.85.93.3:7788/624878405
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.40s
+[2026-11-15 12:10:26] ✅ 测速成功: http://182.115.48.79:20002/624878405
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.46s
+[2026-11-15 12:10:26] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-11-15 12:10:26] ✅ 测速成功: http://218.13.139.26:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 1.90s
+[2026-11-15 12:10:26] ✅ 测速成功: http://182.115.48.79:20002/673168185
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.36s
+[2026-11-15 12:10:26] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-11-15 12:10:26] ✅ 测速成功: http://112.85.93.3:7788/673168185
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.54s
+[2026-11-15 12:10:26] ✅ 测速成功: http://112.85.93.3:7788/608807423
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.36s
+[2026-11-15 12:10:27] ✅ 测速成功: http://182.115.48.79:20002/608807423
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.38s
+[2026-11-15 12:10:27] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-11-15 12:10:27] ✅ 测速成功: http://182.115.48.79:20002/673168256
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.39s
+[2026-11-15 12:10:27] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-11-15 12:10:27] ✅ 测速成功: http://112.85.93.3:7788/673168256
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.47s
+[2026-11-15 12:10:27] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.57s
+[2026-11-15 12:10:27] ✅ 测速成功: http://112.85.93.3:7788/667987558
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.35s
+[2026-11-15 12:10:27] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-11-15 12:10:27] ✅ 测速成功: http://36.24.254.207:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-11-15 12:10:28] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-11-15 12:10:28] ✅ 测速成功: http://182.115.48.79:20002/667987558
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.36s
+[2026-11-15 12:10:28] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-11-15 12:10:28] ✅ 测速成功: http://112.85.93.3:7788/624878440
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
+[2026-11-15 12:10:28] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
    速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.54s
-[2026-11-15 05:56:38] ✅ 测速成功: http://49.70.189.149:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-11-15 05:56:38] ✅ 测速成功: http://112.85.93.3:7788/608807423
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.40s
-[2026-11-15 05:56:38] ✅ 测速成功: http://112.85.93.3:7788/673168256
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:38] ✅ 测速成功: http://112.85.93.3:7788/667987558
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.43s
-[2026-11-15 05:56:38] ✅ 测速成功: http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-15 05:56:38] ✅ 测速成功: http://112.85.93.3:7788/624878440
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.42s
-[2026-11-15 05:56:38] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-11-15 12:10:28] ✅ 测速成功: http://182.115.48.79:20002/624878440
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.34s
+[2026-11-15 12:10:28] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58619.ts
+   速度: 18.55KB/s | 数据量: 0.0KB | 总耗时: 0.48s
+[2026-11-15 12:10:28] ✅ 测速成功: http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
    速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-11-15 05:56:38] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-15 05:56:38] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-11-15 05:56:38] ✅ 测速成功: http://112.85.93.3:7788/673168223
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:39] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-11-15 05:56:39] ✅ 测速成功: http://112.85.93.3:7788/849116810
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.50s
-[2026-11-15 05:56:39] ✅ 测速成功: http://112.85.93.3:7788/952383261
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:39] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-11-15 12:10:28] ✅ 测速成功: http://112.85.93.3:7788/673168223
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.42s
+[2026-11-15 12:10:28] ✅ 测速成功: http://218.13.139.26:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 2.94s
+[2026-11-15 12:10:29] ✅ 测速成功: http://182.115.48.79:20002/673168223
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.38s
+[2026-11-15 12:10:29] ✅ 测速成功: http://112.85.93.3:7788/952383261
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.41s
+[2026-11-15 12:10:29] ✅ 测速成功: http://182.115.48.79:20002/952383261
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.53s
+[2026-11-15 12:10:29] ✅ 测速成功: http://112.85.93.3:7788/630287636
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.36s
+[2026-11-15 12:10:30] ✅ 测速成功: http://182.115.48.79:20002/630287636
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.45s
+[2026-11-15 12:10:30] ✅ 测速成功: http://112.85.93.3:7788/956923145
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:30] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-11-15 12:10:30] ✅ 测速成功: http://182.115.48.79:20002/956923145
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.38s
+[2026-11-15 12:10:30] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 3.95s
+[2026-11-15 12:10:30] ✅ 测速成功: http://182.115.48.79:20002/738910914
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.35s
+[2026-11-15 12:10:30] ✅ 测速成功: http://182.115.48.79:20002/651632648
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.32s
+[2026-11-15 12:10:30] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
    速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-11-15 05:56:39] ✅ 测速成功: http://112.85.93.3:7788/630287636
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.34s
-[2026-11-15 05:56:39] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-11-15 05:56:39] ✅ 测速成功: http://112.85.93.3:7788/738910914
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:39] ✅ 测速成功: http://112.85.93.3:7788/956923145
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-11-15 05:56:39] ✅ 测速成功: http://112.85.93.3:7788/651632648
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:40] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.19s
-[2026-11-15 05:56:40] ✅ 测速成功: http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
-   速度: 543.95KB/s | 数据量: 0.5KB | 总耗时: 1.08s
-[2026-11-15 05:56:40] ✅ 测速成功: http://112.85.93.3:7788/608831231
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:40] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-11-15 05:56:40] ✅ 测速成功: http://112.85.93.3:7788/947472496
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:41] ✅ 测速成功: http://112.85.93.3:7788/962042070
+[2026-11-15 12:10:31] ✅ 测速成功: http://112.85.93.3:7788/651632648
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.35s
+[2026-11-15 12:10:31] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.16s
+[2026-11-15 12:10:31] ✅ 测速成功: http://173.208.234.146/live/hnws.m3u8
+   速度: 206.05KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-11-15 12:10:31] ✅ 测速成功: http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
+   速度: 543.95KB/s | 数据量: 0.5KB | 总耗时: 1.06s
+[2026-11-15 12:10:31] ✅ 测速成功: http://112.85.93.3:7788/608831231
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.34s
+[2026-11-15 12:10:31] ✅ 测速成功: http://182.115.48.79:20002/608831231
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.44s
+[2026-11-15 12:10:31] ✅ 测速成功: http://182.115.48.79:20002/947472496
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.38s
+[2026-11-15 12:10:31] ✅ 测速成功: http://182.115.48.79:20002/962042070
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.45s
+[2026-11-15 12:10:31] ✅ 测速成功: http://112.85.93.3:7788/962042070
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.44s
+[2026-11-15 12:10:32] ✅ 测速成功: http://112.85.93.3:7788/947472502
    速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:41] ✅ 测速成功: http://112.85.93.3:7788/947472502
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:41] ✅ 测速成功: http://112.85.93.3:7788/790187291
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:41] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-11-15 05:56:41] ✅ 测速成功: http://112.85.93.3:7788/947472500
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:41] ✅ 测速成功: http://112.85.93.3:7788/623899368
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:41] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+[2026-11-15 12:10:32] ✅ 测速成功: http://182.115.48.79:20002/790187291
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:32] ✅ 测速成功: http://182.115.48.79:20002/947472502
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.49s
+[2026-11-15 12:10:32] ✅ 测速成功: http://112.85.93.3:7788/790187291
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.45s
+[2026-11-15 12:10:33] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-11-15 12:10:33] ✅ 测速成功: http://182.115.48.79:20002/947472500
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.49s
+[2026-11-15 12:10:33] ✅ 测速成功: http://112.85.93.3:7788/947472500
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.38s
+[2026-11-15 12:10:33] ✅ 测速成功: http://124.228.160.40:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-11-15 12:10:33] ✅ 测速成功: http://182.115.48.79:20002/623899368
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:33] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
    速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.47s
-[2026-11-15 05:56:41] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.50s
-[2026-11-15 05:56:41] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.47s
-[2026-11-15 05:56:41] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.46s
-[2026-11-15 05:56:41] ✅ 测速成功: http://112.85.93.3:7788/783847495
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.40s
-[2026-11-15 05:56:42] ✅ 测速成功: http://112.85.93.3:7788/630291707
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.37s
-[2026-11-15 05:56:42] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.52s
-[2026-11-15 05:56:42] ✅ 测速成功: http://112.85.93.3:7788/738910535
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-11-15 05:56:42] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+[2026-11-15 12:10:33] ✅ 测速成功: http://175.24.134.198:1234/956904896
+   速度: 7309.57KB/s | 数据量: 7.3KB | 总耗时: 0.73s
+[2026-11-15 12:10:34] ✅ 测速成功: http://182.115.48.79:20002/783847495
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.44s
+[2026-11-15 12:10:34] ✅ 测速成功: http://112.85.93.3:7788/783847495
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:34] ✅ 测速成功: http://182.115.48.79:20002/630291707
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.34s
+[2026-11-15 12:10:34] ✅ 测速成功: http://112.85.93.3:7788/623899368
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.46s
+[2026-11-15 12:10:34] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
    速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.48s
-[2026-11-15 05:56:42] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.47s
-[2026-11-15 05:56:42] ✅ 测速成功: http://112.85.93.3:7788/947472506
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.42s
-[2026-11-15 05:56:42] ✅ 测速成功: http://112.85.93.3:7788/609154353
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-11-15 05:56:43] ✅ 测速成功: http://112.85.93.3:7788/961023778
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.38s
-[2026-11-15 05:56:43] ✅ 测速成功: http://112.85.93.3:7788/738910838
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.37s
-[2026-11-15 05:56:43] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+[2026-11-15 12:10:34] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58618.ts
+   速度: 2098.85KB/s | 数据量: 11597.9KB | 总耗时: 6.59s
+[2026-11-15 12:10:34] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
    速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.50s
-[2026-11-15 05:56:43] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.51s
-[2026-11-15 05:56:43] ✅ 测速成功: http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
-   速度: 315.43KB/s | 数据量: 0.3KB | 总耗时: 1.01s
-[2026-11-15 05:56:43] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.75s
-[2026-11-15 05:56:43] ✅ 测速成功: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58619.ts
-   速度: 2605.98KB/s | 数据量: 14437.0KB | 总耗时: 6.09s
-[2026-11-15 05:56:44] ✅ 测速成功: http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-   速度: 497.07KB/s | 数据量: 0.5KB | 总耗时: 2.98s
-[2026-11-15 05:56:44] ✅ 测速成功: http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269823.ts
-   速度: 764.08KB/s | 数据量: 4096.0KB | 总耗时: 5.87s
+[2026-11-15 12:10:34] ✅ 测速成功: https://live.gstv.com.cn/live/oxfhvoy.m3u8
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 4.57s
+[2026-11-15 12:10:35] ✅ 测速成功: http://112.85.93.3:7788/738910535
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.35s
+[2026-11-15 12:10:35] ✅ 测速成功: http://182.115.48.79:20002/738910535
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.36s
+[2026-11-15 12:10:35] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 2.31s
+[2026-11-15 12:10:35] ✅ 测速成功: http://112.85.93.3:7788/630291707
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 2.49s
+[2026-11-15 12:10:35] ✅ 测速成功: http://112.85.93.3:7788/947472506
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.31s
+[2026-11-15 12:10:35] ✅ 测速成功: http://182.115.48.79:20002/947472506
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.48s
+[2026-11-15 12:10:35] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.52s
+[2026-11-15 12:10:36] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.49s
+[2026-11-15 12:10:36] ✅ 测速成功: http://112.85.93.3:7788/609154353
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.47s
+[2026-11-15 12:10:36] ✅ 测速成功: http://182.115.48.79:20002/609154353
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.37s
+[2026-11-15 12:10:36] ✅ 测速成功: http://112.85.93.3:7788/961023778
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.34s
+[2026-11-15 12:10:36] ✅ 测速成功: http://182.115.48.79:20002/961023778
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.39s
+[2026-11-15 12:10:36] ✅ 测速成功: http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.49s
+[2026-11-15 12:10:36] ✅ 测速成功: http://182.115.48.79:20002/738910838
+   速度: 654.30KB/s | 数据量: 0.7KB | 总耗时: 1.32s
+[2026-11-15 12:10:36] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.72s
+[2026-11-15 12:10:36] ✅ 测速成功: http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
+   速度: 315.43KB/s | 数据量: 0.3KB | 总耗时: 1.02s
+[2026-11-15 12:10:36] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 1.24s
+[2026-11-15 12:10:37] ✅ 测速成功: http://222.71.55.147:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 1.32s
+[2026-11-15 12:10:40] ❌ 测速失败: http://112.85.93.3:7788/738910838
+   错误: HTTPConnectionPool(host='112.85.93.3', port=7788): Read timed out. (read timeout=5) | 域名: 112.85.93.3
