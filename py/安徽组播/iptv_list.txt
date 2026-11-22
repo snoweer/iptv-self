@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-11-22 10:46:48,url
+2026-11-22 21:56:18,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -9,4 +9,4 @@
 其他频道,#genre#:
 
 
-Access to proxy rules is forbidden on this hostname: gh-proxy.com
+404: Not Found
