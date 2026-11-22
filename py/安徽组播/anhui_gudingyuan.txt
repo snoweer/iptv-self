@@ -1,1 +1,1 @@
-404: Not Found
+Access to proxy rules is forbidden on this hostname: gh-proxy.com
